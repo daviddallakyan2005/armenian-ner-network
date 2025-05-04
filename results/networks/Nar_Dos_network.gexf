@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Գրիգորը" label="Գրիգորը" />
+      <node id="Հարունյանի" label="Հարունյանի" />
+      <node id="Դարիա Կիրիլովնայի" label="Դարիա Կիրիլովնայի" />
+      <node id="ՊԵՏՐՈՎ" label="ՊԵՏՐՈՎ" />
+      <node id="Սեյրանյանից" label="Սեյրանյանից" />
+      <node id="Արմենակն" label="Արմենակն" />
+      <node id="Նունե" label="Նունե" />
+      <node id="Աղա Գրիգոր Մոսեիչի" label="Աղա Գրիգոր Մոսեիչի" />
+      <node id="Նորատի" label="Նորատի" />
+      <node id="Ղայիմ" label="Ղայիմ" />
+      <node id="Գրիգորին" label="Գրիգորին" />
+      <node id="Հոիփսիմե" label="Հոիփսիմե" />
+      <node id="Հարունյաններին" label="Հարունյաններին" />
+      <node id="Արշակին" label="Արշակին" />
+      <node id="Արմենակը" label="Արմենակը" />
+      <node id="Նունեն" label="Նունեն" />
+      <node id="Մելիքյանից" label="Մելիքյանից" />
+      <node id="Մելիքյանի" label="Մելիքյանի" />
+      <node id="Արա խիղճը" label="Արա խիղճը" />
+      <node id="Սաքո" label="Սաքո" />
+      <node id="Ստեփաննոսն" label="Ստեփաննոսն" />
+      <node id="Գարեգինին" label="Գարեգինին" />
+      <node id="Պետրովին" label="Պետրովին" />
+      <node id="Իշխանուհի Մելիքյանը" label="Իշխանուհի Մելիքյանը" />
+      <node id="Բախշոյին" label="Բախշոյին" />
+      <node id="Իզուր" label="Իզուր" />
+      <node id="Պետրովի" label="Պետրովի" />
+      <node id="աղա Գրիգոր Մոսեիչը" label="աղա Գրիգոր Մոսեիչը" />
+      <node id="Հարությանը" label="Հարությանը" />
+      <node id="Բարսեղը" label="Բարսեղը" />
+      <node id="Հայկանուշի" label="Հայկանուշի" />
+      <node id="Պետրոսը" label="Պետրոսը" />
+      <node id="Գրիգոր Սեյրանյանը" label="Գրիգոր Սեյրանյանը" />
+      <node id="Հարունյանների" label="Հարունյանների" />
+      <node id="Գարեգինի" label="Գարեգինի" />
+      <node id="աղա Գրիգոր Մոսեիչին" label="աղա Գրիգոր Մոսեիչին" />
+      <node id="Թոմաս Գասպարիչն" label="Թոմաս Գասպարիչն" />
+      <node id="Պետրովը" label="Պետրովը" />
+      <node id="Նունեին" label="Նունեին" />
+      <node id="Սաքոյին" label="Սաքոյին" />
+      <node id="Իսկուհին" label="Իսկուհին" />
+      <node id="Փառանձեմ" label="Փառանձեմ" />
+      <node id="Սոֆիա Մելիքյանը" label="Սոֆիա Մելիքյանը" />
+      <node id="Օրիորդը" label="Օրիորդը" />
+      <node id="Գարեգին" label="Գարեգին" />
+      <node id="Գրիգորի" label="Գրիգորի" />
+      <node id="Սեյրանյանի" label="Սեյրանյանի" />
+      <node id="Գարեգինը" label="Գարեգինը" />
+      <node id="Սաքոն" label="Սաքոն" />
+      <node id="Աննա" label="Աննա" />
+      <node id="Փառանձեմին" label="Փառանձեմին" />
+      <node id="Հարունյանները" label="Հարունյանները" />
+      <node id="Աստված" label="Աստված" />
+      <node id="Հռիփսիմե" label="Հռիփսիմե" />
+      <node id="Մելիքյանր" label="Մելիքյանր" />
+      <node id="Արմենակից" label="Արմենակից" />
+      <node id="Ախ" label="Ախ" />
+      <node id="Հորս" label="Հորս" />
+      <node id="Հայկանուշը" label="Հայկանուշը" />
+      <node id="Աննա Սարոյան" label="Աննա Սարոյան" />
+      <node id="Միքայելյան" label="Միքայելյան" />
+      <node id="Սեյրանյանին" label="Սեյրանյանին" />
+      <node id="Հարունյանը" label="Հարունյանը" />
+      <node id="Մելիքյանը" label="Մելիքյանը" />
+      <node id="Գրիգոր Մոսեիչի" label="Գրիգոր Մոսեիչի" />
+      <node id="Գուշակությունս" label="Գուշակությունս" />
+      <node id="Հարունյաններն" label="Հարունյաններն" />
+      <node id="Գայանեի" label="Գայանեի" />
+      <node id="Հարունյանին" label="Հարունյանին" />
+      <node id="Տիկին" label="Տիկին" />
+      <node id="Բարսեղ" label="Բարսեղ" />
+      <node id="ՍՈՖԻԱ ՄԵԼԻՔՅԱՆ" label="ՍՈՖԻԱ ՄԵԼԻՔՅԱՆ" />
+      <node id="ԵՐԵԿՈՅԱՆ" label="ԵՐԵԿՈՅԱՆ" />
+      <node id="Փառանձեմը" label="Փառանձեմը" />
+      <node id="Թոմաս Գասպարիչը" label="Թոմաս Գասպարիչը" />
+      <node id="Ստեփաննոսը" label="Ստեփաննոսը" />
+      <node id="Գրիգոր" label="Գրիգոր" />
+      <node id="Անգին" label="Անգին" />
+      <node id="Սոֆիան" label="Սոֆիան" />
+      <node id="Դարիա Կիրիլովնան" label="Դարիա Կիրիլովնան" />
+      <node id="Հարունյան" label="Հարունյան" />
+      <node id="Սոֆիա" label="Սոֆիա" />
+      <node id="Պետրովն" label="Պետրովն" />
+      <node id="Սոֆիա Մելիքյանի" label="Սոֆիա Մելիքյանի" />
+      <node id="աղա Գրիգոր Մոսեիչ" label="աղա Գրիգոր Մոսեիչ" />
+      <node id="Սեյրանյանը" label="Սեյրանյանը" />
+      <node id="Արմենակ" label="Արմենակ" />
+      <node id="Նունեի" label="Նունեի" />
+      <node id="աղա Գրիգոր Մոսեիչի" label="աղա Գրիգոր Մոսեիչի" />
+      <node id="Վասիլի Պետրովիչ" label="Վասիլի Պետրովիչ" />
+      <node id="Աղա Գրիգոր Մոսեիչը" label="Աղա Գրիգոր Մոսեիչը" />
+      <node id="Թամամչյանի" label="Թամամչյանի" />
+      <node id="Հարունյանն" label="Հարունյանն" />
+      <node id="ՀԱՐՈԻՆՅԱՆ" label="ՀԱՐՈԻՆՅԱՆ" />
+      <node id="Պետրոս" label="Պետրոս" />
+      <node id="Գևորգ" label="Գևորգ" />
+      <node id="Նունեից" label="Նունեից" />
+    </nodes>
+    <edges>
+      <edge source="Գրիգորը" target="Գրիգորի" id="0" weight="2" />
+      <edge source="Գրիգորը" target="Գրիգորին" id="1" weight="1" />
+      <edge source="Գրիգորը" target="Հռիփսիմե" id="2" weight="2" />
+      <edge source="Գրիգորը" target="Հորս" id="3" weight="1" />
+      <edge source="Հարունյանի" target="Արմենակ" id="4" weight="1" />
+      <edge source="Հարունյանի" target="Արմենակն" id="5" weight="1" />
+      <edge source="Հարունյանի" target="Հարունյանը" id="6" weight="2" />
+      <edge source="Հարունյանի" target="Նունե" id="7" weight="1" />
+      <edge source="Հարունյանի" target="Սոֆիա" id="8" weight="2" />
+      <edge source="Հարունյանի" target="Ստեփաննոսը" id="9" weight="1" />
+      <edge source="Հարունյանի" target="Ստեփաննոսն" id="10" weight="1" />
+      <edge source="Հարունյանի" target="Հարունյանն" id="11" weight="1" />
+      <edge source="Հարունյանի" target="Մելիքյանից" id="12" weight="1" />
+      <edge source="Դարիա Կիրիլովնայի" target="Բարսեղը" id="13" weight="1" />
+      <edge source="Դարիա Կիրիլովնայի" target="Գրիգոր Մոսեիչի" id="14" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Արմենակը" id="15" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="ՀԱՐՈԻՆՅԱՆ" id="16" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Հարությանը" id="17" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Հարունյանը" id="18" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Հարունյանները" id="19" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Պետրովը" id="20" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Պետրովի" id="21" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Պետրովին" id="22" weight="1" />
+      <edge source="ՊԵՏՐՈՎ" target="Պետրովն" id="23" weight="1" />
+      <edge source="Սեյրանյանից" target="Գրիգոր Սեյրանյանը" id="24" weight="1" />
+      <edge source="Սեյրանյանից" target="Նունեի" id="25" weight="1" />
+      <edge source="Սեյրանյանից" target="Նունեից" id="26" weight="1" />
+      <edge source="Սեյրանյանից" target="Նունեն" id="27" weight="1" />
+      <edge source="Սեյրանյանից" target="Սեյրանյանը" id="28" weight="1" />
+      <edge source="Սեյրանյանից" target="Սեյրանյանի" id="29" weight="1" />
+      <edge source="Սեյրանյանից" target="Սեյրանյանին" id="30" weight="1" />
+      <edge source="Արմենակն" target="Արմենակ" id="31" weight="1" />
+      <edge source="Արմենակն" target="Հարունյանը" id="32" weight="1" />
+      <edge source="Արմենակն" target="Նունե" id="33" weight="1" />
+      <edge source="Արմենակն" target="Սոֆիա" id="34" weight="1" />
+      <edge source="Արմենակն" target="Ստեփաննոսը" id="35" weight="1" />
+      <edge source="Արմենակն" target="Ստեփաննոսն" id="36" weight="1" />
+      <edge source="Նունե" target="Ախ" id="37" weight="1" />
+      <edge source="Նունե" target="Իշխանուհի Մելիքյանը" id="38" weight="1" />
+      <edge source="Նունե" target="Հարունյանը" id="39" weight="2" />
+      <edge source="Նունե" target="Հարունյանին" id="40" weight="1" />
+      <edge source="Նունե" target="Հարունյանների" id="41" weight="1" />
+      <edge source="Նունե" target="Մելիքյանը" id="42" weight="1" />
+      <edge source="Նունե" target="Սոֆիա" id="43" weight="2" />
+      <edge source="Նունե" target="Արմենակ" id="44" weight="1" />
+      <edge source="Նունե" target="Ստեփաննոսը" id="45" weight="1" />
+      <edge source="Նունե" target="Ստեփաննոսն" id="46" weight="1" />
+      <edge source="Նունե" target="Նունեի" id="47" weight="2" />
+      <edge source="Նունե" target="Նունեին" id="48" weight="1" />
+      <edge source="Նունե" target="Սեյրանյանը" id="49" weight="2" />
+      <edge source="Նունե" target="Սեյրանյանի" id="50" weight="1" />
+      <edge source="Նունե" target="Սեյրանյանին" id="51" weight="1" />
+      <edge source="Նունե" target="Օրիորդը" id="52" weight="1" />
+      <edge source="Նունե" target="Գրիգոր" id="53" weight="1" />
+      <edge source="Նունե" target="Նունեն" id="54" weight="1" />
+      <edge source="Աղա Գրիգոր Մոսեիչի" target="Գայանեի" id="55" weight="1" />
+      <edge source="Աղա Գրիգոր Մոսեիչի" target="Գարեգին" id="56" weight="1" />
+      <edge source="Աղա Գրիգոր Մոսեիչի" target="Գարեգինը" id="57" weight="1" />
+      <edge source="Աղա Գրիգոր Մոսեիչի" target="Գարեգինի" id="58" weight="1" />
+      <edge source="Աղա Գրիգոր Մոսեիչի" target="Իսկուհին" id="59" weight="1" />
+      <edge source="Աղա Գրիգոր Մոսեիչի" target="աղա Գրիգոր Մոսեիչի" id="60" weight="1" />
+      <edge source="Ղայիմ" target="Աստված" id="61" weight="1" />
+      <edge source="Ղայիմ" target="Սաքո" id="62" weight="1" />
+      <edge source="Ղայիմ" target="Սաքոյին" id="63" weight="1" />
+      <edge source="Ղայիմ" target="Սաքոն" id="64" weight="1" />
+      <edge source="Գրիգորին" target="Գրիգորի" id="65" weight="1" />
+      <edge source="Գրիգորին" target="Հռիփսիմե" id="66" weight="1" />
+      <edge source="Հարունյաններին" target="Արմենակից" id="67" weight="1" />
+      <edge source="Հարունյաններին" target="ԵՐԵԿՈՅԱՆ" id="68" weight="1" />
+      <edge source="Հարունյաններին" target="Հարունյաններն" id="69" weight="1" />
+      <edge source="Հարունյաններին" target="Միքայելյան" id="70" weight="1" />
+      <edge source="Արշակին" target="Գարեգինին" id="71" weight="1" />
+      <edge source="Արշակին" target="Գրիգորի" id="72" weight="1" />
+      <edge source="Արշակին" target="Հռիփսիմե" id="73" weight="1" />
+      <edge source="Արմենակը" target="ՀԱՐՈԻՆՅԱՆ" id="74" weight="1" />
+      <edge source="Արմենակը" target="Հարությանը" id="75" weight="1" />
+      <edge source="Արմենակը" target="Հարունյանը" id="76" weight="1" />
+      <edge source="Արմենակը" target="Հարունյանները" id="77" weight="1" />
+      <edge source="Արմենակը" target="Պետրովը" id="78" weight="1" />
+      <edge source="Արմենակը" target="Պետրովի" id="79" weight="1" />
+      <edge source="Արմենակը" target="Պետրովին" id="80" weight="1" />
+      <edge source="Արմենակը" target="Պետրովն" id="81" weight="1" />
+      <edge source="Արմենակը" target="Արա խիղճը" id="82" weight="1" />
+      <edge source="Արմենակը" target="Հայկանուշը" id="83" weight="1" />
+      <edge source="Արմենակը" target="Հարունյանն" id="84" weight="1" />
+      <edge source="Արմենակը" target="Հարունյաններն" id="85" weight="1" />
+      <edge source="Արմենակը" target="Մելիքյանի" id="86" weight="1" />
+      <edge source="Նունեն" target="Գրիգոր Սեյրանյանը" id="87" weight="1" />
+      <edge source="Նունեն" target="Նունեի" id="88" weight="2" />
+      <edge source="Նունեն" target="Նունեից" id="89" weight="1" />
+      <edge source="Նունեն" target="Սեյրանյանը" id="90" weight="2" />
+      <edge source="Նունեն" target="Սեյրանյանի" id="91" weight="1" />
+      <edge source="Նունեն" target="Սեյրանյանին" id="92" weight="1" />
+      <edge source="Նունեն" target="Գրիգոր" id="93" weight="1" />
+      <edge source="Մելիքյանից" target="Հարունյանը" id="94" weight="1" />
+      <edge source="Մելիքյանից" target="Հարունյանն" id="95" weight="1" />
+      <edge source="Մելիքյանից" target="Սոֆիա" id="96" weight="1" />
+      <edge source="Մելիքյանի" target="Հարունյան" id="97" weight="1" />
+      <edge source="Մելիքյանի" target="Հարունյանին" id="98" weight="1" />
+      <edge source="Մելիքյանի" target="Մելիքյանր" id="99" weight="1" />
+      <edge source="Մելիքյանի" target="Սոֆիա Մելիքյանի" id="100" weight="1" />
+      <edge source="Մելիքյանի" target="Արա խիղճը" id="101" weight="1" />
+      <edge source="Մելիքյանի" target="Հայկանուշը" id="102" weight="1" />
+      <edge source="Մելիքյանի" target="Հարունյանն" id="103" weight="1" />
+      <edge source="Մելիքյանի" target="Հարունյաններն" id="104" weight="1" />
+      <edge source="Արա խիղճը" target="Հայկանուշը" id="105" weight="1" />
+      <edge source="Արա խիղճը" target="Հարունյանն" id="106" weight="1" />
+      <edge source="Արա խիղճը" target="Հարունյաններն" id="107" weight="1" />
+      <edge source="Սաքո" target="Աստված" id="108" weight="1" />
+      <edge source="Սաքո" target="Սաքոյին" id="109" weight="1" />
+      <edge source="Սաքո" target="Սաքոն" id="110" weight="1" />
+      <edge source="Ստեփաննոսն" target="Արմենակ" id="111" weight="1" />
+      <edge source="Ստեփաննոսն" target="Հարունյանը" id="112" weight="1" />
+      <edge source="Ստեփաննոսն" target="Սոֆիա" id="113" weight="1" />
+      <edge source="Ստեփաննոսն" target="Ստեփաննոսը" id="114" weight="1" />
+      <edge source="Գարեգինին" target="Գրիգորի" id="115" weight="1" />
+      <edge source="Գարեգինին" target="Հռիփսիմե" id="116" weight="1" />
+      <edge source="Պետրովին" target="ՀԱՐՈԻՆՅԱՆ" id="117" weight="1" />
+      <edge source="Պետրովին" target="Հարությանը" id="118" weight="1" />
+      <edge source="Պետրովին" target="Հարունյանը" id="119" weight="1" />
+      <edge source="Պետրովին" target="Հարունյանները" id="120" weight="1" />
+      <edge source="Պետրովին" target="Պետրովը" id="121" weight="1" />
+      <edge source="Պետրովին" target="Պետրովի" id="122" weight="1" />
+      <edge source="Պետրովին" target="Պետրովն" id="123" weight="1" />
+      <edge source="Իշխանուհի Մելիքյանը" target="Ախ" id="124" weight="1" />
+      <edge source="Իշխանուհի Մելիքյանը" target="Հարունյանը" id="125" weight="1" />
+      <edge source="Իշխանուհի Մելիքյանը" target="Հարունյանին" id="126" weight="1" />
+      <edge source="Իշխանուհի Մելիքյանը" target="Հարունյանների" id="127" weight="1" />
+      <edge source="Իշխանուհի Մելիքյանը" target="Մելիքյանը" id="128" weight="1" />
+      <edge source="Իշխանուհի Մելիքյանը" target="Սոֆիա" id="129" weight="1" />
+      <edge source="Բախշոյին" target="Աղա Գրիգոր Մոսեիչը" id="130" weight="1" />
+      <edge source="Բախշոյին" target="Բարսեղը" id="131" weight="1" />
+      <edge source="Բախշոյին" target="աղա Գրիգոր Մոսեիչը" id="132" weight="1" />
+      <edge source="Բախշոյին" target="աղա Գրիգոր Մոսեիչի" id="133" weight="1" />
+      <edge source="Իզուր" target="Աննա Սարոյան" id="134" weight="1" />
+      <edge source="Իզուր" target="Հռիփսիմե" id="135" weight="1" />
+      <edge source="Պետրովի" target="ՀԱՐՈԻՆՅԱՆ" id="136" weight="1" />
+      <edge source="Պետրովի" target="Հարությանը" id="137" weight="1" />
+      <edge source="Պետրովի" target="Հարունյանը" id="138" weight="1" />
+      <edge source="Պետրովի" target="Հարունյանները" id="139" weight="1" />
+      <edge source="Պետրովի" target="Պետրովը" id="140" weight="1" />
+      <edge source="Պետրովի" target="Պետրովն" id="141" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչը" target="Բարսեղ" id="142" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչը" target="Բարսեղը" id="143" weight="2" />
+      <edge source="աղա Գրիգոր Մոսեիչը" target="Թամամչյանի" id="144" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչը" target="աղա Գրիգոր Մոսեիչ" id="145" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչը" target="աղա Գրիգոր Մոսեիչի" id="146" weight="2" />
+      <edge source="աղա Գրիգոր Մոսեիչը" target="աղա Գրիգոր Մոսեիչին" id="147" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչը" target="Աղա Գրիգոր Մոսեիչը" id="148" weight="1" />
+      <edge source="Հարությանը" target="ՀԱՐՈԻՆՅԱՆ" id="149" weight="1" />
+      <edge source="Հարությանը" target="Հարունյանը" id="150" weight="1" />
+      <edge source="Հարությանը" target="Հարունյանները" id="151" weight="1" />
+      <edge source="Հարությանը" target="Պետրովը" id="152" weight="1" />
+      <edge source="Հարությանը" target="Պետրովն" id="153" weight="1" />
+      <edge source="Բարսեղը" target="Բարսեղ" id="154" weight="1" />
+      <edge source="Բարսեղը" target="Թամամչյանի" id="155" weight="1" />
+      <edge source="Բարսեղը" target="աղա Գրիգոր Մոսեիչ" id="156" weight="1" />
+      <edge source="Բարսեղը" target="աղա Գրիգոր Մոսեիչի" id="157" weight="2" />
+      <edge source="Բարսեղը" target="աղա Գրիգոր Մոսեիչին" id="158" weight="2" />
+      <edge source="Բարսեղը" target="Աղա Գրիգոր Մոսեիչը" id="159" weight="2" />
+      <edge source="Բարսեղը" target="Դարիա Կիրիլովնան" id="160" weight="1" />
+      <edge source="Բարսեղը" target="Վասիլի Պետրովիչ" id="161" weight="1" />
+      <edge source="Բարսեղը" target="Գրիգոր Մոսեիչի" id="162" weight="1" />
+      <edge source="Հայկանուշի" target="Հարունյանը" id="163" weight="1" />
+      <edge source="Հայկանուշի" target="Հարունյանն" id="164" weight="1" />
+      <edge source="Հայկանուշի" target="Տիկին" id="165" weight="1" />
+      <edge source="Պետրոսը" target="Պետրոս" id="166" weight="1" />
+      <edge source="Գրիգոր Սեյրանյանը" target="Սեյրանյանը" id="167" weight="2" />
+      <edge source="Գրիգոր Սեյրանյանը" target="Նունեի" id="168" weight="1" />
+      <edge source="Գրիգոր Սեյրանյանը" target="Նունեից" id="169" weight="1" />
+      <edge source="Գրիգոր Սեյրանյանը" target="Սեյրանյանի" id="170" weight="1" />
+      <edge source="Գրիգոր Սեյրանյանը" target="Սեյրանյանին" id="171" weight="1" />
+      <edge source="Հարունյանների" target="Ախ" id="172" weight="1" />
+      <edge source="Հարունյանների" target="Հարունյանը" id="173" weight="1" />
+      <edge source="Հարունյանների" target="Հարունյանին" id="174" weight="1" />
+      <edge source="Հարունյանների" target="Մելիքյանը" id="175" weight="1" />
+      <edge source="Հարունյանների" target="Սոֆիա" id="176" weight="1" />
+      <edge source="Գարեգինի" target="Գայանեի" id="177" weight="1" />
+      <edge source="Գարեգինի" target="Գարեգին" id="178" weight="1" />
+      <edge source="Գարեգինի" target="Գարեգինը" id="179" weight="1" />
+      <edge source="Գարեգինի" target="Իսկուհին" id="180" weight="1" />
+      <edge source="Գարեգինի" target="աղա Գրիգոր Մոսեիչի" id="181" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչին" target="Բարսեղ" id="182" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչին" target="Թամամչյանի" id="183" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչին" target="աղա Գրիգոր Մոսեիչ" id="184" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչին" target="աղա Գրիգոր Մոսեիչի" id="185" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչին" target="Աղա Գրիգոր Մոսեիչը" id="186" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչին" target="Դարիա Կիրիլովնան" id="187" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչին" target="Վասիլի Պետրովիչ" id="188" weight="1" />
+      <edge source="Թոմաս Գասպարիչն" target="Գևորգ" id="189" weight="1" />
+      <edge source="Թոմաս Գասպարիչն" target="Թոմաս Գասպարիչը" id="190" weight="1" />
+      <edge source="Թոմաս Գասպարիչն" target="Հռիփսիմե" id="191" weight="1" />
+      <edge source="Պետրովը" target="ՀԱՐՈԻՆՅԱՆ" id="192" weight="1" />
+      <edge source="Պետրովը" target="Հարունյանը" id="193" weight="1" />
+      <edge source="Պետրովը" target="Հարունյանները" id="194" weight="1" />
+      <edge source="Պետրովը" target="Պետրովն" id="195" weight="1" />
+      <edge source="Նունեին" target="Նունեի" id="196" weight="1" />
+      <edge source="Նունեին" target="Սեյրանյանը" id="197" weight="1" />
+      <edge source="Նունեին" target="Սեյրանյանի" id="198" weight="1" />
+      <edge source="Նունեին" target="Սեյրանյանին" id="199" weight="1" />
+      <edge source="Նունեին" target="Օրիորդը" id="200" weight="1" />
+      <edge source="Սաքոյին" target="Աստված" id="201" weight="1" />
+      <edge source="Սաքոյին" target="Սաքոն" id="202" weight="1" />
+      <edge source="Իսկուհին" target="Գայանեի" id="203" weight="1" />
+      <edge source="Իսկուհին" target="Գարեգին" id="204" weight="1" />
+      <edge source="Իսկուհին" target="Գարեգինը" id="205" weight="1" />
+      <edge source="Իսկուհին" target="աղա Գրիգոր Մոսեիչի" id="206" weight="1" />
+      <edge source="Փառանձեմ" target="Դարիա Կիրիլովնան" id="207" weight="1" />
+      <edge source="Փառանձեմ" target="Փառանձեմը" id="208" weight="1" />
+      <edge source="Փառանձեմ" target="Փառանձեմին" id="209" weight="1" />
+      <edge source="Սոֆիա Մելիքյանը" target="ՍՈՖԻԱ ՄԵԼԻՔՅԱՆ" id="210" weight="1" />
+      <edge source="Սոֆիա Մելիքյանը" target="Սոֆիան" id="211" weight="1" />
+      <edge source="Օրիորդը" target="Նունեի" id="212" weight="1" />
+      <edge source="Օրիորդը" target="Սեյրանյանը" id="213" weight="1" />
+      <edge source="Օրիորդը" target="Սեյրանյանի" id="214" weight="1" />
+      <edge source="Օրիորդը" target="Սեյրանյանին" id="215" weight="1" />
+      <edge source="Գարեգին" target="Գայանեի" id="216" weight="1" />
+      <edge source="Գարեգին" target="Գարեգինը" id="217" weight="1" />
+      <edge source="Գարեգին" target="աղա Գրիգոր Մոսեիչի" id="218" weight="1" />
+      <edge source="Գրիգորի" target="Հռիփսիմե" id="219" weight="3" />
+      <edge source="Գրիգորի" target="Հորս" id="220" weight="1" />
+      <edge source="Սեյրանյանի" target="Նունեի" id="221" weight="2" />
+      <edge source="Սեյրանյանի" target="Սեյրանյանը" id="222" weight="2" />
+      <edge source="Սեյրանյանի" target="Սեյրանյանին" id="223" weight="2" />
+      <edge source="Սեյրանյանի" target="Նունեից" id="224" weight="1" />
+      <edge source="Գարեգինը" target="Գայանեի" id="225" weight="1" />
+      <edge source="Գարեգինը" target="աղա Գրիգոր Մոսեիչի" id="226" weight="1" />
+      <edge source="Սաքոն" target="Աստված" id="227" weight="1" />
+      <edge source="Աննա" target="Հռիփսիմե" id="228" weight="1" />
+      <edge source="Փառանձեմին" target="Դարիա Կիրիլովնան" id="229" weight="1" />
+      <edge source="Փառանձեմին" target="Փառանձեմը" id="230" weight="1" />
+      <edge source="Հարունյանները" target="ՀԱՐՈԻՆՅԱՆ" id="231" weight="1" />
+      <edge source="Հարունյանները" target="Հարունյանը" id="232" weight="1" />
+      <edge source="Հարունյանները" target="Պետրովն" id="233" weight="1" />
+      <edge source="Հռիփսիմե" target="Գևորգ" id="234" weight="1" />
+      <edge source="Հռիփսիմե" target="Թոմաս Գասպարիչը" id="235" weight="1" />
+      <edge source="Հռիփսիմե" target="Հորս" id="236" weight="1" />
+      <edge source="Հռիփսիմե" target="Աննա Սարոյան" id="237" weight="1" />
+      <edge source="Մելիքյանր" target="Հարունյան" id="238" weight="1" />
+      <edge source="Մելիքյանր" target="Հարունյանին" id="239" weight="1" />
+      <edge source="Մելիքյանր" target="Սոֆիա Մելիքյանի" id="240" weight="1" />
+      <edge source="Արմենակից" target="ԵՐԵԿՈՅԱՆ" id="241" weight="1" />
+      <edge source="Արմենակից" target="Հարունյաններն" id="242" weight="1" />
+      <edge source="Արմենակից" target="Միքայելյան" id="243" weight="1" />
+      <edge source="Ախ" target="Հարունյանը" id="244" weight="1" />
+      <edge source="Ախ" target="Հարունյանին" id="245" weight="1" />
+      <edge source="Ախ" target="Մելիքյանը" id="246" weight="1" />
+      <edge source="Ախ" target="Սոֆիա" id="247" weight="1" />
+      <edge source="Հայկանուշը" target="Հարունյանն" id="248" weight="1" />
+      <edge source="Հայկանուշը" target="Հարունյաններն" id="249" weight="1" />
+      <edge source="Միքայելյան" target="ԵՐԵԿՈՅԱՆ" id="250" weight="1" />
+      <edge source="Միքայելյան" target="Հարունյաններն" id="251" weight="1" />
+      <edge source="Սեյրանյանին" target="Նունեի" id="252" weight="2" />
+      <edge source="Սեյրանյանին" target="Սեյրանյանը" id="253" weight="2" />
+      <edge source="Սեյրանյանին" target="Նունեից" id="254" weight="1" />
+      <edge source="Հարունյանը" target="Հարունյանին" id="255" weight="1" />
+      <edge source="Հարունյանը" target="Մելիքյանը" id="256" weight="1" />
+      <edge source="Հարունյանը" target="Սոֆիա" id="257" weight="3" />
+      <edge source="Հարունյանը" target="Հարունյանն" id="258" weight="2" />
+      <edge source="Հարունյանը" target="Տիկին" id="259" weight="1" />
+      <edge source="Հարունյանը" target="Արմենակ" id="260" weight="1" />
+      <edge source="Հարունյանը" target="Ստեփաննոսը" id="261" weight="1" />
+      <edge source="Հարունյանը" target="ՀԱՐՈԻՆՅԱՆ" id="262" weight="1" />
+      <edge source="Հարունյանը" target="Պետրովն" id="263" weight="1" />
+      <edge source="Մելիքյանը" target="Հարունյանին" id="264" weight="1" />
+      <edge source="Մելիքյանը" target="Սոֆիա" id="265" weight="1" />
+      <edge source="Գուշակությունս" target="Անգին" id="266" weight="1" />
+      <edge source="Հարունյաններն" target="ԵՐԵԿՈՅԱՆ" id="267" weight="1" />
+      <edge source="Հարունյաններն" target="Հարունյանն" id="268" weight="1" />
+      <edge source="Գայանեի" target="աղա Գրիգոր Մոսեիչի" id="269" weight="1" />
+      <edge source="Հարունյանին" target="Սոֆիա" id="270" weight="1" />
+      <edge source="Հարունյանին" target="Հարունյան" id="271" weight="1" />
+      <edge source="Հարունյանին" target="Սոֆիա Մելիքյանի" id="272" weight="1" />
+      <edge source="Տիկին" target="Հարունյանն" id="273" weight="1" />
+      <edge source="Բարսեղ" target="Թամամչյանի" id="274" weight="1" />
+      <edge source="Բարսեղ" target="աղա Գրիգոր Մոսեիչ" id="275" weight="1" />
+      <edge source="Բարսեղ" target="աղա Գրիգոր Մոսեիչի" id="276" weight="1" />
+      <edge source="ՍՈՖԻԱ ՄԵԼԻՔՅԱՆ" target="Սոֆիան" id="277" weight="1" />
+      <edge source="Փառանձեմը" target="Դարիա Կիրիլովնան" id="278" weight="1" />
+      <edge source="Թոմաս Գասպարիչը" target="Գևորգ" id="279" weight="1" />
+      <edge source="Ստեփաննոսը" target="Արմենակ" id="280" weight="1" />
+      <edge source="Ստեփաննոսը" target="Սոֆիա" id="281" weight="1" />
+      <edge source="Գրիգոր" target="Նունեի" id="282" weight="2" />
+      <edge source="Գրիգոր" target="Սեյրանյանը" id="283" weight="2" />
+      <edge source="Դարիա Կիրիլովնան" target="Աղա Գրիգոր Մոսեիչը" id="284" weight="1" />
+      <edge source="Դարիա Կիրիլովնան" target="Վասիլի Պետրովիչ" id="285" weight="1" />
+      <edge source="Հարունյան" target="Սոֆիա Մելիքյանի" id="286" weight="1" />
+      <edge source="Սոֆիա" target="Արմենակ" id="287" weight="1" />
+      <edge source="Սոֆիա" target="Հարունյանն" id="288" weight="1" />
+      <edge source="Պետրովն" target="ՀԱՐՈԻՆՅԱՆ" id="289" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչ" target="Թամամչյանի" id="290" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչ" target="աղա Գրիգոր Մոսեիչի" id="291" weight="1" />
+      <edge source="Սեյրանյանը" target="Նունեի" id="292" weight="4" />
+      <edge source="Սեյրանյանը" target="Նունեից" id="293" weight="1" />
+      <edge source="Նունեի" target="Նունեից" id="294" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչի" target="Թամամչյանի" id="295" weight="1" />
+      <edge source="աղա Գրիգոր Մոսեիչի" target="Աղա Գրիգոր Մոսեիչը" id="296" weight="1" />
+      <edge source="Վասիլի Պետրովիչ" target="Աղա Գրիգոր Մոսեիչը" id="297" weight="1" />
+    </edges>
+  </graph>
+</gexf>

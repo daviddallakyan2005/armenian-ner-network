@@ -1,0 +1,178 @@
+{
+  "segment_0": [],
+  "segment_1": [
+    {
+      "word": "խեղճը",
+      "entity_group": "PER",
+      "score": 0.9887082576751709
+    }
+  ],
+  "segment_2": [],
+  "segment_3": [
+    {
+      "word": "Սմոլենսքեն",
+      "entity_group": "PER",
+      "score": 0.9968926906585693
+    },
+    {
+      "word": "Հովհաննեսի",
+      "entity_group": "PER",
+      "score": 0.9913404583930969
+    }
+  ],
+  "segment_4": [
+    {
+      "word": "Մարիի",
+      "entity_group": "PER",
+      "score": 0.9975119829177856
+    },
+    {
+      "word": "Մարին",
+      "entity_group": "PER",
+      "score": 0.9973868727684021
+    }
+  ],
+  "segment_5": [
+    {
+      "word": "Հովհաննեսը",
+      "entity_group": "PER",
+      "score": 0.9994075298309326
+    },
+    {
+      "word": "Տեսնատան",
+      "entity_group": "PER",
+      "score": 0.9992744326591492
+    },
+    {
+      "word": "Միքայել ( Մեխակ ) Ամատունին",
+      "entity_group": "PER",
+      "score": 0.8436023354530334
+    },
+    {
+      "word": "Նիկոլայ Տրիֆանովը",
+      "entity_group": "PER",
+      "score": 0.9994757175445557
+    },
+    {
+      "word": "Հարություն Ղուզանյանը",
+      "entity_group": "PER",
+      "score": 0.9996131360530853
+    },
+    {
+      "word": "Գաբրիել Ա",
+      "entity_group": "PER",
+      "score": 0.9987668395042419
+    },
+    {
+      "word": "Տեսնատայի",
+      "entity_group": "PER",
+      "score": 0.9976869821548462
+    },
+    {
+      "word": "Մատաղ",
+      "entity_group": "PER",
+      "score": 0.8836113810539246
+    },
+    {
+      "word": "Մեխակ",
+      "entity_group": "PER",
+      "score": 0.9953451752662659
+    }
+  ],
+  "segment_6": [
+    {
+      "word": "Հովհաննեսը",
+      "entity_group": "PER",
+      "score": 0.9990276098251343
+    },
+    {
+      "word": "Վանյուշ",
+      "entity_group": "PER",
+      "score": 0.4569777846336365
+    },
+    {
+      "word": "Մարիիդ",
+      "entity_group": "PER",
+      "score": 0.9947720170021057
+    },
+    {
+      "word": "Ռոթշիլդ",
+      "entity_group": "PER",
+      "score": 0.9341353178024292
+    },
+    {
+      "word": "Միքայել",
+      "entity_group": "PER",
+      "score": 0.9961867928504944
+    },
+    {
+      "word": "Մարիիս",
+      "entity_group": "PER",
+      "score": 0.9944608211517334
+    }
+  ],
+  "segment_7": [
+    {
+      "word": "Մարիի",
+      "entity_group": "PER",
+      "score": 0.9961357712745667
+    },
+    {
+      "word": "Մարիին",
+      "entity_group": "PER",
+      "score": 0.9986334443092346
+    },
+    {
+      "word": "Հովհաննեսի",
+      "entity_group": "PER",
+      "score": 0.9993749260902405
+    },
+    {
+      "word": "Հովբ երանելիի",
+      "entity_group": "PER",
+      "score": 0.9623461067676544
+    },
+    {
+      "word": "Հովհաննեսը",
+      "entity_group": "PER",
+      "score": 0.9995410442352295
+    },
+    {
+      "word": "Մարին",
+      "entity_group": "PER",
+      "score": 0.9974971413612366
+    },
+    {
+      "word": "Միքայել",
+      "entity_group": "PER",
+      "score": 0.9974996447563171
+    },
+    {
+      "word": "Հայլիի",
+      "entity_group": "PER",
+      "score": 0.7577174305915833
+    },
+    {
+      "word": "Սոկրատեսի",
+      "entity_group": "PER",
+      "score": 0.9926446676254272
+    },
+    {
+      "word": "Միքայել",
+      "entity_group": "PER",
+      "score": 0.9965665340423584
+    }
+  ],
+  "segment_8": [
+    {
+      "word": "Հովհաննեսը",
+      "entity_group": "PER",
+      "score": 0.9994333386421204
+    },
+    {
+      "word": "Քերոբն",
+      "entity_group": "PER",
+      "score": 0.982882022857666
+    }
+  ]
+}

@@ -11,7 +11,7 @@ Armenian_ML/
 │   └── raw/            # Raw text data downloaded
 ├── env/                # Python virtual environment (example)
 ├── external_repos/     # External repositories (e.g., fairseq, pioner)
-├── models/             # Trained models and checkpoints
+├── models/             # (Used during dev; excluded from repo - see Hugging Face link below)
 ├── results/
 │   ├── extracted_entities/ # Output of NER inference
 │   ├── network_visualizations/ # Network graphs
@@ -22,7 +22,6 @@ Armenian_ML/
 │   ├── 02_preprocessing/
 │   │   └── preprocess_texts.py # Script for text cleaning and preparation
 │   ├── 03_ner/
-│   │   ├── ner_roberta.py     # NER model definition/training script (likely RoBERTa-based)
 │   │   └── run_ner_inference_segmented.py # Script to run NER inference on processed data
 │   └── 04_network_building/
 │       ├── build_network.py    # Script to construct networks from NER results
@@ -41,8 +40,9 @@ The project follows a sequential pipeline implemented through the scripts in the
 2.  **Preprocessing (`02_preprocessing/preprocess_texts.py`):** 
     Cleans and prepares the raw text data, likely involving steps like tokenization, normalization, and segmentation. The output is stored in `data/processed/`.
 3.  **Named Entity Recognition (`03_ner/`):**
-    *   Uses a model (potentially fine-tuned RoBERTa, as suggested by `ner_roberta.py`) to identify named entities (like persons, locations, organizations) in the preprocessed text. The best performing model out of 36 trained variations was selected based on its F1 score (see `scripts/03_ner/ner_roberta.py` for potential details on training/evaluation).
-    *   `run_ner_inference_segmented.py` applies the chosen NER model to the processed data, saving the extracted entities, likely into `results/extracted_entities/`.
+    *   Uses a model fine-tuned RoBERTa to identify named entities. The best performing model (`daviddallakyan2005/armenian-ner`) is hosted on [Hugging Face Hub](https://huggingface.co/daviddallakyan2005/armenian-ner). (See `scripts/03_ner/ner_roberta.py` for potential details on original training/evaluation).
+    *   _During development, 36 models with varying hyperparameters were evaluated (details in `scripts/03_ner/ner_roberta.py`), and the best model was selected based on its F1 score._
+    *   `run_ner_inference_segmented.py` applies the NER model (loaded from Hugging Face) to the processed data, saving the extracted entities, likely into `results/extracted_entities/`.
 4.  **Network Building (`04_network_building/`):**
     *   `build_network.py` uses the extracted entities to construct relationship networks (e.g., co-occurrence networks). The resulting network data might be saved in `results/networks/`.
     *   `visualize_network.py` generates visualizations of these networks, saving them in `results/network_visualizations/`.
@@ -65,8 +65,6 @@ The project follows a sequential pipeline implemented through the scripts in the
         .\\venv\\Scripts\\activate
         ```
 
-    *(This project uses `env` for macOS development/execution and `venv` for Windows.)*
-
 3.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
@@ -83,12 +81,12 @@ Execute the scripts sequentially, starting from data acquisition:
 ```bash
 python scripts/01_data_acquisition/download_data.py
 python scripts/02_preprocessing/preprocess_texts.py
-python scripts/03_ner/run_ner_inference_segmented.py # Params needed
+python scripts/03_ner/run_ner_inference_segmented.py --model_name_or_path daviddallakyan2005/armenian-ner # Example param needed
 python scripts/04_network_building/build_network.py # Params needed
 python scripts/04_network_building/visualize_network.py
 ```
 
-*Note: You may need to adjust script arguments (e.g., file paths, model checkpoint paths) within the scripts or pass them via command-line arguments if supported.*
+*Note: You may need to adjust script arguments (e.g., file paths) within the scripts or pass them via command-line arguments if supported. The NER script now points to the Hugging Face model by default.*
 
 ## Results
 

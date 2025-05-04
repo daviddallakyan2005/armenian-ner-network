@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Մարին" label="Մարին" />
+      <node id="Հովհաննեսի" label="Հովհաննեսի" />
+      <node id="Նիկոլայ Տրիֆանովը" label="Նիկոլայ Տրիֆանովը" />
+      <node id="Մատաղ" label="Մատաղ" />
+      <node id="Քերոբն" label="Քերոբն" />
+      <node id="Հարություն Ղուզանյանը" label="Հարություն Ղուզանյանը" />
+      <node id="Տեսնատայի" label="Տեսնատայի" />
+      <node id="Տեսնատան" label="Տեսնատան" />
+      <node id="Սոկրատեսի" label="Սոկրատեսի" />
+      <node id="Մարիի" label="Մարիի" />
+      <node id="Գաբրիել Ա" label="Գաբրիել Ա" />
+      <node id="Միքայել" label="Միքայել" />
+      <node id="Հայլիի" label="Հայլիի" />
+      <node id="Մեխակ" label="Մեխակ" />
+      <node id="Մարիին" label="Մարիին" />
+      <node id="խեղճը" label="խեղճը" />
+      <node id="Միքայել ( Մեխակ ) Ամատունին" label="Միքայել ( Մեխակ ) Ամատունին" />
+      <node id="Վանյուշ" label="Վանյուշ" />
+      <node id="Սմոլենսքեն" label="Սմոլենսքեն" />
+      <node id="Հովբ երանելիի" label="Հովբ երանելիի" />
+      <node id="Հովհաննեսը" label="Հովհաննեսը" />
+      <node id="Մարիիդ" label="Մարիիդ" />
+      <node id="Մարիիս" label="Մարիիս" />
+      <node id="Ռոթշիլդ" label="Ռոթշիլդ" />
+    </nodes>
+    <edges>
+      <edge source="Մարին" target="Մարիի" id="0" weight="2" />
+      <edge source="Մարին" target="Հայլիի" id="1" weight="1" />
+      <edge source="Մարին" target="Հովբ երանելիի" id="2" weight="1" />
+      <edge source="Մարին" target="Հովհաննեսը" id="3" weight="1" />
+      <edge source="Մարին" target="Հովհաննեսի" id="4" weight="1" />
+      <edge source="Մարին" target="Մարիին" id="5" weight="1" />
+      <edge source="Մարին" target="Միքայել" id="6" weight="1" />
+      <edge source="Մարին" target="Սոկրատեսի" id="7" weight="1" />
+      <edge source="Հովհաննեսի" target="Սմոլենսքեն" id="8" weight="1" />
+      <edge source="Հովհաննեսի" target="Հայլիի" id="9" weight="1" />
+      <edge source="Հովհաննեսի" target="Հովբ երանելիի" id="10" weight="1" />
+      <edge source="Հովհաննեսի" target="Հովհաննեսը" id="11" weight="1" />
+      <edge source="Հովհաննեսի" target="Մարիի" id="12" weight="1" />
+      <edge source="Հովհաննեսի" target="Մարիին" id="13" weight="1" />
+      <edge source="Հովհաննեսի" target="Միքայել" id="14" weight="1" />
+      <edge source="Հովհաննեսի" target="Սոկրատեսի" id="15" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Գաբրիել Ա" id="16" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Հարություն Ղուզանյանը" id="17" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Հովհաննեսը" id="18" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Մատաղ" id="19" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Մեխակ" id="20" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Միքայել ( Մեխակ ) Ամատունին" id="21" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Տեսնատայի" id="22" weight="1" />
+      <edge source="Նիկոլայ Տրիֆանովը" target="Տեսնատան" id="23" weight="1" />
+      <edge source="Մատաղ" target="Գաբրիել Ա" id="24" weight="1" />
+      <edge source="Մատաղ" target="Հարություն Ղուզանյանը" id="25" weight="1" />
+      <edge source="Մատաղ" target="Հովհաննեսը" id="26" weight="1" />
+      <edge source="Մատաղ" target="Մեխակ" id="27" weight="1" />
+      <edge source="Մատաղ" target="Միքայել ( Մեխակ ) Ամատունին" id="28" weight="1" />
+      <edge source="Մատաղ" target="Տեսնատայի" id="29" weight="1" />
+      <edge source="Մատաղ" target="Տեսնատան" id="30" weight="1" />
+      <edge source="Քերոբն" target="Հովհաննեսը" id="31" weight="1" />
+      <edge source="Հարություն Ղուզանյանը" target="Գաբրիել Ա" id="32" weight="1" />
+      <edge source="Հարություն Ղուզանյանը" target="Հովհաննեսը" id="33" weight="1" />
+      <edge source="Հարություն Ղուզանյանը" target="Մեխակ" id="34" weight="1" />
+      <edge source="Հարություն Ղուզանյանը" target="Միքայել ( Մեխակ ) Ամատունին" id="35" weight="1" />
+      <edge source="Հարություն Ղուզանյանը" target="Տեսնատայի" id="36" weight="1" />
+      <edge source="Հարություն Ղուզանյանը" target="Տեսնատան" id="37" weight="1" />
+      <edge source="Տեսնատայի" target="Գաբրիել Ա" id="38" weight="1" />
+      <edge source="Տեսնատայի" target="Հովհաննեսը" id="39" weight="1" />
+      <edge source="Տեսնատայի" target="Մեխակ" id="40" weight="1" />
+      <edge source="Տեսնատայի" target="Միքայել ( Մեխակ ) Ամատունին" id="41" weight="1" />
+      <edge source="Տեսնատայի" target="Տեսնատան" id="42" weight="1" />
+      <edge source="Տեսնատան" target="Գաբրիել Ա" id="43" weight="1" />
+      <edge source="Տեսնատան" target="Հովհաննեսը" id="44" weight="1" />
+      <edge source="Տեսնատան" target="Մեխակ" id="45" weight="1" />
+      <edge source="Տեսնատան" target="Միքայել ( Մեխակ ) Ամատունին" id="46" weight="1" />
+      <edge source="Սոկրատեսի" target="Հայլիի" id="47" weight="1" />
+      <edge source="Սոկրատեսի" target="Հովբ երանելիի" id="48" weight="1" />
+      <edge source="Սոկրատեսի" target="Հովհաննեսը" id="49" weight="1" />
+      <edge source="Սոկրատեսի" target="Մարիի" id="50" weight="1" />
+      <edge source="Սոկրատեսի" target="Մարիին" id="51" weight="1" />
+      <edge source="Սոկրատեսի" target="Միքայել" id="52" weight="1" />
+      <edge source="Մարիի" target="Հայլիի" id="53" weight="1" />
+      <edge source="Մարիի" target="Հովբ երանելիի" id="54" weight="1" />
+      <edge source="Մարիի" target="Հովհաննեսը" id="55" weight="1" />
+      <edge source="Մարիի" target="Մարիին" id="56" weight="1" />
+      <edge source="Մարիի" target="Միքայել" id="57" weight="1" />
+      <edge source="Գաբրիել Ա" target="Հովհաննեսը" id="58" weight="1" />
+      <edge source="Գաբրիել Ա" target="Մեխակ" id="59" weight="1" />
+      <edge source="Գաբրիել Ա" target="Միքայել ( Մեխակ ) Ամատունին" id="60" weight="1" />
+      <edge source="Միքայել" target="Հովհաննեսը" id="61" weight="2" />
+      <edge source="Միքայել" target="Մարիիդ" id="62" weight="1" />
+      <edge source="Միքայել" target="Մարիիս" id="63" weight="1" />
+      <edge source="Միքայել" target="Ռոթշիլդ" id="64" weight="1" />
+      <edge source="Միքայել" target="Վանյուշ" id="65" weight="1" />
+      <edge source="Միքայել" target="Հայլիի" id="66" weight="1" />
+      <edge source="Միքայել" target="Հովբ երանելիի" id="67" weight="1" />
+      <edge source="Միքայել" target="Մարիին" id="68" weight="1" />
+      <edge source="Հայլիի" target="Հովբ երանելիի" id="69" weight="1" />
+      <edge source="Հայլիի" target="Հովհաննեսը" id="70" weight="1" />
+      <edge source="Հայլիի" target="Մարիին" id="71" weight="1" />
+      <edge source="Մեխակ" target="Հովհաննեսը" id="72" weight="1" />
+      <edge source="Մեխակ" target="Միքայել ( Մեխակ ) Ամատունին" id="73" weight="1" />
+      <edge source="Մարիին" target="Հովբ երանելիի" id="74" weight="1" />
+      <edge source="Մարիին" target="Հովհաննեսը" id="75" weight="1" />
+      <edge source="Միքայել ( Մեխակ ) Ամատունին" target="Հովհաննեսը" id="76" weight="1" />
+      <edge source="Վանյուշ" target="Հովհաննեսը" id="77" weight="1" />
+      <edge source="Վանյուշ" target="Մարիիդ" id="78" weight="1" />
+      <edge source="Վանյուշ" target="Մարիիս" id="79" weight="1" />
+      <edge source="Վանյուշ" target="Ռոթշիլդ" id="80" weight="1" />
+      <edge source="Հովբ երանելիի" target="Հովհաննեսը" id="81" weight="1" />
+      <edge source="Հովհաննեսը" target="Մարիիդ" id="82" weight="1" />
+      <edge source="Հովհաննեսը" target="Մարիիս" id="83" weight="1" />
+      <edge source="Հովհաննեսը" target="Ռոթշիլդ" id="84" weight="1" />
+      <edge source="Մարիիդ" target="Մարիիս" id="85" weight="1" />
+      <edge source="Մարիիդ" target="Ռոթշիլդ" id="86" weight="1" />
+      <edge source="Մարիիս" target="Ռոթշիլդ" id="87" weight="1" />
+    </edges>
+  </graph>
+</gexf>

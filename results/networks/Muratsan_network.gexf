@@ -1,0 +1,1386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Մուրադի" label="Մուրադի" />
+      <node id="Աղձնյաց" label="Աղձնյաց" />
+      <node id="Աբասին" label="Աբասին" />
+      <node id="Գրիգորը" label="Գրիգորը" />
+      <node id="Սիմոնի" label="Սիմոնի" />
+      <node id="խեղճն" label="խեղճն" />
+      <node id="Աշոտ — Երկաթը" label="Աշոտ — Երկաթը" />
+      <node id="Գևորգը" label="Գևորգը" />
+      <node id="Օքուզ" label="Օքուզ" />
+      <node id="Գարդմանի" label="Գարդմանի" />
+      <node id="Թեոդորոս" label="Թեոդորոս" />
+      <node id="Պետրե" label="Պետրե" />
+      <node id="Մաշտոցյանը" label="Մաշտոցյանը" />
+      <node id="Շահռուխի" label="Շահռուխի" />
+      <node id="եպիսկոպոսները" label="եպիսկոպոսները" />
+      <node id="ԱՆԴՐԵԱՍ" label="ԱՆԴՐԵԱՍ" />
+      <node id="Վահրամ Սեպուհը" label="Վահրամ Սեպուհը" />
+      <node id="Եզովպոսի" label="Եզովպոսի" />
+      <node id="Շահռուխին" label="Շահռուխին" />
+      <node id="Հովհաննես" label="Հովհաննես" />
+      <node id="Սևադայի" label="Սևադայի" />
+      <node id="պ" label="պ" />
+      <node id="Դավիթը" label="Դավիթը" />
+      <node id="Ափխազաց" label="Ափխազաց" />
+      <node id="Ղազարը" label="Ղազարը" />
+      <node id="Ամրամի" label="Ամրամի" />
+      <node id="Վարդանանց" label="Վարդանանց" />
+      <node id="Գագիկ Արծրունին" label="Գագիկ Արծրունին" />
+      <node id="Դարչոյի" label="Դարչոյի" />
+      <node id="Սյունեցուն" label="Սյունեցուն" />
+      <node id="Դուդուկջյանը" label="Դուդուկջյանը" />
+      <node id="Կարոն" label="Կարոն" />
+      <node id="Գևորգ Մարզպետունու" label="Գևորգ Մարզպետունու" />
+      <node id="Լազարյանների" label="Լազարյանների" />
+      <node id="Շմավոնն" label="Շմավոնն" />
+      <node id="Թովմասի" label="Թովմասի" />
+      <node id="Ամրամ սեպուհը" label="Ամրամ սեպուհը" />
+      <node id="Տեր" label="Տեր" />
+      <node id="Մարությանի" label="Մարությանի" />
+      <node id="Մարությանին" label="Մարությանին" />
+      <node id="Աննայի" label="Աննայի" />
+      <node id="Քրիստոսի" label="Քրիստոսի" />
+      <node id="Շուղի" label="Շուղի" />
+      <node id="Ս . Գեղարդի" label="Ս . Գեղարդի" />
+      <node id="արքայի" label="արքայի" />
+      <node id="Պարիզում" label="Պարիզում" />
+      <node id="Սյունյաց Մարիամ" label="Սյունյաց Մարիամ" />
+      <node id="Գուրգենդուխտ" label="Գուրգենդուխտ" />
+      <node id="Վարդուհի Սամվելյանի" label="Վարդուհի Սամվելյանի" />
+      <node id="Դեդի" label="Դեդի" />
+      <node id="Խոջա" label="Խոջա" />
+      <node id="Պետրոսը" label="Պետրոսը" />
+      <node id="Երազգավորս" label="Երազգավորս" />
+      <node id="Վարդո" label="Վարդո" />
+      <node id="Հեթումյանին" label="Հեթումյանին" />
+      <node id="Շահ — Մելիքովը" label="Շահ — Մելիքովը" />
+      <node id="Թովմասն" label="Թովմասն" />
+      <node id="Մաշո" label="Մաշո" />
+      <node id="Սրբազանը" label="Սրբազանը" />
+      <node id="Միկիթի" label="Միկիթի" />
+      <node id="Միկիթ" label="Միկիթ" />
+      <node id="Սոմարյանցի" label="Սոմարյանցի" />
+      <node id="Շահաբասի" label="Շահաբասի" />
+      <node id="Առաքել" label="Առաքել" />
+      <node id="Շմավոնի" label="Շմավոնի" />
+      <node id="Սարգիսն" label="Սարգիսն" />
+      <node id="Մաշտոցյան" label="Մաշտոցյան" />
+      <node id="Օրիորդ Լազարյանի" label="Օրիորդ Լազարյանի" />
+      <node id="Մովսես" label="Մովսես" />
+      <node id="Աննա Լազարյան" label="Աննա Լազարյան" />
+      <node id="Աշոտ" label="Աշոտ" />
+      <node id="Արսենը" label="Արսենը" />
+      <node id="Երազգավորսից" label="Երազգավորսից" />
+      <node id="Մարիամը" label="Մարիամը" />
+      <node id="Շահռուխն" label="Շահռուխն" />
+      <node id="Վարդուհուց" label="Վարդուհուց" />
+      <node id="Շահռուխ" label="Շահռուխ" />
+      <node id="Մարզպետունին" label="Մարզպետունին" />
+      <node id="Գևորգի" label="Գևորգի" />
+      <node id="Սահակ" label="Սահակ" />
+      <node id="Մուշեղ" label="Մուշեղ" />
+      <node id="Մեծին Ներսեսի" label="Մեծին Ներսեսի" />
+      <node id="պատվելին" label="պատվելին" />
+      <node id="Հորը" label="Հորը" />
+      <node id="Ամրամը" label="Ամրամը" />
+      <node id="Միթոմ" label="Միթոմ" />
+      <node id="Սիմբրյանին" label="Սիմբրյանին" />
+      <node id="Հովակիմը" label="Հովակիմը" />
+      <node id="Ալեքսանը" label="Ալեքսանը" />
+      <node id="Մազմանյանը" label="Մազմանյանը" />
+      <node id="Սերգո" label="Սերգո" />
+      <node id="Արսեն Մաշտոցյանի" label="Արսեն Մաշտոցյանի" />
+      <node id="Շահաբասը" label="Շահաբասը" />
+      <node id="Վասպուրականի" label="Վասպուրականի" />
+      <node id="Վարդենի" label="Վարդենի" />
+      <node id="Ավետիքը" label="Ավետիքը" />
+      <node id="Գևորգին" label="Գևորգին" />
+      <node id="Միկիթը" label="Միկիթը" />
+      <node id="Մելիքները" label="Մելիքները" />
+      <node id="Գևորգենց" label="Գևորգենց" />
+      <node id="Տիրանը" label="Տիրանը" />
+      <node id="Մաղքոսը" label="Մաղքոսը" />
+      <node id="Դավիթ Էջմիածնեցուն" label="Դավիթ Էջմիածնեցուն" />
+      <node id="Մարզպետունի" label="Մարզպետունի" />
+      <node id="սուրբ Հովհաննես" label="սուրբ Հովհաննես" />
+      <node id="Կաքավաքար" label="Կաքավաքար" />
+      <node id="Գեվորգի" label="Գեվորգի" />
+      <node id="Աննան" label="Աննան" />
+      <node id="Ագապյաններից" label="Ագապյաններից" />
+      <node id="Բագարանը" label="Բագարանը" />
+      <node id="Մատինյանը" label="Մատինյանը" />
+      <node id="Սեդան" label="Սեդան" />
+      <node id="Արքայորդու" label="Արքայորդու" />
+      <node id="Գոռ" label="Գոռ" />
+      <node id="Աբասը" label="Աբասը" />
+      <node id="Արքայորդին" label="Արքայորդին" />
+      <node id="ս" label="ս" />
+      <node id="Գրիգոր" label="Գրիգոր" />
+      <node id="Թամարն" label="Թամարն" />
+      <node id="Անդրեասը" label="Անդրեասը" />
+      <node id="Իշխանի" label="Իշխանի" />
+      <node id="Աստղիկին" label="Աստղիկին" />
+      <node id="Սևադա" label="Սևադա" />
+      <node id="շահը" label="շահը" />
+      <node id="Գևորգ Մարզպետունին" label="Գևորգ Մարզպետունին" />
+      <node id="Աշոտ սպարապետը" label="Աշոտ սպարապետը" />
+      <node id="Մարությանն" label="Մարությանն" />
+      <node id="Պարիզը" label="Պարիզը" />
+      <node id="Սեպուհ" label="Սեպուհ" />
+      <node id="Դավթի" label="Դավթի" />
+      <node id="Սիմբրյանի" label="Սիմբրյանի" />
+      <node id="Մաշոն" label="Մաշոն" />
+      <node id="Խուդաբանդ" label="Խուդաբանդ" />
+      <node id="Սահականույշ" label="Սահականույշ" />
+      <node id="Գուստավի" label="Գուստավի" />
+      <node id="Աշոտ արքայի" label="Աշոտ արքայի" />
+      <node id="ՍԱՀԱՆՈՒՅՇԻ" label="ՍԱՀԱՆՈՒՅՇԻ" />
+      <node id="Սերգոյի" label="Սերգոյի" />
+      <node id="Փեփելի" label="Փեփելի" />
+      <node id="Թովմասը" label="Թովմասը" />
+      <node id="Ամալիայի" label="Ամալիայի" />
+      <node id="Լուսինը" label="Լուսինը" />
+      <node id="ղազազ Արութինի" label="ղազազ Արութինի" />
+      <node id="Շահ — Մելիքովն" label="Շահ — Մելիքովն" />
+      <node id="Պետրոսի" label="Պետրոսի" />
+      <node id="Վարդուհի Սամվելյան" label="Վարդուհի Սամվելյան" />
+      <node id="Թովմասին" label="Թովմասին" />
+      <node id="Ամալիային Մաշտոցյանի" label="Ամալիային Մաշտոցյանի" />
+      <node id="Դարիան" label="Դարիան" />
+      <node id="Սարգիսը" label="Սարգիսը" />
+      <node id="Գևորգ" label="Գևորգ" />
+      <node id="Դարչոն" label="Դարչոն" />
+      <node id="Տիրան" label="Տիրան" />
+      <node id="Սրբազանի" label="Սրբազանի" />
+      <node id="Ցլիկ" label="Ցլիկ" />
+      <node id="Ամիրգյունեին" label="Ամիրգյունեին" />
+      <node id="Դավիթ" label="Դավիթ" />
+      <node id="Աղնձյաց" label="Աղնձյաց" />
+      <node id="Վասիլ Իվանովիչ" label="Վասիլ Իվանովիչ" />
+      <node id="Մաքանը" label="Մաքանը" />
+      <node id="Կարինյանը" label="Կարինյանը" />
+      <node id="Դվինից" label="Դվինից" />
+      <node id="Անիչկա" label="Անիչկա" />
+      <node id="Մոկաց" label="Մոկաց" />
+      <node id="Սերգոն" label="Սերգոն" />
+      <node id="Հայկազն" label="Հայկազն" />
+      <node id="Երազմոսի" label="Երազմոսի" />
+      <node id="Արսեն Մաշտոցյանը" label="Արսեն Մաշտոցյանը" />
+      <node id="ՀԵՐՈՍԻ" label="ՀԵՐՈՍԻ" />
+      <node id="Գուստավին" label="Գուստավին" />
+      <node id="Անանիա" label="Անանիա" />
+      <node id="Մարիամի" label="Մարիամի" />
+      <node id="Գևորգ Սիմբրյանի" label="Գևորգ Սիմբրյանի" />
+      <node id="Արամ Բյուրատյան" label="Արամ Բյուրատյան" />
+      <node id="Աղվանից" label="Աղվանից" />
+      <node id="Դարչոյին" label="Դարչոյին" />
+      <node id="Սիգոն" label="Սիգոն" />
+      <node id="Ուտիքի" label="Ուտիքի" />
+      <node id="Իշխան Սևադայի" label="Իշխան Սևադայի" />
+      <node id="Տուրուբերանի" label="Տուրուբերանի" />
+      <node id="Սինքլոր" label="Սինքլոր" />
+      <node id="Ժամհարի" label="Ժամհարի" />
+      <node id="Զատկի" label="Զատկի" />
+      <node id="հալլաբ Սաքոյի" label="հալլաբ Սաքոյի" />
+      <node id="Մարիամ" label="Մարիամ" />
+      <node id="Մարությանը" label="Մարությանը" />
+      <node id="Դարչո" label="Դարչո" />
+      <node id="ՍԻՄՈՆԻ" label="ՍԻՄՈՆԻ" />
+      <node id="Իշխան Սևադան" label="Իշխան Սևադան" />
+      <node id="Գեղամա" label="Գեղամա" />
+      <node id="Գոռը" label="Գոռը" />
+      <node id="ԿՈՒՅՐ" label="ԿՈՒՅՐ" />
+      <node id="Լուսավորիչը" label="Լուսավորիչը" />
+      <node id="Շառլոտան" label="Շառլոտան" />
+      <node id="Վասիլ Իվանիչը" label="Վասիլ Իվանիչը" />
+      <node id="Լազարյանը" label="Լազարյանը" />
+      <node id="Ագապյանների" label="Ագապյանների" />
+      <node id="Արքայից" label="Արքայից" />
+      <node id="Տիրանին" label="Տիրանին" />
+      <node id="Սիմոնին" label="Սիմոնին" />
+      <node id="ՄԻԿԻԹ" label="ՄԻԿԻԹ" />
+      <node id="Սպարապետը" label="Սպարապետը" />
+      <node id="Շահ — Մելիքյանի" label="Շահ — Մելիքյանի" />
+      <node id="Ճաճուռյան" label="Ճաճուռյան" />
+      <node id="Սերգոյին" label="Սերգոյին" />
+      <node id="Աբաս արքաեղբայրը" label="Աբաս արքաեղբայրը" />
+      <node id="Իշխանը" label="Իշխանը" />
+      <node id="Աննային" label="Աննային" />
+      <node id="Միկիթն" label="Միկիթն" />
+      <node id="Գրիգորի" label="Գրիգորի" />
+      <node id="Կարապետը" label="Կարապետը" />
+      <node id="թագուհուն" label="թագուհուն" />
+      <node id="Պառավը" label="Պառավը" />
+      <node id="Սիմբրյանն" label="Սիմբրյանն" />
+      <node id="Դվնո" label="Դվնո" />
+      <node id="Հարությունը" label="Հարությունը" />
+      <node id="Մարզպետունու" label="Մարզպետունու" />
+      <node id="Ղազարի" label="Ղազարի" />
+      <node id="Վարդուհին" label="Վարդուհին" />
+      <node id="արքա" label="արքա" />
+      <node id="Արքայի" label="Արքայի" />
+      <node id="Սևադան" label="Սևադան" />
+      <node id="Սարգսին" label="Սարգսին" />
+      <node id="Սիմոնը" label="Սիմոնը" />
+      <node id="Սահակ Սևադայի" label="Սահակ Սևադայի" />
+      <node id="Անիչկի" label="Անիչկի" />
+      <node id="Լուսինյանների" label="Լուսինյանների" />
+      <node id="Ամալիան" label="Ամալիան" />
+      <node id="Սարգսի" label="Սարգսի" />
+      <node id="Սիգո" label="Սիգո" />
+      <node id="շահին" label="շահին" />
+      <node id="Անդրեասին" label="Անդրեասին" />
+      <node id="Բժշկի" label="Բժշկի" />
+      <node id="Մարանջյանը" label="Մարանջյանը" />
+      <node id="Զատկին" label="Զատկին" />
+      <node id="Վարդուհու" label="Վարդուհու" />
+      <node id="Աբաս" label="Աբաս" />
+      <node id="Օհանի" label="Օհանի" />
+      <node id="Մեհերյանը" label="Մեհերյանը" />
+      <node id="Գևորգն" label="Գևորգն" />
+      <node id="եգերացոց" label="եգերացոց" />
+      <node id="Իշխանի Դավիթ" label="Իշխանի Դավիթ" />
+      <node id="Պետրոսին" label="Պետրոսին" />
+      <node id="Վասակի" label="Վասակի" />
+      <node id="Ագապյան" label="Ագապյան" />
+      <node id="Թամարի" label="Թամարի" />
+      <node id="Շահաբաս Ա" label="Շահաբաս Ա" />
+      <node id="Անիչկին" label="Անիչկին" />
+      <node id="Հորեղբայր" label="Հորեղբայր" />
+      <node id="Տանպետյանցի" label="Տանպետյանցի" />
+      <node id="Գարդմանա" label="Գարդմանա" />
+      <node id="Ստեփաննոսը" label="Ստեփաննոսը" />
+      <node id="Տրդատ մեծի" label="Տրդատ մեծի" />
+      <node id="Արսեն Մաշտոցյանին" label="Արսեն Մաշտոցյանին" />
+      <node id="Սարգիս" label="Սարգիս" />
+      <node id="Թամարը" label="Թամարը" />
+      <node id="Աննայից" label="Աննայից" />
+      <node id="Կարոյի" label="Կարոյի" />
+      <node id="Արսենի" label="Արսենի" />
+      <node id="Եզովպոսը" label="Եզովպոսը" />
+      <node id="Խրամը" label="Խրամը" />
+      <node id="Որդի" label="Որդի" />
+      <node id="Խաթուն" label="Խաթուն" />
+      <node id="Սաբեթ" label="Սաբեթ" />
+      <node id="Նահապետի" label="Նահապետի" />
+      <node id="ԹՇՆԱՄՈՒ" label="ԹՇՆԱՄՈՒ" />
+      <node id="Վահրամ սեպուհը" label="Վահրամ սեպուհը" />
+      <node id="Սեդա" label="Սեդա" />
+      <node id="Մարգարիտայի" label="Մարգարիտայի" />
+      <node id="Քեթևանը" label="Քեթևանը" />
+      <node id="Սիմբրյանը" label="Սիմբրյանը" />
+      <node id="Բեշիրը" label="Բեշիրը" />
+      <node id="Մարիա Սերգեևնա" label="Մարիա Սերգեևնա" />
+      <node id="Անդրեասի" label="Անդրեասի" />
+      <node id="Ագապյանները" label="Ագապյանները" />
+      <node id="Սահակ եպիսկոպոսի" label="Սահակ եպիսկոպոսի" />
+      <node id="Նյութականի" label="Նյութականի" />
+      <node id="Մաշտոցյանին" label="Մաշտոցյանին" />
+      <node id="Պուղու" label="Պուղու" />
+    </nodes>
+    <edges>
+      <edge source="Մուրադի" target="ԱՆԴՐԵԱՍ" id="0" weight="1" />
+      <edge source="Մուրադի" target="Առաքել" id="1" weight="1" />
+      <edge source="Մուրադի" target="Դավիթ Էջմիածնեցուն" id="2" weight="1" />
+      <edge source="Մուրադի" target="Խուդաբանդ" id="3" weight="1" />
+      <edge source="Մուրադի" target="Շահաբաս Ա" id="4" weight="1" />
+      <edge source="Աղձնյաց" target="Աբաս արքաեղբայրը" id="5" weight="1" />
+      <edge source="Աղձնյաց" target="Աշոտ սպարապետը" id="6" weight="1" />
+      <edge source="Աղձնյաց" target="Բեշիրը" id="7" weight="1" />
+      <edge source="Աղձնյաց" target="Գագիկ Արծրունին" id="8" weight="1" />
+      <edge source="Աղձնյաց" target="Գևորգ Մարզպետունին" id="9" weight="1" />
+      <edge source="Աղձնյաց" target="ՀԵՐՈՍԻ" id="10" weight="1" />
+      <edge source="Աղձնյաց" target="Մարզպետունի" id="11" weight="1" />
+      <edge source="Աղձնյաց" target="Մարզպետունին" id="12" weight="1" />
+      <edge source="Աղձնյաց" target="Մոկաց" id="13" weight="2" />
+      <edge source="Աղձնյաց" target="Վահրամ սեպուհը" id="14" weight="2" />
+      <edge source="Աղձնյաց" target="Քրիստոսի" id="15" weight="1" />
+      <edge source="Աղձնյաց" target="թագուհուն" id="16" weight="1" />
+      <edge source="Աղձնյաց" target="Աբասը" id="17" weight="1" />
+      <edge source="Աղձնյաց" target="Աղվանից" id="18" weight="1" />
+      <edge source="Աղձնյաց" target="Աշոտ" id="19" weight="1" />
+      <edge source="Աղձնյաց" target="Արքայի" id="20" weight="1" />
+      <edge source="Աղձնյաց" target="Գարդմանա" id="21" weight="1" />
+      <edge source="Աղձնյաց" target="Գուրգենդուխտ" id="22" weight="1" />
+      <edge source="Աղձնյաց" target="Դավիթը" id="23" weight="1" />
+      <edge source="Աղձնյաց" target="Երազգավորս" id="24" weight="1" />
+      <edge source="Աղձնյաց" target="Երազգավորսից" id="25" weight="1" />
+      <edge source="Աղձնյաց" target="Թեոդորոս" id="26" weight="1" />
+      <edge source="Աղձնյաց" target="Սահականույշ" id="27" weight="1" />
+      <edge source="Աղձնյաց" target="Ստեփաննոսը" id="28" weight="1" />
+      <edge source="Աղձնյաց" target="Վասպուրականի" id="29" weight="1" />
+      <edge source="Աղձնյաց" target="Տուրուբերանի" id="30" weight="1" />
+      <edge source="Աբասին" target="Արքայի" id="31" weight="1" />
+      <edge source="Աբասին" target="Գոռը" id="32" weight="1" />
+      <edge source="Աբասին" target="Դվնո" id="33" weight="1" />
+      <edge source="Աբասին" target="Մարզպետունի" id="34" weight="1" />
+      <edge source="Գրիգորը" target="Գրիգորի" id="35" weight="2" />
+      <edge source="Գրիգորը" target="Մարիամի" id="36" weight="1" />
+      <edge source="Գրիգորը" target="Գրիգոր" id="37" weight="1" />
+      <edge source="Գրիգորը" target="Կարոյի" id="38" weight="1" />
+      <edge source="Գրիգորը" target="Մարիամ" id="39" weight="2" />
+      <edge source="Գրիգորը" target="Մարիամը" id="40" weight="2" />
+      <edge source="Գրիգորը" target="Ալեքսանը" id="41" weight="1" />
+      <edge source="Գրիգորը" target="Ավետիքը" id="42" weight="1" />
+      <edge source="Գրիգորը" target="Կարապետը" id="43" weight="1" />
+      <edge source="Գրիգորը" target="Կարոն" id="44" weight="1" />
+      <edge source="Գրիգորը" target="Հարությունը" id="45" weight="1" />
+      <edge source="Գրիգորը" target="Հովակիմը" id="46" weight="1" />
+      <edge source="Գրիգորը" target="Ղազարի" id="47" weight="1" />
+      <edge source="Գրիգորը" target="Սիմոնը" id="48" weight="1" />
+      <edge source="Սիմոնի" target="Ճաճուռյան" id="49" weight="1" />
+      <edge source="Սիմոնի" target="Շմավոնի" id="50" weight="1" />
+      <edge source="խեղճն" target="Գևորգ" id="51" weight="1" />
+      <edge source="խեղճն" target="Գևորգը" id="52" weight="1" />
+      <edge source="խեղճն" target="Գևորգի" id="53" weight="1" />
+      <edge source="խեղճն" target="Գևորգին" id="54" weight="1" />
+      <edge source="խեղճն" target="Գևորգն" id="55" weight="1" />
+      <edge source="խեղճն" target="Սոմարյանցի" id="56" weight="1" />
+      <edge source="Աշոտ — Երկաթը" target="Ամրամի" id="57" weight="1" />
+      <edge source="Աշոտ — Երկաթը" target="Կաքավաքար" id="58" weight="1" />
+      <edge source="Աշոտ — Երկաթը" target="Մարզպետունի" id="59" weight="1" />
+      <edge source="Աշոտ — Երկաթը" target="Մարզպետունու" id="60" weight="1" />
+      <edge source="Գևորգը" target="Գուստավին" id="61" weight="2" />
+      <edge source="Գևորգը" target="Գևորգն" id="62" weight="2" />
+      <edge source="Գևորգը" target="Սոմարյանցի" id="63" weight="2" />
+      <edge source="Գևորգը" target="Գեվորգի" id="64" weight="1" />
+      <edge source="Գևորգը" target="Գևորգենց" id="65" weight="1" />
+      <edge source="Գևորգը" target="Գևորգի" id="66" weight="3" />
+      <edge source="Գևորգը" target="Գևորգին" id="67" weight="2" />
+      <edge source="Գևորգը" target="Թամարը" id="68" weight="1" />
+      <edge source="Գևորգը" target="Թամարի" id="69" weight="1" />
+      <edge source="Գևորգը" target="Թամարն" id="70" weight="1" />
+      <edge source="Գևորգը" target="Ղազարը" id="71" weight="1" />
+      <edge source="Գևորգը" target="Գևորգ" id="72" weight="1" />
+      <edge source="Գևորգը" target="Գուստավի" id="73" weight="1" />
+      <edge source="Գևորգը" target="Շառլոտան" id="74" weight="1" />
+      <edge source="Օքուզ" target="Շահաբասը" id="75" weight="1" />
+      <edge source="Օքուզ" target="Շահաբասի" id="76" weight="1" />
+      <edge source="Գարդմանի" target="Գարդմանա" id="77" weight="1" />
+      <edge source="Գարդմանի" target="ՍԱՀԱՆՈՒՅՇԻ" id="78" weight="1" />
+      <edge source="Գարդմանի" target="Սահակ Սևադայի" id="79" weight="1" />
+      <edge source="Գարդմանի" target="Սեդա" id="80" weight="1" />
+      <edge source="Գարդմանի" target="Սեդան" id="81" weight="1" />
+      <edge source="Թեոդորոս" target="Աբասը" id="82" weight="1" />
+      <edge source="Թեոդորոս" target="Աղվանից" id="83" weight="1" />
+      <edge source="Թեոդորոս" target="Աշոտ" id="84" weight="1" />
+      <edge source="Թեոդորոս" target="Արքայի" id="85" weight="1" />
+      <edge source="Թեոդորոս" target="Գարդմանա" id="86" weight="1" />
+      <edge source="Թեոդորոս" target="Գուրգենդուխտ" id="87" weight="1" />
+      <edge source="Թեոդորոս" target="Դավիթը" id="88" weight="1" />
+      <edge source="Թեոդորոս" target="Երազգավորս" id="89" weight="1" />
+      <edge source="Թեոդորոս" target="Երազգավորսից" id="90" weight="1" />
+      <edge source="Թեոդորոս" target="Մոկաց" id="91" weight="1" />
+      <edge source="Թեոդորոս" target="Սահականույշ" id="92" weight="1" />
+      <edge source="Թեոդորոս" target="Ստեփաննոսը" id="93" weight="1" />
+      <edge source="Թեոդորոս" target="Վահրամ սեպուհը" id="94" weight="1" />
+      <edge source="Թեոդորոս" target="Վասպուրականի" id="95" weight="1" />
+      <edge source="Թեոդորոս" target="Տուրուբերանի" id="96" weight="1" />
+      <edge source="Պետրե" target="Թովմասը" id="97" weight="1" />
+      <edge source="Պետրե" target="Հորեղբայր" id="98" weight="1" />
+      <edge source="Պետրե" target="Պետրոսը" id="99" weight="1" />
+      <edge source="Պետրե" target="պ" id="100" weight="1" />
+      <edge source="Մաշտոցյանը" target="Արսեն Մաշտոցյանի" id="101" weight="3" />
+      <edge source="Մաշտոցյանը" target="Արսենը" id="102" weight="1" />
+      <edge source="Մաշտոցյանը" target="Արսենի" id="103" weight="1" />
+      <edge source="Մաշտոցյանը" target="Նյութականի" id="104" weight="1" />
+      <edge source="Մաշտոցյանը" target="Արսեն Մաշտոցյանը" id="105" weight="1" />
+      <edge source="Մաշտոցյանը" target="Մաշտոցյան" id="106" weight="1" />
+      <edge source="Մաշտոցյանը" target="Սինքլոր" id="107" weight="1" />
+      <edge source="Մաշտոցյանը" target="Ագապյանների" id="108" weight="1" />
+      <edge source="Մաշտոցյանը" target="Ագապյաններից" id="109" weight="1" />
+      <edge source="Մաշտոցյանը" target="Ամալիայի" id="110" weight="1" />
+      <edge source="Մաշտոցյանը" target="Ամալիան" id="111" weight="2" />
+      <edge source="Մաշտոցյանը" target="Մաշտոցյանին" id="112" weight="1" />
+      <edge source="Մաշտոցյանը" target="Սիմբրյանը" id="113" weight="1" />
+      <edge source="Մաշտոցյանը" target="Սիմբրյանին" id="114" weight="1" />
+      <edge source="Մաշտոցյանը" target="Ամալիային Մաշտոցյանի" id="115" weight="1" />
+      <edge source="Մաշտոցյանը" target="Դարիան" id="116" weight="1" />
+      <edge source="Շահռուխի" target="Անդրեասը" id="117" weight="1" />
+      <edge source="Շահռուխի" target="Անդրեասի" id="118" weight="1" />
+      <edge source="Շահռուխի" target="Շահռուխ" id="119" weight="1" />
+      <edge source="եպիսկոպոսները" target="Աբաս" id="120" weight="1" />
+      <edge source="եպիսկոպոսները" target="Աղնձյաց" id="121" weight="1" />
+      <edge source="եպիսկոպոսները" target="Անանիա" id="122" weight="1" />
+      <edge source="եպիսկոպոսները" target="Աշոտ" id="123" weight="1" />
+      <edge source="եպիսկոպոսները" target="Գևորգ" id="124" weight="1" />
+      <edge source="եպիսկոպոսները" target="Դավիթ" id="125" weight="1" />
+      <edge source="եպիսկոպոսները" target="ՀԵՐՈՍԻ" id="126" weight="1" />
+      <edge source="եպիսկոպոսները" target="Մարզպետունի" id="127" weight="1" />
+      <edge source="եպիսկոպոսները" target="Մոկաց" id="128" weight="1" />
+      <edge source="եպիսկոպոսները" target="Սահակ Սևադայի" id="129" weight="1" />
+      <edge source="եպիսկոպոսները" target="արքայի" id="130" weight="1" />
+      <edge source="ԱՆԴՐԵԱՍ" target="Առաքել" id="131" weight="1" />
+      <edge source="ԱՆԴՐԵԱՍ" target="Դավիթ Էջմիածնեցուն" id="132" weight="1" />
+      <edge source="ԱՆԴՐԵԱՍ" target="Խուդաբանդ" id="133" weight="1" />
+      <edge source="ԱՆԴՐԵԱՍ" target="Շահաբաս Ա" id="134" weight="1" />
+      <edge source="Վահրամ Սեպուհը" target="Արքայի" id="135" weight="1" />
+      <edge source="Վահրամ Սեպուհը" target="Արքայորդին" id="136" weight="1" />
+      <edge source="Վահրամ Սեպուհը" target="Ափխազաց" id="137" weight="1" />
+      <edge source="Վահրամ Սեպուհը" target="Գոռ" id="138" weight="1" />
+      <edge source="Վահրամ Սեպուհը" target="ԹՇՆԱՄՈՒ" id="139" weight="1" />
+      <edge source="Վահրամ Սեպուհը" target="Սեպուհ" id="140" weight="1" />
+      <edge source="Վահրամ Սեպուհը" target="Սպարապետը" id="141" weight="1" />
+      <edge source="Եզովպոսի" target="Եզովպոսը" id="142" weight="1" />
+      <edge source="Եզովպոսի" target="Կարինյանը" id="143" weight="1" />
+      <edge source="Եզովպոսի" target="Հեթումյանին" id="144" weight="1" />
+      <edge source="Եզովպոսի" target="Մատինյանը" id="145" weight="1" />
+      <edge source="Եզովպոսի" target="Մեհերյանը" id="146" weight="1" />
+      <edge source="Եզովպոսի" target="պ" id="147" weight="1" />
+      <edge source="Շահռուխին" target="Ամիրգյունեին" id="148" weight="1" />
+      <edge source="Շահռուխին" target="Անդրեասի" id="149" weight="1" />
+      <edge source="Շահռուխին" target="Մելիքները" id="150" weight="1" />
+      <edge source="Շահռուխին" target="Շահռուխն" id="151" weight="1" />
+      <edge source="Շահռուխին" target="Պառավը" id="152" weight="1" />
+      <edge source="Շահռուխին" target="շահը" id="153" weight="1" />
+      <edge source="Շահռուխին" target="շահին" id="154" weight="1" />
+      <edge source="Հովհաննես" target="Ամրամը" id="155" weight="1" />
+      <edge source="Հովհաննես" target="Ամրամի" id="156" weight="1" />
+      <edge source="Հովհաննես" target="Մարզպետունի" id="157" weight="1" />
+      <edge source="Հովհաննես" target="Մուշեղ" id="158" weight="1" />
+      <edge source="Հովհաննես" target="Սյունյաց Մարիամ" id="159" weight="1" />
+      <edge source="Հովհաննես" target="Ցլիկ" id="160" weight="1" />
+      <edge source="Հովհաննես" target="Նահապետի" id="161" weight="1" />
+      <edge source="Հովհաննես" target="Սահակ եպիսկոպոսի" id="162" weight="1" />
+      <edge source="Սևադայի" target="Դավիթ" id="163" weight="1" />
+      <edge source="Սևադայի" target="ԿՈՒՅՐ" id="164" weight="1" />
+      <edge source="Սևադայի" target="Մարզպետունու" id="165" weight="1" />
+      <edge source="Սևադայի" target="Սևադա" id="166" weight="1" />
+      <edge source="Սևադայի" target="Սևադան" id="167" weight="1" />
+      <edge source="պ" target="Եզովպոսը" id="168" weight="1" />
+      <edge source="պ" target="Կարինյանը" id="169" weight="1" />
+      <edge source="պ" target="Հեթումյանին" id="170" weight="1" />
+      <edge source="պ" target="Մատինյանը" id="171" weight="1" />
+      <edge source="պ" target="Մեհերյանը" id="172" weight="1" />
+      <edge source="պ" target="Թովմասը" id="173" weight="1" />
+      <edge source="պ" target="Հորեղբայր" id="174" weight="1" />
+      <edge source="պ" target="Պետրոսը" id="175" weight="1" />
+      <edge source="Դավիթը" target="Աբասը" id="176" weight="1" />
+      <edge source="Դավիթը" target="Աղվանից" id="177" weight="1" />
+      <edge source="Դավիթը" target="Աշոտ" id="178" weight="1" />
+      <edge source="Դավիթը" target="Արքայի" id="179" weight="1" />
+      <edge source="Դավիթը" target="Գարդմանա" id="180" weight="1" />
+      <edge source="Դավիթը" target="Գուրգենդուխտ" id="181" weight="1" />
+      <edge source="Դավիթը" target="Երազգավորս" id="182" weight="1" />
+      <edge source="Դավիթը" target="Երազգավորսից" id="183" weight="1" />
+      <edge source="Դավիթը" target="Մոկաց" id="184" weight="1" />
+      <edge source="Դավիթը" target="Սահականույշ" id="185" weight="1" />
+      <edge source="Դավիթը" target="Ստեփաննոսը" id="186" weight="1" />
+      <edge source="Դավիթը" target="Վահրամ սեպուհը" id="187" weight="1" />
+      <edge source="Դավիթը" target="Վասպուրականի" id="188" weight="1" />
+      <edge source="Դավիթը" target="Տուրուբերանի" id="189" weight="1" />
+      <edge source="Ափխազաց" target="Արքայի" id="190" weight="1" />
+      <edge source="Ափխազաց" target="Արքայորդին" id="191" weight="1" />
+      <edge source="Ափխազաց" target="Գոռ" id="192" weight="1" />
+      <edge source="Ափխազաց" target="ԹՇՆԱՄՈՒ" id="193" weight="1" />
+      <edge source="Ափխազաց" target="Սեպուհ" id="194" weight="1" />
+      <edge source="Ափխազաց" target="Սպարապետը" id="195" weight="1" />
+      <edge source="Ղազարը" target="Գեվորգի" id="196" weight="1" />
+      <edge source="Ղազարը" target="Գևորգենց" id="197" weight="1" />
+      <edge source="Ղազարը" target="Գևորգի" id="198" weight="1" />
+      <edge source="Ղազարը" target="Գևորգին" id="199" weight="1" />
+      <edge source="Ղազարը" target="Թամարը" id="200" weight="1" />
+      <edge source="Ղազարը" target="Թամարի" id="201" weight="1" />
+      <edge source="Ղազարը" target="Թամարն" id="202" weight="1" />
+      <edge source="Ամրամի" target="Ամրամը" id="203" weight="2" />
+      <edge source="Ամրամի" target="Գևորգ" id="204" weight="1" />
+      <edge source="Ամրամի" target="Մարզպետունի" id="205" weight="3" />
+      <edge source="Ամրամի" target="Ուտիքի" id="206" weight="1" />
+      <edge source="Ամրամի" target="Ցլիկ" id="207" weight="2" />
+      <edge source="Ամրամի" target="Իշխանի Դավիթ" id="208" weight="1" />
+      <edge source="Ամրամի" target="Սահակ" id="209" weight="1" />
+      <edge source="Ամրամի" target="Սեդան" id="210" weight="1" />
+      <edge source="Ամրամի" target="Մուշեղ" id="211" weight="1" />
+      <edge source="Ամրամի" target="Սյունյաց Մարիամ" id="212" weight="1" />
+      <edge source="Ամրամի" target="Կաքավաքար" id="213" weight="1" />
+      <edge source="Ամրամի" target="Մարզպետունու" id="214" weight="1" />
+      <edge source="Վարդանանց" target="Հայկազն" id="215" weight="1" />
+      <edge source="Վարդանանց" target="Ս . Գեղարդի" id="216" weight="1" />
+      <edge source="Վարդանանց" target="Վասակի" id="217" weight="1" />
+      <edge source="Վարդանանց" target="Տրդատ մեծի" id="218" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Աբաս արքաեղբայրը" id="219" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Աշոտ սպարապետը" id="220" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Բեշիրը" id="221" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Գևորգ Մարզպետունին" id="222" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="ՀԵՐՈՍԻ" id="223" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Մարզպետունի" id="224" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Մարզպետունին" id="225" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Մոկաց" id="226" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Վահրամ սեպուհը" id="227" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Քրիստոսի" id="228" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="թագուհուն" id="229" weight="1" />
+      <edge source="Գագիկ Արծրունին" target="Աբաս" id="230" weight="1" />
+      <edge source="Դարչոյի" target="Դարչոյին" id="231" weight="1" />
+      <edge source="Դարչոյի" target="Դարչոն" id="232" weight="2" />
+      <edge source="Դարչոյի" target="Սերգոյի" id="233" weight="1" />
+      <edge source="Դարչոյի" target="Սերգոն" id="234" weight="2" />
+      <edge source="Դարչոյի" target="Օհանի" id="235" weight="1" />
+      <edge source="Դարչոյի" target="Դարչո" id="236" weight="1" />
+      <edge source="Դարչոյի" target="Մաշոն" id="237" weight="1" />
+      <edge source="Դարչոյի" target="Սերգո" id="238" weight="1" />
+      <edge source="Դարչոյի" target="Քեթևանը" id="239" weight="1" />
+      <edge source="Սյունեցուն" target="Անդրեասը" id="240" weight="1" />
+      <edge source="Սյունեցուն" target="Անդրեասի" id="241" weight="1" />
+      <edge source="Սյունեցուն" target="Մովսես" id="242" weight="1" />
+      <edge source="Սյունեցուն" target="Շահաբասը" id="243" weight="1" />
+      <edge source="Դուդուկջյանը" target="Գևորգին" id="244" weight="1" />
+      <edge source="Դուդուկջյանը" target="Գևորգն" id="245" weight="1" />
+      <edge source="Դուդուկջյանը" target="Սոմարյանցի" id="246" weight="1" />
+      <edge source="Դուդուկջյանը" target="Տանպետյանցի" id="247" weight="1" />
+      <edge source="Կարոն" target="Ալեքսանը" id="248" weight="1" />
+      <edge source="Կարոն" target="Ավետիքը" id="249" weight="1" />
+      <edge source="Կարոն" target="Կարապետը" id="250" weight="1" />
+      <edge source="Կարոն" target="Հարությունը" id="251" weight="1" />
+      <edge source="Կարոն" target="Հովակիմը" id="252" weight="1" />
+      <edge source="Կարոն" target="Ղազարի" id="253" weight="1" />
+      <edge source="Կարոն" target="Սիմոնը" id="254" weight="1" />
+      <edge source="Գևորգ Մարզպետունու" target="Արքայից" id="255" weight="1" />
+      <edge source="Գևորգ Մարզպետունու" target="Գեղամա" id="256" weight="1" />
+      <edge source="Գևորգ Մարզպետունու" target="Իշխանը" id="257" weight="1" />
+      <edge source="Գևորգ Մարզպետունու" target="Իշխանի" id="258" weight="1" />
+      <edge source="Լազարյանների" target="Անիչկի" id="259" weight="1" />
+      <edge source="Լազարյանների" target="Անիչկին" id="260" weight="1" />
+      <edge source="Լազարյանների" target="Աննային" id="261" weight="1" />
+      <edge source="Լազարյանների" target="Աննան" id="262" weight="1" />
+      <edge source="Լազարյանների" target="Լազարյանը" id="263" weight="2" />
+      <edge source="Լազարյանների" target="Մարությանը" id="264" weight="2" />
+      <edge source="Լազարյանների" target="Մարությանի" id="265" weight="1" />
+      <edge source="Լազարյանների" target="Վարդուհի Սամվելյանի" id="266" weight="1" />
+      <edge source="Լազարյանների" target="Վարդուհին" id="267" weight="3" />
+      <edge source="Լազարյանների" target="Մարությանին" id="268" weight="2" />
+      <edge source="Լազարյանների" target="Տիրան" id="269" weight="1" />
+      <edge source="Լազարյանների" target="Աննայից" id="270" weight="1" />
+      <edge source="Լազարյանների" target="Շահ — Մելիքյանի" id="271" weight="2" />
+      <edge source="Լազարյանների" target="Վարդուհու" id="272" weight="1" />
+      <edge source="Լազարյանների" target="Վասիլ Իվանիչը" id="273" weight="1" />
+      <edge source="Լազարյանների" target="Օրիորդ Լազարյանի" id="274" weight="1" />
+      <edge source="Շմավոնն" target="Սիմոնը" id="275" weight="1" />
+      <edge source="Թովմասի" target="Թովմասը" id="276" weight="1" />
+      <edge source="Թովմասի" target="Աստղիկին" id="277" weight="1" />
+      <edge source="Թովմասի" target="Պետրոսը" id="278" weight="1" />
+      <edge source="Թովմասի" target="Պետրոսի" id="279" weight="1" />
+      <edge source="Թովմասի" target="Պետրոսին" id="280" weight="1" />
+      <edge source="Թովմասի" target="Սարգիս" id="281" weight="1" />
+      <edge source="Թովմասի" target="Սարգիսը" id="282" weight="1" />
+      <edge source="Թովմասի" target="Սարգիսն" id="283" weight="1" />
+      <edge source="Թովմասի" target="Սրբազանը" id="284" weight="1" />
+      <edge source="Թովմասի" target="Սրբազանի" id="285" weight="1" />
+      <edge source="Տեր" target="Անդրեասը" id="286" weight="1" />
+      <edge source="Տեր" target="Սարգսին" id="287" weight="1" />
+      <edge source="Մարությանի" target="Անիչկի" id="288" weight="1" />
+      <edge source="Մարությանի" target="Անիչկին" id="289" weight="1" />
+      <edge source="Մարությանի" target="Աննային" id="290" weight="2" />
+      <edge source="Մարությանի" target="Աննան" id="291" weight="2" />
+      <edge source="Մարությանի" target="Լազարյանը" id="292" weight="1" />
+      <edge source="Մարությանի" target="Մարությանը" id="293" weight="2" />
+      <edge source="Մարությանի" target="Վարդուհի Սամվելյանի" id="294" weight="1" />
+      <edge source="Մարությանի" target="Վարդուհին" id="295" weight="3" />
+      <edge source="Մարությանի" target="Աննայի" id="296" weight="1" />
+      <edge source="Մարությանի" target="Վարդո" id="297" weight="1" />
+      <edge source="Մարությանի" target="Վարդուհու" id="298" weight="1" />
+      <edge source="Մարությանի" target="Տիրանը" id="299" weight="1" />
+      <edge source="Մարությանի" target="Տիրանին" id="300" weight="1" />
+      <edge source="Մարությանի" target="Վարդուհուց" id="301" weight="1" />
+      <edge source="Մարությանին" target="Վարդուհին" id="302" weight="2" />
+      <edge source="Մարությանին" target="Տիրան" id="303" weight="1" />
+      <edge source="Մարությանին" target="Աննայից" id="304" weight="1" />
+      <edge source="Մարությանին" target="Մարությանը" id="305" weight="1" />
+      <edge source="Մարությանին" target="Շահ — Մելիքյանի" id="306" weight="1" />
+      <edge source="Մարությանին" target="Վարդուհու" id="307" weight="1" />
+      <edge source="Աննայի" target="Անիչկա" id="308" weight="2" />
+      <edge source="Աննայի" target="Աննա Լազարյան" id="309" weight="1" />
+      <edge source="Աննայի" target="Լազարյանը" id="310" weight="1" />
+      <edge source="Աննայի" target="Վարդո" id="311" weight="2" />
+      <edge source="Աննայի" target="Վարդուհի Սամվելյան" id="312" weight="1" />
+      <edge source="Աննայի" target="Վարդուհին" id="313" weight="2" />
+      <edge source="Աննայի" target="Աննային" id="314" weight="1" />
+      <edge source="Աննայի" target="Մարությանը" id="315" weight="2" />
+      <edge source="Աննայի" target="Մարությանն" id="316" weight="2" />
+      <edge source="Աննայի" target="Վարդուհու" id="317" weight="2" />
+      <edge source="Աննայի" target="Աննան" id="318" weight="2" />
+      <edge source="Աննայի" target="Տիրանը" id="319" weight="1" />
+      <edge source="Աննայի" target="Տիրանին" id="320" weight="1" />
+      <edge source="Աննայի" target="Մարիա Սերգեևնա" id="321" weight="1" />
+      <edge source="Աննայի" target="Պարիզը" id="322" weight="1" />
+      <edge source="Աննայի" target="Պարիզում" id="323" weight="1" />
+      <edge source="Աննայի" target="Վասիլ Իվանովիչ" id="324" weight="1" />
+      <edge source="Աննայի" target="Շահ — Մելիքյանի" id="325" weight="1" />
+      <edge source="Աննայի" target="Շահ — Մելիքովը" id="326" weight="1" />
+      <edge source="Աննայի" target="Շահ — Մելիքովն" id="327" weight="1" />
+      <edge source="Աննայի" target="Որդի" id="328" weight="1" />
+      <edge source="Աննայի" target="Վասիլ Իվանիչը" id="329" weight="1" />
+      <edge source="Քրիստոսի" target="Աբաս արքաեղբայրը" id="330" weight="1" />
+      <edge source="Քրիստոսի" target="Աշոտ սպարապետը" id="331" weight="1" />
+      <edge source="Քրիստոսի" target="Բեշիրը" id="332" weight="1" />
+      <edge source="Քրիստոսի" target="Գևորգ Մարզպետունին" id="333" weight="1" />
+      <edge source="Քրիստոսի" target="ՀԵՐՈՍԻ" id="334" weight="1" />
+      <edge source="Քրիստոսի" target="Մարզպետունի" id="335" weight="1" />
+      <edge source="Քրիստոսի" target="Մարզպետունին" id="336" weight="1" />
+      <edge source="Քրիստոսի" target="Մոկաց" id="337" weight="1" />
+      <edge source="Քրիստոսի" target="Վահրամ սեպուհը" id="338" weight="1" />
+      <edge source="Քրիստոսի" target="թագուհուն" id="339" weight="1" />
+      <edge source="Շուղի" target="Պետրոսը" id="340" weight="1" />
+      <edge source="Ս . Գեղարդի" target="Հայկազն" id="341" weight="1" />
+      <edge source="Ս . Գեղարդի" target="Վասակի" id="342" weight="1" />
+      <edge source="Ս . Գեղարդի" target="Տրդատ մեծի" id="343" weight="1" />
+      <edge source="արքայի" target="Աբաս" id="344" weight="1" />
+      <edge source="արքայի" target="Աղնձյաց" id="345" weight="1" />
+      <edge source="արքայի" target="Անանիա" id="346" weight="1" />
+      <edge source="արքայի" target="Աշոտ" id="347" weight="1" />
+      <edge source="արքայի" target="Գևորգ" id="348" weight="1" />
+      <edge source="արքայի" target="Դավիթ" id="349" weight="1" />
+      <edge source="արքայի" target="ՀԵՐՈՍԻ" id="350" weight="1" />
+      <edge source="արքայի" target="Մարզպետունի" id="351" weight="1" />
+      <edge source="արքայի" target="Մոկաց" id="352" weight="1" />
+      <edge source="արքայի" target="Սահակ Սևադայի" id="353" weight="1" />
+      <edge source="Պարիզում" target="Մարիա Սերգեևնա" id="354" weight="1" />
+      <edge source="Պարիզում" target="Պարիզը" id="355" weight="1" />
+      <edge source="Պարիզում" target="Վասիլ Իվանովիչ" id="356" weight="1" />
+      <edge source="Սյունյաց Մարիամ" target="Ամրամը" id="357" weight="1" />
+      <edge source="Սյունյաց Մարիամ" target="Մարզպետունի" id="358" weight="1" />
+      <edge source="Սյունյաց Մարիամ" target="Մուշեղ" id="359" weight="1" />
+      <edge source="Սյունյաց Մարիամ" target="Ցլիկ" id="360" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Աբասը" id="361" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Աղվանից" id="362" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Աշոտ" id="363" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Արքայի" id="364" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Գարդմանա" id="365" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Երազգավորս" id="366" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Երազգավորսից" id="367" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Մոկաց" id="368" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Սահականույշ" id="369" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Ստեփաննոսը" id="370" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Վահրամ սեպուհը" id="371" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Վասպուրականի" id="372" weight="1" />
+      <edge source="Գուրգենդուխտ" target="Տուրուբերանի" id="373" weight="1" />
+      <edge source="Վարդուհի Սամվելյանի" target="Անիչկի" id="374" weight="1" />
+      <edge source="Վարդուհի Սամվելյանի" target="Անիչկին" id="375" weight="1" />
+      <edge source="Վարդուհի Սամվելյանի" target="Աննային" id="376" weight="1" />
+      <edge source="Վարդուհի Սամվելյանի" target="Աննան" id="377" weight="1" />
+      <edge source="Վարդուհի Սամվելյանի" target="Լազարյանը" id="378" weight="1" />
+      <edge source="Վարդուհի Սամվելյանի" target="Մարությանը" id="379" weight="1" />
+      <edge source="Վարդուհի Սամվելյանի" target="Վարդուհին" id="380" weight="1" />
+      <edge source="Դեդի" target="Մաշո" id="381" weight="1" />
+      <edge source="Դեդի" target="Որդի" id="382" weight="1" />
+      <edge source="Դեդի" target="Սերգոն" id="383" weight="1" />
+      <edge source="Դեդի" target="Փեփելի" id="384" weight="1" />
+      <edge source="Դեդի" target="հալլաբ Սաքոյի" id="385" weight="1" />
+      <edge source="Դեդի" target="ղազազ Արութինի" id="386" weight="1" />
+      <edge source="Պետրոսը" target="Թովմասը" id="387" weight="1" />
+      <edge source="Պետրոսը" target="Հորեղբայր" id="388" weight="1" />
+      <edge source="Պետրոսը" target="Աստղիկին" id="389" weight="1" />
+      <edge source="Պետրոսը" target="Պետրոսի" id="390" weight="1" />
+      <edge source="Պետրոսը" target="Պետրոսին" id="391" weight="1" />
+      <edge source="Պետրոսը" target="Սարգիս" id="392" weight="1" />
+      <edge source="Պետրոսը" target="Սարգիսը" id="393" weight="1" />
+      <edge source="Պետրոսը" target="Սարգիսն" id="394" weight="1" />
+      <edge source="Պետրոսը" target="Սրբազանը" id="395" weight="1" />
+      <edge source="Պետրոսը" target="Սրբազանի" id="396" weight="1" />
+      <edge source="Երազգավորս" target="Աբասը" id="397" weight="1" />
+      <edge source="Երազգավորս" target="Աղվանից" id="398" weight="1" />
+      <edge source="Երազգավորս" target="Աշոտ" id="399" weight="1" />
+      <edge source="Երազգավորս" target="Արքայի" id="400" weight="1" />
+      <edge source="Երազգավորս" target="Գարդմանա" id="401" weight="1" />
+      <edge source="Երազգավորս" target="Երազգավորսից" id="402" weight="1" />
+      <edge source="Երազգավորս" target="Մոկաց" id="403" weight="1" />
+      <edge source="Երազգավորս" target="Սահականույշ" id="404" weight="1" />
+      <edge source="Երազգավորս" target="Ստեփաննոսը" id="405" weight="1" />
+      <edge source="Երազգավորս" target="Վահրամ սեպուհը" id="406" weight="1" />
+      <edge source="Երազգավորս" target="Վասպուրականի" id="407" weight="1" />
+      <edge source="Երազգավորս" target="Տուրուբերանի" id="408" weight="1" />
+      <edge source="Վարդո" target="Անիչկա" id="409" weight="1" />
+      <edge source="Վարդո" target="Աննա Լազարյան" id="410" weight="1" />
+      <edge source="Վարդո" target="Լազարյանը" id="411" weight="1" />
+      <edge source="Վարդո" target="Վարդուհի Սամվելյան" id="412" weight="1" />
+      <edge source="Վարդո" target="Վարդուհին" id="413" weight="2" />
+      <edge source="Վարդո" target="Աննան" id="414" weight="1" />
+      <edge source="Վարդո" target="Վարդուհու" id="415" weight="1" />
+      <edge source="Վարդո" target="Տիրանը" id="416" weight="1" />
+      <edge source="Վարդո" target="Տիրանին" id="417" weight="1" />
+      <edge source="Հեթումյանին" target="Եզովպոսը" id="418" weight="1" />
+      <edge source="Հեթումյանին" target="Կարինյանը" id="419" weight="1" />
+      <edge source="Հեթումյանին" target="Մատինյանը" id="420" weight="1" />
+      <edge source="Հեթումյանին" target="Մեհերյանը" id="421" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Անիչկա" id="422" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Աննան" id="423" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Մարությանը" id="424" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Մարությանն" id="425" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Շահ — Մելիքյանի" id="426" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Շահ — Մելիքովն" id="427" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Որդի" id="428" weight="1" />
+      <edge source="Շահ — Մելիքովը" target="Վասիլ Իվանիչը" id="429" weight="1" />
+      <edge source="Թովմասն" target="Թովմասը" id="430" weight="1" />
+      <edge source="Թովմասն" target="Թովմասին" id="431" weight="1" />
+      <edge source="Թովմասն" target="Սիգո" id="432" weight="1" />
+      <edge source="Թովմասն" target="Սիգոն" id="433" weight="1" />
+      <edge source="Մաշո" target="Որդի" id="434" weight="1" />
+      <edge source="Մաշո" target="Սերգոն" id="435" weight="1" />
+      <edge source="Մաշո" target="Փեփելի" id="436" weight="1" />
+      <edge source="Մաշո" target="հալլաբ Սաքոյի" id="437" weight="1" />
+      <edge source="Մաշո" target="ղազազ Արութինի" id="438" weight="1" />
+      <edge source="Սրբազանը" target="Աստղիկին" id="439" weight="1" />
+      <edge source="Սրբազանը" target="Պետրոսի" id="440" weight="1" />
+      <edge source="Սրբազանը" target="Պետրոսին" id="441" weight="1" />
+      <edge source="Սրբազանը" target="Սարգիս" id="442" weight="1" />
+      <edge source="Սրբազանը" target="Սարգիսը" id="443" weight="1" />
+      <edge source="Սրբազանը" target="Սարգիսն" id="444" weight="1" />
+      <edge source="Սրբազանը" target="Սրբազանի" id="445" weight="1" />
+      <edge source="Սրբազանը" target="Հորը" id="446" weight="1" />
+      <edge source="Միկիթի" target="Մաքանը" id="447" weight="1" />
+      <edge source="Միկիթի" target="Միկիթ" id="448" weight="1" />
+      <edge source="Միկիթի" target="Միկիթը" id="449" weight="1" />
+      <edge source="Միկիթի" target="Միկիթն" id="450" weight="1" />
+      <edge source="Միկիթ" target="Մաքանը" id="451" weight="1" />
+      <edge source="Միկիթ" target="Միկիթը" id="452" weight="1" />
+      <edge source="Միկիթ" target="Միկիթն" id="453" weight="1" />
+      <edge source="Միկիթ" target="ՄԻԿԻԹ" id="454" weight="1" />
+      <edge source="Սոմարյանցի" target="Գուստավին" id="455" weight="1" />
+      <edge source="Սոմարյանցի" target="Գևորգն" id="456" weight="3" />
+      <edge source="Սոմարյանցի" target="Գևորգ" id="457" weight="1" />
+      <edge source="Սոմարյանցի" target="Գևորգի" id="458" weight="1" />
+      <edge source="Սոմարյանցի" target="Գևորգին" id="459" weight="2" />
+      <edge source="Սոմարյանցի" target="Տանպետյանցի" id="460" weight="1" />
+      <edge source="Շահաբասի" target="Շահաբասը" id="461" weight="1" />
+      <edge source="Առաքել" target="Դավիթ Էջմիածնեցուն" id="462" weight="1" />
+      <edge source="Առաքել" target="Խուդաբանդ" id="463" weight="1" />
+      <edge source="Առաքել" target="Շահաբաս Ա" id="464" weight="1" />
+      <edge source="Շմավոնի" target="Ճաճուռյան" id="465" weight="1" />
+      <edge source="Սարգիսն" target="Աստղիկին" id="466" weight="1" />
+      <edge source="Սարգիսն" target="Պետրոսի" id="467" weight="1" />
+      <edge source="Սարգիսն" target="Պետրոսին" id="468" weight="1" />
+      <edge source="Սարգիսն" target="Սարգիս" id="469" weight="1" />
+      <edge source="Սարգիսն" target="Սարգիսը" id="470" weight="1" />
+      <edge source="Սարգիսն" target="Սրբազանի" id="471" weight="1" />
+      <edge source="Մաշտոցյան" target="Արսեն Մաշտոցյանը" id="472" weight="1" />
+      <edge source="Մաշտոցյան" target="Արսեն Մաշտոցյանի" id="473" weight="1" />
+      <edge source="Մաշտոցյան" target="Սինքլոր" id="474" weight="1" />
+      <edge source="Օրիորդ Լազարյանի" target="Լազարյանը" id="475" weight="1" />
+      <edge source="Օրիորդ Լազարյանի" target="Շահ — Մելիքյանի" id="476" weight="1" />
+      <edge source="Օրիորդ Լազարյանի" target="Վասիլ Իվանիչը" id="477" weight="1" />
+      <edge source="Մովսես" target="Անդրեասը" id="478" weight="2" />
+      <edge source="Մովսես" target="Անդրեասի" id="479" weight="1" />
+      <edge source="Մովսես" target="Շահաբասը" id="480" weight="1" />
+      <edge source="Մովսես" target="Անդրեասին" id="481" weight="1" />
+      <edge source="Մովսես" target="ս" id="482" weight="1" />
+      <edge source="Աննա Լազարյան" target="Անիչկա" id="483" weight="1" />
+      <edge source="Աննա Լազարյան" target="Լազարյանը" id="484" weight="1" />
+      <edge source="Աննա Լազարյան" target="Վարդուհի Սամվելյան" id="485" weight="1" />
+      <edge source="Աննա Լազարյան" target="Վարդուհին" id="486" weight="1" />
+      <edge source="Աշոտ" target="Աշոտ արքայի" id="487" weight="1" />
+      <edge source="Աշոտ" target="Խրամը" id="488" weight="1" />
+      <edge source="Աշոտ" target="եգերացոց" id="489" weight="1" />
+      <edge source="Աշոտ" target="Աբասը" id="490" weight="1" />
+      <edge source="Աշոտ" target="Աղվանից" id="491" weight="1" />
+      <edge source="Աշոտ" target="Արքայի" id="492" weight="1" />
+      <edge source="Աշոտ" target="Գարդմանա" id="493" weight="1" />
+      <edge source="Աշոտ" target="Երազգավորսից" id="494" weight="1" />
+      <edge source="Աշոտ" target="Մոկաց" id="495" weight="2" />
+      <edge source="Աշոտ" target="Սահականույշ" id="496" weight="1" />
+      <edge source="Աշոտ" target="Ստեփաննոսը" id="497" weight="1" />
+      <edge source="Աշոտ" target="Վահրամ սեպուհը" id="498" weight="1" />
+      <edge source="Աշոտ" target="Վասպուրականի" id="499" weight="1" />
+      <edge source="Աշոտ" target="Տուրուբերանի" id="500" weight="1" />
+      <edge source="Աշոտ" target="Աբաս" id="501" weight="1" />
+      <edge source="Աշոտ" target="Աղնձյաց" id="502" weight="1" />
+      <edge source="Աշոտ" target="Անանիա" id="503" weight="1" />
+      <edge source="Աշոտ" target="Գևորգ" id="504" weight="1" />
+      <edge source="Աշոտ" target="Դավիթ" id="505" weight="1" />
+      <edge source="Աշոտ" target="ՀԵՐՈՍԻ" id="506" weight="1" />
+      <edge source="Աշոտ" target="Մարզպետունի" id="507" weight="1" />
+      <edge source="Աշոտ" target="Սահակ Սևադայի" id="508" weight="1" />
+      <edge source="Արսենը" target="Արսեն Մաշտոցյանի" id="509" weight="1" />
+      <edge source="Արսենը" target="Արսենի" id="510" weight="1" />
+      <edge source="Արսենը" target="Նյութականի" id="511" weight="1" />
+      <edge source="Երազգավորսից" target="Աբասը" id="512" weight="1" />
+      <edge source="Երազգավորսից" target="Աղվանից" id="513" weight="1" />
+      <edge source="Երազգավորսից" target="Արքայի" id="514" weight="1" />
+      <edge source="Երազգավորսից" target="Գարդմանա" id="515" weight="1" />
+      <edge source="Երազգավորսից" target="Մոկաց" id="516" weight="1" />
+      <edge source="Երազգավորսից" target="Սահականույշ" id="517" weight="1" />
+      <edge source="Երազգավորսից" target="Ստեփաննոսը" id="518" weight="1" />
+      <edge source="Երազգավորսից" target="Վահրամ սեպուհը" id="519" weight="1" />
+      <edge source="Երազգավորսից" target="Վասպուրականի" id="520" weight="1" />
+      <edge source="Երազգավորսից" target="Տուրուբերանի" id="521" weight="1" />
+      <edge source="Մարիամը" target="Գրիգոր" id="522" weight="1" />
+      <edge source="Մարիամը" target="Կարոյի" id="523" weight="1" />
+      <edge source="Մարիամը" target="Մարիամ" id="524" weight="2" />
+      <edge source="Մարիամը" target="Գրիգորի" id="525" weight="1" />
+      <edge source="Շահռուխն" target="Ամիրգյունեին" id="526" weight="1" />
+      <edge source="Շահռուխն" target="Անդրեասի" id="527" weight="1" />
+      <edge source="Շահռուխն" target="Մելիքները" id="528" weight="1" />
+      <edge source="Շահռուխն" target="Պառավը" id="529" weight="1" />
+      <edge source="Շահռուխն" target="շահը" id="530" weight="1" />
+      <edge source="Շահռուխն" target="շահին" id="531" weight="1" />
+      <edge source="Վարդուհուց" target="Աննային" id="532" weight="1" />
+      <edge source="Վարդուհուց" target="Մարությանը" id="533" weight="1" />
+      <edge source="Վարդուհուց" target="Վարդուհին" id="534" weight="1" />
+      <edge source="Շահռուխ" target="Անդրեասը" id="535" weight="1" />
+      <edge source="Շահռուխ" target="Անդրեասի" id="536" weight="1" />
+      <edge source="Մարզպետունին" target="Արքայորդու" id="537" weight="1" />
+      <edge source="Մարզպետունին" target="Գարդմանա" id="538" weight="1" />
+      <edge source="Մարզպետունին" target="Գևորգ" id="539" weight="1" />
+      <edge source="Մարզպետունին" target="Գևորգն" id="540" weight="1" />
+      <edge source="Մարզպետունին" target="Իշխան Սևադայի" id="541" weight="1" />
+      <edge source="Մարզպետունին" target="Իշխան Սևադան" id="542" weight="1" />
+      <edge source="Մարզպետունին" target="Իշխանի" id="543" weight="1" />
+      <edge source="Մարզպետունին" target="Մարզպետունի" id="544" weight="3" />
+      <edge source="Մարզպետունին" target="Սեդան" id="545" weight="1" />
+      <edge source="Մարզպետունին" target="Աբաս արքաեղբայրը" id="546" weight="1" />
+      <edge source="Մարզպետունին" target="Աշոտ սպարապետը" id="547" weight="1" />
+      <edge source="Մարզպետունին" target="Բեշիրը" id="548" weight="2" />
+      <edge source="Մարզպետունին" target="Գևորգ Մարզպետունին" id="549" weight="1" />
+      <edge source="Մարզպետունին" target="ՀԵՐՈՍԻ" id="550" weight="1" />
+      <edge source="Մարզպետունին" target="Մոկաց" id="551" weight="1" />
+      <edge source="Մարզպետունին" target="Վահրամ սեպուհը" id="552" weight="1" />
+      <edge source="Մարզպետունին" target="թագուհուն" id="553" weight="1" />
+      <edge source="Մարզպետունին" target="Դավթի" id="554" weight="1" />
+      <edge source="Մարզպետունին" target="Դվինից" id="555" weight="1" />
+      <edge source="Գևորգի" target="Գեվորգի" id="556" weight="1" />
+      <edge source="Գևորգի" target="Գևորգենց" id="557" weight="1" />
+      <edge source="Գևորգի" target="Գևորգին" id="558" weight="2" />
+      <edge source="Գևորգի" target="Թամարը" id="559" weight="1" />
+      <edge source="Գևորգի" target="Թամարի" id="560" weight="1" />
+      <edge source="Գևորգի" target="Թամարն" id="561" weight="1" />
+      <edge source="Գևորգի" target="Գևորգ" id="562" weight="1" />
+      <edge source="Գևորգի" target="Գևորգն" id="563" weight="1" />
+      <edge source="Գևորգի" target="Գուստավի" id="564" weight="1" />
+      <edge source="Գևորգի" target="Գուստավին" id="565" weight="1" />
+      <edge source="Գևորգի" target="Շառլոտան" id="566" weight="1" />
+      <edge source="Սահակ" target="Իշխանի Դավիթ" id="567" weight="1" />
+      <edge source="Սահակ" target="Սեդան" id="568" weight="1" />
+      <edge source="Մուշեղ" target="Ամրամը" id="569" weight="1" />
+      <edge source="Մուշեղ" target="Մարզպետունի" id="570" weight="1" />
+      <edge source="Մուշեղ" target="Ցլիկ" id="571" weight="1" />
+      <edge source="Մեծին Ներսեսի" target="Աբասը" id="572" weight="1" />
+      <edge source="պատվելին" target="Մարանջյանը" id="573" weight="1" />
+      <edge source="պատվելին" target="ՍԻՄՈՆԻ" id="574" weight="1" />
+      <edge source="պատվելին" target="Սիմոնը" id="575" weight="1" />
+      <edge source="պատվելին" target="Սիմոնին" id="576" weight="1" />
+      <edge source="Ամրամը" target="Գևորգ" id="577" weight="1" />
+      <edge source="Ամրամը" target="Մարզպետունի" id="578" weight="2" />
+      <edge source="Ամրամը" target="Ուտիքի" id="579" weight="1" />
+      <edge source="Ամրամը" target="Ցլիկ" id="580" weight="2" />
+      <edge source="Սիմբրյանին" target="Ագապյանների" id="581" weight="1" />
+      <edge source="Սիմբրյանին" target="Ագապյաններից" id="582" weight="1" />
+      <edge source="Սիմբրյանին" target="Ամալիայի" id="583" weight="1" />
+      <edge source="Սիմբրյանին" target="Ամալիան" id="584" weight="1" />
+      <edge source="Սիմբրյանին" target="Մաշտոցյանին" id="585" weight="1" />
+      <edge source="Սիմբրյանին" target="Սիմբրյանը" id="586" weight="1" />
+      <edge source="Հովակիմը" target="Ալեքսանը" id="587" weight="1" />
+      <edge source="Հովակիմը" target="Ավետիքը" id="588" weight="1" />
+      <edge source="Հովակիմը" target="Կարապետը" id="589" weight="1" />
+      <edge source="Հովակիմը" target="Հարությունը" id="590" weight="1" />
+      <edge source="Հովակիմը" target="Ղազարի" id="591" weight="1" />
+      <edge source="Հովակիմը" target="Սիմոնը" id="592" weight="1" />
+      <edge source="Ալեքսանը" target="Ավետիքը" id="593" weight="1" />
+      <edge source="Ալեքսանը" target="Կարապետը" id="594" weight="1" />
+      <edge source="Ալեքսանը" target="Հարությունը" id="595" weight="1" />
+      <edge source="Ալեքսանը" target="Ղազարի" id="596" weight="1" />
+      <edge source="Ալեքսանը" target="Սիմոնը" id="597" weight="1" />
+      <edge source="Մազմանյանը" target="Սերգոն" id="598" weight="1" />
+      <edge source="Սերգո" target="Դարչո" id="599" weight="1" />
+      <edge source="Սերգո" target="Դարչոն" id="600" weight="1" />
+      <edge source="Սերգո" target="Մաշոն" id="601" weight="1" />
+      <edge source="Սերգո" target="Սերգոն" id="602" weight="1" />
+      <edge source="Սերգո" target="Քեթևանը" id="603" weight="1" />
+      <edge source="Արսեն Մաշտոցյանի" target="Արսենի" id="604" weight="1" />
+      <edge source="Արսեն Մաշտոցյանի" target="Նյութականի" id="605" weight="1" />
+      <edge source="Արսեն Մաշտոցյանի" target="Արսեն Մաշտոցյանը" id="606" weight="1" />
+      <edge source="Արսեն Մաշտոցյանի" target="Սինքլոր" id="607" weight="1" />
+      <edge source="Արսեն Մաշտոցյանի" target="Ամալիային Մաշտոցյանի" id="608" weight="1" />
+      <edge source="Արսեն Մաշտոցյանի" target="Ամալիան" id="609" weight="1" />
+      <edge source="Արսեն Մաշտոցյանի" target="Դարիան" id="610" weight="1" />
+      <edge source="Շահաբասը" target="Անդրեասը" id="611" weight="1" />
+      <edge source="Շահաբասը" target="Անդրեասի" id="612" weight="1" />
+      <edge source="Վասպուրականի" target="Աբասը" id="613" weight="1" />
+      <edge source="Վասպուրականի" target="Աղվանից" id="614" weight="1" />
+      <edge source="Վասպուրականի" target="Արքայի" id="615" weight="1" />
+      <edge source="Վասպուրականի" target="Գարդմանա" id="616" weight="1" />
+      <edge source="Վասպուրականի" target="Մոկաց" id="617" weight="1" />
+      <edge source="Վասպուրականի" target="Սահականույշ" id="618" weight="1" />
+      <edge source="Վասպուրականի" target="Ստեփաննոսը" id="619" weight="1" />
+      <edge source="Վասպուրականի" target="Վահրամ սեպուհը" id="620" weight="1" />
+      <edge source="Վասպուրականի" target="Տուրուբերանի" id="621" weight="1" />
+      <edge source="Վարդենի" target="Անդրեասը" id="622" weight="2" />
+      <edge source="Ավետիքը" target="Կարապետը" id="623" weight="1" />
+      <edge source="Ավետիքը" target="Հարությունը" id="624" weight="1" />
+      <edge source="Ավետիքը" target="Ղազարի" id="625" weight="1" />
+      <edge source="Ավետիքը" target="Սիմոնը" id="626" weight="1" />
+      <edge source="Գևորգին" target="Գեվորգի" id="627" weight="1" />
+      <edge source="Գևորգին" target="Գևորգենց" id="628" weight="1" />
+      <edge source="Գևորգին" target="Թամարը" id="629" weight="1" />
+      <edge source="Գևորգին" target="Թամարի" id="630" weight="1" />
+      <edge source="Գևորգին" target="Թամարն" id="631" weight="1" />
+      <edge source="Գևորգին" target="Գևորգ" id="632" weight="1" />
+      <edge source="Գևորգին" target="Գևորգն" id="633" weight="2" />
+      <edge source="Գևորգին" target="Տանպետյանցի" id="634" weight="1" />
+      <edge source="Միկիթը" target="Մաքանը" id="635" weight="1" />
+      <edge source="Միկիթը" target="Միկիթն" id="636" weight="1" />
+      <edge source="Մելիքները" target="Ամիրգյունեին" id="637" weight="1" />
+      <edge source="Մելիքները" target="Անդրեասի" id="638" weight="1" />
+      <edge source="Մելիքները" target="Պառավը" id="639" weight="1" />
+      <edge source="Մելիքները" target="շահը" id="640" weight="1" />
+      <edge source="Մելիքները" target="շահին" id="641" weight="1" />
+      <edge source="Գևորգենց" target="Գեվորգի" id="642" weight="1" />
+      <edge source="Գևորգենց" target="Թամարը" id="643" weight="1" />
+      <edge source="Գևորգենց" target="Թամարի" id="644" weight="1" />
+      <edge source="Գևորգենց" target="Թամարն" id="645" weight="1" />
+      <edge source="Տիրանը" target="Աննան" id="646" weight="1" />
+      <edge source="Տիրանը" target="Վարդուհին" id="647" weight="1" />
+      <edge source="Տիրանը" target="Վարդուհու" id="648" weight="1" />
+      <edge source="Տիրանը" target="Տիրանին" id="649" weight="1" />
+      <edge source="Մաղքոսը" target="Զատկի" id="650" weight="1" />
+      <edge source="Մաղքոսը" target="Զատկին" id="651" weight="1" />
+      <edge source="Դավիթ Էջմիածնեցուն" target="Խուդաբանդ" id="652" weight="1" />
+      <edge source="Դավիթ Էջմիածնեցուն" target="Շահաբաս Ա" id="653" weight="1" />
+      <edge source="Մարզպետունի" target="Գևորգ" id="654" weight="4" />
+      <edge source="Մարզպետունի" target="Ուտիքի" id="655" weight="1" />
+      <edge source="Մարզպետունի" target="Ցլիկ" id="656" weight="2" />
+      <edge source="Մարզպետունի" target="Արքայորդու" id="657" weight="1" />
+      <edge source="Մարզպետունի" target="Գարդմանա" id="658" weight="1" />
+      <edge source="Մարզպետունի" target="Գևորգն" id="659" weight="1" />
+      <edge source="Մարզպետունի" target="Իշխան Սևադայի" id="660" weight="1" />
+      <edge source="Մարզպետունի" target="Իշխան Սևադան" id="661" weight="1" />
+      <edge source="Մարզպետունի" target="Իշխանի" id="662" weight="2" />
+      <edge source="Մարզպետունի" target="Սեդան" id="663" weight="1" />
+      <edge source="Մարզպետունի" target="Կաքավաքար" id="664" weight="1" />
+      <edge source="Մարզպետունի" target="Մարզպետունու" id="665" weight="1" />
+      <edge source="Մարզպետունի" target="Աբաս արքաեղբայրը" id="666" weight="1" />
+      <edge source="Մարզպետունի" target="Աշոտ սպարապետը" id="667" weight="1" />
+      <edge source="Մարզպետունի" target="Բեշիրը" id="668" weight="3" />
+      <edge source="Մարզպետունի" target="Գևորգ Մարզպետունին" id="669" weight="1" />
+      <edge source="Մարզպետունի" target="ՀԵՐՈՍԻ" id="670" weight="2" />
+      <edge source="Մարզպետունի" target="Մոկաց" id="671" weight="2" />
+      <edge source="Մարզպետունի" target="Վահրամ սեպուհը" id="672" weight="1" />
+      <edge source="Մարզպետունի" target="թագուհուն" id="673" weight="1" />
+      <edge source="Մարզպետունի" target="Գոռ" id="674" weight="1" />
+      <edge source="Մարզպետունի" target="Դավթի" id="675" weight="1" />
+      <edge source="Մարզպետունի" target="Դվինից" id="676" weight="1" />
+      <edge source="Մարզպետունի" target="Արքայի" id="677" weight="1" />
+      <edge source="Մարզպետունի" target="Գոռը" id="678" weight="1" />
+      <edge source="Մարզպետունի" target="Դվնո" id="679" weight="1" />
+      <edge source="Մարզպետունի" target="Աբաս" id="680" weight="1" />
+      <edge source="Մարզպետունի" target="Աղնձյաց" id="681" weight="1" />
+      <edge source="Մարզպետունի" target="Անանիա" id="682" weight="1" />
+      <edge source="Մարզպետունի" target="Դավիթ" id="683" weight="1" />
+      <edge source="Մարզպետունի" target="Սահակ Սևադայի" id="684" weight="1" />
+      <edge source="սուրբ Հովհաննես" target="ս" id="685" weight="1" />
+      <edge source="Կաքավաքար" target="Մարզպետունու" id="686" weight="1" />
+      <edge source="Գեվորգի" target="Թամարը" id="687" weight="1" />
+      <edge source="Գեվորգի" target="Թամարի" id="688" weight="1" />
+      <edge source="Գեվորգի" target="Թամարն" id="689" weight="1" />
+      <edge source="Աննան" target="Անիչկի" id="690" weight="1" />
+      <edge source="Աննան" target="Անիչկին" id="691" weight="1" />
+      <edge source="Աննան" target="Աննային" id="692" weight="1" />
+      <edge source="Աննան" target="Լազարյանը" id="693" weight="1" />
+      <edge source="Աննան" target="Մարությանը" id="694" weight="2" />
+      <edge source="Աննան" target="Վարդուհին" id="695" weight="2" />
+      <edge source="Աննան" target="Վարդուհու" id="696" weight="1" />
+      <edge source="Աննան" target="Տիրանին" id="697" weight="1" />
+      <edge source="Աննան" target="Անիչկա" id="698" weight="1" />
+      <edge source="Աննան" target="Մարությանն" id="699" weight="1" />
+      <edge source="Աննան" target="Շահ — Մելիքյանի" id="700" weight="1" />
+      <edge source="Աննան" target="Շահ — Մելիքովն" id="701" weight="1" />
+      <edge source="Աննան" target="Որդի" id="702" weight="1" />
+      <edge source="Աննան" target="Վասիլ Իվանիչը" id="703" weight="1" />
+      <edge source="Ագապյաններից" target="Ագապյանների" id="704" weight="1" />
+      <edge source="Ագապյաններից" target="Ամալիայի" id="705" weight="1" />
+      <edge source="Ագապյաններից" target="Ամալիան" id="706" weight="1" />
+      <edge source="Ագապյաններից" target="Մաշտոցյանին" id="707" weight="1" />
+      <edge source="Ագապյաններից" target="Սիմբրյանը" id="708" weight="1" />
+      <edge source="Մատինյանը" target="Եզովպոսը" id="709" weight="1" />
+      <edge source="Մատինյանը" target="Կարինյանը" id="710" weight="1" />
+      <edge source="Մատինյանը" target="Մեհերյանը" id="711" weight="1" />
+      <edge source="Սեդան" target="Գարդմանա" id="712" weight="2" />
+      <edge source="Սեդան" target="ՍԱՀԱՆՈՒՅՇԻ" id="713" weight="1" />
+      <edge source="Սեդան" target="Սահակ Սևադայի" id="714" weight="1" />
+      <edge source="Սեդան" target="Սեդա" id="715" weight="3" />
+      <edge source="Սեդան" target="Արքայորդու" id="716" weight="1" />
+      <edge source="Սեդան" target="Գևորգ" id="717" weight="1" />
+      <edge source="Սեդան" target="Գևորգն" id="718" weight="1" />
+      <edge source="Սեդան" target="Իշխան Սևադայի" id="719" weight="1" />
+      <edge source="Սեդան" target="Իշխան Սևադան" id="720" weight="1" />
+      <edge source="Սեդան" target="Իշխանի" id="721" weight="1" />
+      <edge source="Սեդան" target="Իշխանի Դավիթ" id="722" weight="1" />
+      <edge source="Արքայորդու" target="Գարդմանա" id="723" weight="1" />
+      <edge source="Արքայորդու" target="Գևորգ" id="724" weight="1" />
+      <edge source="Արքայորդու" target="Գևորգն" id="725" weight="1" />
+      <edge source="Արքայորդու" target="Իշխան Սևադայի" id="726" weight="1" />
+      <edge source="Արքայորդու" target="Իշխան Սևադան" id="727" weight="1" />
+      <edge source="Արքայորդու" target="Իշխանի" id="728" weight="1" />
+      <edge source="Գոռ" target="Բեշիրը" id="729" weight="1" />
+      <edge source="Գոռ" target="Գևորգ" id="730" weight="1" />
+      <edge source="Գոռ" target="Արքայի" id="731" weight="1" />
+      <edge source="Գոռ" target="Արքայորդին" id="732" weight="1" />
+      <edge source="Գոռ" target="ԹՇՆԱՄՈՒ" id="733" weight="1" />
+      <edge source="Գոռ" target="Սեպուհ" id="734" weight="1" />
+      <edge source="Գոռ" target="Սպարապետը" id="735" weight="1" />
+      <edge source="Աբասը" target="Աղվանից" id="736" weight="1" />
+      <edge source="Աբասը" target="Արքայի" id="737" weight="1" />
+      <edge source="Աբասը" target="Գարդմանա" id="738" weight="1" />
+      <edge source="Աբասը" target="Մոկաց" id="739" weight="1" />
+      <edge source="Աբասը" target="Սահականույշ" id="740" weight="1" />
+      <edge source="Աբասը" target="Ստեփաննոսը" id="741" weight="1" />
+      <edge source="Աբասը" target="Վահրամ սեպուհը" id="742" weight="1" />
+      <edge source="Աբասը" target="Տուրուբերանի" id="743" weight="1" />
+      <edge source="Արքայորդին" target="Արքայի" id="744" weight="1" />
+      <edge source="Արքայորդին" target="ԹՇՆԱՄՈՒ" id="745" weight="1" />
+      <edge source="Արքայորդին" target="Սեպուհ" id="746" weight="1" />
+      <edge source="Արքայորդին" target="Սպարապետը" id="747" weight="1" />
+      <edge source="ս" target="Անդրեասը" id="748" weight="1" />
+      <edge source="ս" target="Անդրեասին" id="749" weight="1" />
+      <edge source="ս" target="Լուսինը" id="750" weight="1" />
+      <edge source="Գրիգոր" target="Կարոյի" id="751" weight="1" />
+      <edge source="Գրիգոր" target="Մարիամ" id="752" weight="1" />
+      <edge source="Թամարն" target="Թամարը" id="753" weight="1" />
+      <edge source="Թամարն" target="Թամարի" id="754" weight="1" />
+      <edge source="Անդրեասը" target="Անդրեասի" id="755" weight="2" />
+      <edge source="Անդրեասը" target="Անդրեասին" id="756" weight="1" />
+      <edge source="Անդրեասը" target="Սարգսին" id="757" weight="1" />
+      <edge source="Իշխանի" target="Գարդմանա" id="758" weight="1" />
+      <edge source="Իշխանի" target="Գևորգ" id="759" weight="1" />
+      <edge source="Իշխանի" target="Գևորգն" id="760" weight="1" />
+      <edge source="Իշխանի" target="Իշխան Սևադայի" id="761" weight="1" />
+      <edge source="Իշխանի" target="Իշխան Սևադան" id="762" weight="1" />
+      <edge source="Իշխանի" target="Արքայից" id="763" weight="1" />
+      <edge source="Իշխանի" target="Գեղամա" id="764" weight="1" />
+      <edge source="Իշխանի" target="Իշխանը" id="765" weight="1" />
+      <edge source="Աստղիկին" target="Պետրոսի" id="766" weight="1" />
+      <edge source="Աստղիկին" target="Պետրոսին" id="767" weight="1" />
+      <edge source="Աստղիկին" target="Սարգիս" id="768" weight="1" />
+      <edge source="Աստղիկին" target="Սարգիսը" id="769" weight="1" />
+      <edge source="Աստղիկին" target="Սրբազանի" id="770" weight="1" />
+      <edge source="Սևադա" target="Դավիթ" id="771" weight="1" />
+      <edge source="Սևադա" target="ԿՈՒՅՐ" id="772" weight="1" />
+      <edge source="Սևադա" target="Մարզպետունու" id="773" weight="1" />
+      <edge source="Սևադա" target="Սևադան" id="774" weight="1" />
+      <edge source="շահը" target="Ամիրգյունեին" id="775" weight="1" />
+      <edge source="շահը" target="Անդրեասի" id="776" weight="1" />
+      <edge source="շահը" target="Պառավը" id="777" weight="1" />
+      <edge source="շահը" target="շահին" id="778" weight="1" />
+      <edge source="Գևորգ Մարզպետունին" target="Աբաս արքաեղբայրը" id="779" weight="1" />
+      <edge source="Գևորգ Մարզպետունին" target="Աշոտ սպարապետը" id="780" weight="1" />
+      <edge source="Գևորգ Մարզպետունին" target="Բեշիրը" id="781" weight="1" />
+      <edge source="Գևորգ Մարզպետունին" target="ՀԵՐՈՍԻ" id="782" weight="1" />
+      <edge source="Գևորգ Մարզպետունին" target="Մոկաց" id="783" weight="1" />
+      <edge source="Գևորգ Մարզպետունին" target="Վահրամ սեպուհը" id="784" weight="1" />
+      <edge source="Գևորգ Մարզպետունին" target="թագուհուն" id="785" weight="1" />
+      <edge source="Աշոտ սպարապետը" target="Աբաս արքաեղբայրը" id="786" weight="1" />
+      <edge source="Աշոտ սպարապետը" target="Բեշիրը" id="787" weight="1" />
+      <edge source="Աշոտ սպարապետը" target="ՀԵՐՈՍԻ" id="788" weight="1" />
+      <edge source="Աշոտ սպարապետը" target="Մոկաց" id="789" weight="1" />
+      <edge source="Աշոտ սպարապետը" target="Վահրամ սեպուհը" id="790" weight="1" />
+      <edge source="Աշոտ սպարապետը" target="թագուհուն" id="791" weight="1" />
+      <edge source="Մարությանն" target="Աննային" id="792" weight="1" />
+      <edge source="Մարությանն" target="Մարությանը" id="793" weight="2" />
+      <edge source="Մարությանն" target="Վարդուհու" id="794" weight="1" />
+      <edge source="Մարությանն" target="Անիչկա" id="795" weight="1" />
+      <edge source="Մարությանն" target="Շահ — Մելիքյանի" id="796" weight="1" />
+      <edge source="Մարությանն" target="Շահ — Մելիքովն" id="797" weight="1" />
+      <edge source="Մարությանն" target="Որդի" id="798" weight="1" />
+      <edge source="Մարությանն" target="Վասիլ Իվանիչը" id="799" weight="1" />
+      <edge source="Պարիզը" target="Մարիա Սերգեևնա" id="800" weight="1" />
+      <edge source="Պարիզը" target="Վասիլ Իվանովիչ" id="801" weight="1" />
+      <edge source="Սեպուհ" target="Արքայի" id="802" weight="1" />
+      <edge source="Սեպուհ" target="ԹՇՆԱՄՈՒ" id="803" weight="1" />
+      <edge source="Սեպուհ" target="Սպարապետը" id="804" weight="1" />
+      <edge source="Դավթի" target="Բեշիրը" id="805" weight="1" />
+      <edge source="Դավթի" target="Դվինից" id="806" weight="1" />
+      <edge source="Սիմբրյանի" target="Ամալիան" id="807" weight="1" />
+      <edge source="Սիմբրյանի" target="Գևորգ Սիմբրյանի" id="808" weight="1" />
+      <edge source="Սիմբրյանի" target="Սիմբրյանը" id="809" weight="1" />
+      <edge source="Մաշոն" target="Դարչո" id="810" weight="1" />
+      <edge source="Մաշոն" target="Դարչոն" id="811" weight="1" />
+      <edge source="Մաշոն" target="Սերգոն" id="812" weight="1" />
+      <edge source="Մաշոն" target="Քեթևանը" id="813" weight="1" />
+      <edge source="Խուդաբանդ" target="Շահաբաս Ա" id="814" weight="1" />
+      <edge source="Սահականույշ" target="Աղվանից" id="815" weight="1" />
+      <edge source="Սահականույշ" target="Արքայի" id="816" weight="1" />
+      <edge source="Սահականույշ" target="Գարդմանա" id="817" weight="1" />
+      <edge source="Սահականույշ" target="Մոկաց" id="818" weight="1" />
+      <edge source="Սահականույշ" target="Ստեփաննոսը" id="819" weight="1" />
+      <edge source="Սահականույշ" target="Վահրամ սեպուհը" id="820" weight="1" />
+      <edge source="Սահականույշ" target="Տուրուբերանի" id="821" weight="1" />
+      <edge source="Գուստավի" target="Գուստավին" id="822" weight="1" />
+      <edge source="Գուստավի" target="Շառլոտան" id="823" weight="1" />
+      <edge source="Աշոտ արքայի" target="Խրամը" id="824" weight="1" />
+      <edge source="Աշոտ արքայի" target="եգերացոց" id="825" weight="1" />
+      <edge source="ՍԱՀԱՆՈՒՅՇԻ" target="Գարդմանա" id="826" weight="1" />
+      <edge source="ՍԱՀԱՆՈՒՅՇԻ" target="Սահակ Սևադայի" id="827" weight="1" />
+      <edge source="ՍԱՀԱՆՈՒՅՇԻ" target="Սեդա" id="828" weight="1" />
+      <edge source="Սերգոյի" target="Դարչոյին" id="829" weight="2" />
+      <edge source="Սերգոյի" target="Դարչոն" id="830" weight="2" />
+      <edge source="Սերգոյի" target="Սերգոն" id="831" weight="2" />
+      <edge source="Սերգոյի" target="Օհանի" id="832" weight="1" />
+      <edge source="Սերգոյի" target="Սաբեթ" id="833" weight="1" />
+      <edge source="Սերգոյի" target="Սերգոյին" id="834" weight="1" />
+      <edge source="Փեփելի" target="Որդի" id="835" weight="1" />
+      <edge source="Փեփելի" target="Սերգոն" id="836" weight="1" />
+      <edge source="Փեփելի" target="հալլաբ Սաքոյի" id="837" weight="1" />
+      <edge source="Փեփելի" target="ղազազ Արութինի" id="838" weight="1" />
+      <edge source="Թովմասը" target="Թովմասին" id="839" weight="1" />
+      <edge source="Թովմասը" target="Սիգո" id="840" weight="1" />
+      <edge source="Թովմասը" target="Սիգոն" id="841" weight="1" />
+      <edge source="Թովմասը" target="Հորեղբայր" id="842" weight="1" />
+      <edge source="Ամալիայի" target="Ագապյանների" id="843" weight="1" />
+      <edge source="Ամալիայի" target="Ամալիան" id="844" weight="1" />
+      <edge source="Ամալիայի" target="Մաշտոցյանին" id="845" weight="1" />
+      <edge source="Ամալիայի" target="Սիմբրյանը" id="846" weight="1" />
+      <edge source="ղազազ Արութինի" target="Որդի" id="847" weight="1" />
+      <edge source="ղազազ Արութինի" target="Սերգոն" id="848" weight="1" />
+      <edge source="ղազազ Արութինի" target="հալլաբ Սաքոյի" id="849" weight="1" />
+      <edge source="Շահ — Մելիքովն" target="Անիչկա" id="850" weight="1" />
+      <edge source="Շահ — Մելիքովն" target="Մարությանը" id="851" weight="1" />
+      <edge source="Շահ — Մելիքովն" target="Շահ — Մելիքյանի" id="852" weight="1" />
+      <edge source="Շահ — Մելիքովն" target="Որդի" id="853" weight="1" />
+      <edge source="Շահ — Մելիքովն" target="Վասիլ Իվանիչը" id="854" weight="1" />
+      <edge source="Պետրոսի" target="Պետրոսին" id="855" weight="1" />
+      <edge source="Պետրոսի" target="Սարգիս" id="856" weight="1" />
+      <edge source="Պետրոսի" target="Սարգիսը" id="857" weight="1" />
+      <edge source="Պետրոսի" target="Սրբազանի" id="858" weight="1" />
+      <edge source="Վարդուհի Սամվելյան" target="Անիչկա" id="859" weight="1" />
+      <edge source="Վարդուհի Սամվելյան" target="Լազարյանը" id="860" weight="1" />
+      <edge source="Վարդուհի Սամվելյան" target="Վարդուհին" id="861" weight="1" />
+      <edge source="Թովմասին" target="Սիգո" id="862" weight="1" />
+      <edge source="Թովմասին" target="Սիգոն" id="863" weight="1" />
+      <edge source="Ամալիային Մաշտոցյանի" target="Ամալիան" id="864" weight="1" />
+      <edge source="Ամալիային Մաշտոցյանի" target="Դարիան" id="865" weight="1" />
+      <edge source="Դարիան" target="Ամալիան" id="866" weight="1" />
+      <edge source="Սարգիսը" target="Պետրոսին" id="867" weight="1" />
+      <edge source="Սարգիսը" target="Սարգիս" id="868" weight="1" />
+      <edge source="Սարգիսը" target="Սրբազանի" id="869" weight="1" />
+      <edge source="Սարգիսը" target="Գրիգորի" id="870" weight="1" />
+      <edge source="Սարգիսը" target="Սարգսի" id="871" weight="1" />
+      <edge source="Գևորգ" target="Ուտիքի" id="872" weight="1" />
+      <edge source="Գևորգ" target="Ցլիկ" id="873" weight="1" />
+      <edge source="Գևորգ" target="Գարդմանա" id="874" weight="1" />
+      <edge source="Գևորգ" target="Գևորգն" id="875" weight="2" />
+      <edge source="Գևորգ" target="Իշխան Սևադայի" id="876" weight="1" />
+      <edge source="Գևորգ" target="Իշխան Սևադան" id="877" weight="1" />
+      <edge source="Գևորգ" target="Բեշիրը" id="878" weight="1" />
+      <edge source="Գևորգ" target="Աբաս" id="879" weight="1" />
+      <edge source="Գևորգ" target="Աղնձյաց" id="880" weight="1" />
+      <edge source="Գևորգ" target="Անանիա" id="881" weight="1" />
+      <edge source="Գևորգ" target="Դավիթ" id="882" weight="1" />
+      <edge source="Գևորգ" target="ՀԵՐՈՍԻ" id="883" weight="1" />
+      <edge source="Գևորգ" target="Մոկաց" id="884" weight="1" />
+      <edge source="Գևորգ" target="Սահակ Սևադայի" id="885" weight="1" />
+      <edge source="Դարչոն" target="Դարչոյին" id="886" weight="2" />
+      <edge source="Դարչոն" target="Սերգոն" id="887" weight="3" />
+      <edge source="Դարչոն" target="Օհանի" id="888" weight="1" />
+      <edge source="Դարչոն" target="Սաբեթ" id="889" weight="1" />
+      <edge source="Դարչոն" target="Սերգոյին" id="890" weight="1" />
+      <edge source="Դարչոն" target="Դարչո" id="891" weight="1" />
+      <edge source="Դարչոն" target="Քեթևանը" id="892" weight="1" />
+      <edge source="Տիրան" target="Վարդուհին" id="893" weight="1" />
+      <edge source="Սրբազանի" target="Պետրոսին" id="894" weight="1" />
+      <edge source="Սրբազանի" target="Սարգիս" id="895" weight="1" />
+      <edge source="Ցլիկ" target="Ուտիքի" id="896" weight="1" />
+      <edge source="Ամիրգյունեին" target="Անդրեասի" id="897" weight="1" />
+      <edge source="Ամիրգյունեին" target="Պառավը" id="898" weight="1" />
+      <edge source="Ամիրգյունեին" target="շահին" id="899" weight="1" />
+      <edge source="Դավիթ" target="ԿՈՒՅՐ" id="900" weight="1" />
+      <edge source="Դավիթ" target="Մարզպետունու" id="901" weight="1" />
+      <edge source="Դավիթ" target="Սևադան" id="902" weight="1" />
+      <edge source="Դավիթ" target="Աբաս" id="903" weight="1" />
+      <edge source="Դավիթ" target="Աղնձյաց" id="904" weight="1" />
+      <edge source="Դավիթ" target="Անանիա" id="905" weight="1" />
+      <edge source="Դավիթ" target="ՀԵՐՈՍԻ" id="906" weight="1" />
+      <edge source="Դավիթ" target="Մոկաց" id="907" weight="1" />
+      <edge source="Դավիթ" target="Սահակ Սևադայի" id="908" weight="1" />
+      <edge source="Աղնձյաց" target="Աբաս" id="909" weight="1" />
+      <edge source="Աղնձյաց" target="Անանիա" id="910" weight="1" />
+      <edge source="Աղնձյաց" target="ՀԵՐՈՍԻ" id="911" weight="1" />
+      <edge source="Աղնձյաց" target="Մոկաց" id="912" weight="1" />
+      <edge source="Աղնձյաց" target="Սահակ Սևադայի" id="913" weight="1" />
+      <edge source="Վասիլ Իվանովիչ" target="Մարիա Սերգեևնա" id="914" weight="1" />
+      <edge source="Մաքանը" target="Միկիթն" id="915" weight="1" />
+      <edge source="Կարինյանը" target="Եզովպոսը" id="916" weight="1" />
+      <edge source="Կարինյանը" target="Մեհերյանը" id="917" weight="1" />
+      <edge source="Դվինից" target="Բեշիրը" id="918" weight="1" />
+      <edge source="Անիչկա" target="Լազարյանը" id="919" weight="1" />
+      <edge source="Անիչկա" target="Վարդուհին" id="920" weight="1" />
+      <edge source="Անիչկա" target="Մարությանը" id="921" weight="1" />
+      <edge source="Անիչկա" target="Շահ — Մելիքյանի" id="922" weight="1" />
+      <edge source="Անիչկա" target="Որդի" id="923" weight="1" />
+      <edge source="Անիչկա" target="Վասիլ Իվանիչը" id="924" weight="1" />
+      <edge source="Մոկաց" target="Աբաս արքաեղբայրը" id="925" weight="1" />
+      <edge source="Մոկաց" target="Բեշիրը" id="926" weight="1" />
+      <edge source="Մոկաց" target="ՀԵՐՈՍԻ" id="927" weight="2" />
+      <edge source="Մոկաց" target="Վահրամ սեպուհը" id="928" weight="2" />
+      <edge source="Մոկաց" target="թագուհուն" id="929" weight="1" />
+      <edge source="Մոկաց" target="Աղվանից" id="930" weight="1" />
+      <edge source="Մոկաց" target="Արքայի" id="931" weight="1" />
+      <edge source="Մոկաց" target="Գարդմանա" id="932" weight="1" />
+      <edge source="Մոկաց" target="Ստեփաննոսը" id="933" weight="1" />
+      <edge source="Մոկաց" target="Տուրուբերանի" id="934" weight="1" />
+      <edge source="Մոկաց" target="Աբաս" id="935" weight="1" />
+      <edge source="Մոկաց" target="Անանիա" id="936" weight="1" />
+      <edge source="Մոկաց" target="Սահակ Սևադայի" id="937" weight="1" />
+      <edge source="Սերգոն" target="Դարչոյին" id="938" weight="2" />
+      <edge source="Սերգոն" target="Օհանի" id="939" weight="1" />
+      <edge source="Սերգոն" target="Սաբեթ" id="940" weight="1" />
+      <edge source="Սերգոն" target="Սերգոյին" id="941" weight="1" />
+      <edge source="Սերգոն" target="Որդի" id="942" weight="1" />
+      <edge source="Սերգոն" target="հալլաբ Սաքոյի" id="943" weight="1" />
+      <edge source="Սերգոն" target="Դարչո" id="944" weight="1" />
+      <edge source="Սերգոն" target="Քեթևանը" id="945" weight="1" />
+      <edge source="Հայկազն" target="Վասակի" id="946" weight="1" />
+      <edge source="Հայկազն" target="Տրդատ մեծի" id="947" weight="1" />
+      <edge source="Երազմոսի" target="Անդրեասին" id="948" weight="1" />
+      <edge source="Արսեն Մաշտոցյանը" target="Սինքլոր" id="949" weight="1" />
+      <edge source="ՀԵՐՈՍԻ" target="Աբաս արքաեղբայրը" id="950" weight="1" />
+      <edge source="ՀԵՐՈՍԻ" target="Բեշիրը" id="951" weight="1" />
+      <edge source="ՀԵՐՈՍԻ" target="Վահրամ սեպուհը" id="952" weight="1" />
+      <edge source="ՀԵՐՈՍԻ" target="թագուհուն" id="953" weight="1" />
+      <edge source="ՀԵՐՈՍԻ" target="Աբաս" id="954" weight="1" />
+      <edge source="ՀԵՐՈՍԻ" target="Անանիա" id="955" weight="1" />
+      <edge source="ՀԵՐՈՍԻ" target="Սահակ Սևադայի" id="956" weight="1" />
+      <edge source="Գուստավին" target="Գևորգն" id="957" weight="1" />
+      <edge source="Գուստավին" target="Շառլոտան" id="958" weight="1" />
+      <edge source="Անանիա" target="Աբաս" id="959" weight="1" />
+      <edge source="Անանիա" target="Սահակ Սևադայի" id="960" weight="1" />
+      <edge source="Մարիամի" target="Գրիգորի" id="961" weight="1" />
+      <edge source="Գևորգ Սիմբրյանի" target="Ամալիան" id="962" weight="1" />
+      <edge source="Գևորգ Սիմբրյանի" target="Սիմբրյանը" id="963" weight="1" />
+      <edge source="Աղվանից" target="Արքայի" id="964" weight="1" />
+      <edge source="Աղվանից" target="Գարդմանա" id="965" weight="1" />
+      <edge source="Աղվանից" target="Ստեփաննոսը" id="966" weight="1" />
+      <edge source="Աղվանից" target="Վահրամ սեպուհը" id="967" weight="1" />
+      <edge source="Աղվանից" target="Տուրուբերանի" id="968" weight="1" />
+      <edge source="Դարչոյին" target="Օհանի" id="969" weight="1" />
+      <edge source="Դարչոյին" target="Սաբեթ" id="970" weight="1" />
+      <edge source="Դարչոյին" target="Սերգոյին" id="971" weight="1" />
+      <edge source="Սիգոն" target="Սիգո" id="972" weight="1" />
+      <edge source="Իշխան Սևադայի" target="Գարդմանա" id="973" weight="1" />
+      <edge source="Իշխան Սևադայի" target="Գևորգն" id="974" weight="1" />
+      <edge source="Իշխան Սևադայի" target="Իշխան Սևադան" id="975" weight="1" />
+      <edge source="Տուրուբերանի" target="Արքայի" id="976" weight="1" />
+      <edge source="Տուրուբերանի" target="Գարդմանա" id="977" weight="1" />
+      <edge source="Տուրուբերանի" target="Ստեփաննոսը" id="978" weight="1" />
+      <edge source="Տուրուբերանի" target="Վահրամ սեպուհը" id="979" weight="1" />
+      <edge source="Զատկի" target="Զատկին" id="980" weight="1" />
+      <edge source="հալլաբ Սաքոյի" target="Որդի" id="981" weight="1" />
+      <edge source="Մարիամ" target="Կարոյի" id="982" weight="1" />
+      <edge source="Մարիամ" target="Գրիգորի" id="983" weight="1" />
+      <edge source="Մարությանը" target="Անիչկի" id="984" weight="1" />
+      <edge source="Մարությանը" target="Անիչկին" id="985" weight="1" />
+      <edge source="Մարությանը" target="Աննային" id="986" weight="3" />
+      <edge source="Մարությանը" target="Լազարյանը" id="987" weight="1" />
+      <edge source="Մարությանը" target="Վարդուհին" id="988" weight="3" />
+      <edge source="Մարությանը" target="Վարդուհու" id="989" weight="2" />
+      <edge source="Մարությանը" target="Շահ — Մելիքյանի" id="990" weight="2" />
+      <edge source="Մարությանը" target="Որդի" id="991" weight="1" />
+      <edge source="Մարությանը" target="Վասիլ Իվանիչը" id="992" weight="1" />
+      <edge source="Մարությանը" target="Աննայից" id="993" weight="1" />
+      <edge source="Դարչո" target="Քեթևանը" id="994" weight="1" />
+      <edge source="ՍԻՄՈՆԻ" target="Մարանջյանը" id="995" weight="1" />
+      <edge source="ՍԻՄՈՆԻ" target="Սիմոնը" id="996" weight="1" />
+      <edge source="ՍԻՄՈՆԻ" target="Սիմոնին" id="997" weight="1" />
+      <edge source="Իշխան Սևադան" target="Գարդմանա" id="998" weight="1" />
+      <edge source="Իշխան Սևադան" target="Գևորգն" id="999" weight="1" />
+      <edge source="Գեղամա" target="Արքայից" id="1000" weight="1" />
+      <edge source="Գեղամա" target="Իշխանը" id="1001" weight="1" />
+      <edge source="Գեղամա" target="Աբաս" id="1002" weight="1" />
+      <edge source="Գեղամա" target="Բժշկի" id="1003" weight="1" />
+      <edge source="Գոռը" target="Արքայի" id="1004" weight="1" />
+      <edge source="Գոռը" target="Դվնո" id="1005" weight="1" />
+      <edge source="ԿՈՒՅՐ" target="Մարզպետունու" id="1006" weight="1" />
+      <edge source="ԿՈՒՅՐ" target="Սևադան" id="1007" weight="1" />
+      <edge source="Վասիլ Իվանիչը" target="Շահ — Մելիքյանի" id="1008" weight="2" />
+      <edge source="Վասիլ Իվանիչը" target="Որդի" id="1009" weight="1" />
+      <edge source="Վասիլ Իվանիչը" target="Լազարյանը" id="1010" weight="1" />
+      <edge source="Լազարյանը" target="Վարդուհին" id="1011" weight="2" />
+      <edge source="Լազարյանը" target="Անիչկի" id="1012" weight="1" />
+      <edge source="Լազարյանը" target="Անիչկին" id="1013" weight="1" />
+      <edge source="Լազարյանը" target="Աննային" id="1014" weight="1" />
+      <edge source="Լազարյանը" target="Շահ — Մելիքյանի" id="1015" weight="1" />
+      <edge source="Ագապյանների" target="Ամալիան" id="1016" weight="1" />
+      <edge source="Ագապյանների" target="Մաշտոցյանին" id="1017" weight="1" />
+      <edge source="Ագապյանների" target="Սիմբրյանը" id="1018" weight="1" />
+      <edge source="Արքայից" target="Իշխանը" id="1019" weight="1" />
+      <edge source="Տիրանին" target="Վարդուհին" id="1020" weight="1" />
+      <edge source="Տիրանին" target="Վարդուհու" id="1021" weight="1" />
+      <edge source="Սիմոնին" target="Մարանջյանը" id="1022" weight="1" />
+      <edge source="Սիմոնին" target="Սիմոնը" id="1023" weight="1" />
+      <edge source="Սպարապետը" target="Արքայի" id="1024" weight="1" />
+      <edge source="Սպարապետը" target="ԹՇՆԱՄՈՒ" id="1025" weight="1" />
+      <edge source="Շահ — Մելիքյանի" target="Որդի" id="1026" weight="1" />
+      <edge source="Շահ — Մելիքյանի" target="Աննայից" id="1027" weight="1" />
+      <edge source="Շահ — Մելիքյանի" target="Վարդուհին" id="1028" weight="1" />
+      <edge source="Շահ — Մելիքյանի" target="Վարդուհու" id="1029" weight="1" />
+      <edge source="Սերգոյին" target="Սաբեթ" id="1030" weight="1" />
+      <edge source="Աբաս արքաեղբայրը" target="Բեշիրը" id="1031" weight="1" />
+      <edge source="Աբաս արքաեղբայրը" target="Վահրամ սեպուհը" id="1032" weight="1" />
+      <edge source="Աբաս արքաեղբայրը" target="թագուհուն" id="1033" weight="1" />
+      <edge source="Աննային" target="Անիչկի" id="1034" weight="1" />
+      <edge source="Աննային" target="Անիչկին" id="1035" weight="1" />
+      <edge source="Աննային" target="Վարդուհին" id="1036" weight="2" />
+      <edge source="Աննային" target="Վարդուհու" id="1037" weight="1" />
+      <edge source="Գրիգորի" target="Խաթուն" id="1038" weight="1" />
+      <edge source="Գրիգորի" target="Պառավը" id="1039" weight="1" />
+      <edge source="Գրիգորի" target="Սարգսի" id="1040" weight="1" />
+      <edge source="Կարապետը" target="Հարությունը" id="1041" weight="1" />
+      <edge source="Կարապետը" target="Ղազարի" id="1042" weight="1" />
+      <edge source="Կարապետը" target="Սիմոնը" id="1043" weight="1" />
+      <edge source="թագուհուն" target="Բեշիրը" id="1044" weight="1" />
+      <edge source="թագուհուն" target="Վահրամ սեպուհը" id="1045" weight="1" />
+      <edge source="Պառավը" target="Անդրեասի" id="1046" weight="1" />
+      <edge source="Պառավը" target="շահին" id="1047" weight="1" />
+      <edge source="Պառավը" target="Խաթուն" id="1048" weight="1" />
+      <edge source="Սիմբրյանն" target="Ագապյանները" id="1049" weight="1" />
+      <edge source="Սիմբրյանն" target="Արսեն Մաշտոցյանին" id="1050" weight="1" />
+      <edge source="Սիմբրյանն" target="Մաշտոցյանին" id="1051" weight="1" />
+      <edge source="Դվնո" target="Արքայի" id="1052" weight="1" />
+      <edge source="Հարությունը" target="Ղազարի" id="1053" weight="1" />
+      <edge source="Հարությունը" target="Սիմոնը" id="1054" weight="1" />
+      <edge source="Մարզպետունու" target="Սևադան" id="1055" weight="1" />
+      <edge source="Ղազարի" target="Սիմոնը" id="1056" weight="1" />
+      <edge source="Վարդուհին" target="Անիչկի" id="1057" weight="1" />
+      <edge source="Վարդուհին" target="Անիչկին" id="1058" weight="1" />
+      <edge source="Վարդուհին" target="Վարդուհու" id="1059" weight="2" />
+      <edge source="Վարդուհին" target="Աննայից" id="1060" weight="1" />
+      <edge source="արքա" target="Սեդա" id="1061" weight="1" />
+      <edge source="Արքայի" target="Գարդմանա" id="1062" weight="1" />
+      <edge source="Արքայի" target="Ստեփաննոսը" id="1063" weight="1" />
+      <edge source="Արքայի" target="Վահրամ սեպուհը" id="1064" weight="1" />
+      <edge source="Արքայի" target="ԹՇՆԱՄՈՒ" id="1065" weight="1" />
+      <edge source="Սիմոնը" target="Մարանջյանը" id="1066" weight="1" />
+      <edge source="Սահակ Սևադայի" target="Գարդմանա" id="1067" weight="1" />
+      <edge source="Սահակ Սևադայի" target="Սեդա" id="1068" weight="1" />
+      <edge source="Սահակ Սևադայի" target="Աբաս" id="1069" weight="1" />
+      <edge source="Անիչկի" target="Անիչկին" id="1070" weight="1" />
+      <edge source="Լուսինյանների" target="Մարգարիտայի" id="1071" weight="1" />
+      <edge source="Ամալիան" target="Սիմբրյանը" id="1072" weight="2" />
+      <edge source="Ամալիան" target="Մաշտոցյանին" id="1073" weight="1" />
+      <edge source="շահին" target="Անդրեասի" id="1074" weight="1" />
+      <edge source="Բժշկի" target="Աբաս" id="1075" weight="1" />
+      <edge source="Վարդուհու" target="Աննայից" id="1076" weight="1" />
+      <edge source="Մեհերյանը" target="Եզովպոսը" id="1077" weight="1" />
+      <edge source="Գևորգն" target="Գարդմանա" id="1078" weight="1" />
+      <edge source="Գևորգն" target="Տանպետյանցի" id="1079" weight="1" />
+      <edge source="եգերացոց" target="Խրամը" id="1080" weight="1" />
+      <edge source="Պետրոսին" target="Սարգիս" id="1081" weight="1" />
+      <edge source="Վասակի" target="Տրդատ մեծի" id="1082" weight="1" />
+      <edge source="Թամարի" target="Թամարը" id="1083" weight="1" />
+      <edge source="Գարդմանա" target="Սեդա" id="1084" weight="1" />
+      <edge source="Գարդմանա" target="Ստեփաննոսը" id="1085" weight="1" />
+      <edge source="Գարդմանա" target="Վահրամ սեպուհը" id="1086" weight="1" />
+      <edge source="Ստեփաննոսը" target="Վահրամ սեպուհը" id="1087" weight="1" />
+      <edge source="Արսեն Մաշտոցյանին" target="Ագապյանները" id="1088" weight="1" />
+      <edge source="Արսեն Մաշտոցյանին" target="Մաշտոցյանին" id="1089" weight="1" />
+      <edge source="Արսենի" target="Նյութականի" id="1090" weight="1" />
+      <edge source="Նահապետի" target="Սահակ եպիսկոպոսի" id="1091" weight="1" />
+      <edge source="Վահրամ սեպուհը" target="Բեշիրը" id="1092" weight="1" />
+      <edge source="Սիմբրյանը" target="Մաշտոցյանին" id="1093" weight="1" />
+      <edge source="Ագապյանները" target="Մաշտոցյանին" id="1094" weight="1" />
+    </edges>
+  </graph>
+</gexf>

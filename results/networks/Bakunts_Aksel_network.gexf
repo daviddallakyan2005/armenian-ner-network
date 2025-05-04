@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Վարդաններից" label="Վարդաններից" />
+      <node id="Հովհան Մանդակունին" label="Հովհան Մանդակունին" />
+      <node id="Վարդանայ" label="Վարդանայ" />
+      <node id="Վարդան Մարաթեցի" label="Վարդան Մարաթեցի" />
+      <node id="Հովհան Օձնեցին" label="Հովհան Օձնեցին" />
+      <node id="Մխիթար Գոշը" label="Մխիթար Գոշը" />
+      <node id="Անանիա Իմաստասերը" label="Անանիա Իմաստասերը" />
+      <node id="Ն . Մառը" label="Ն . Մառը" />
+      <node id="Ներսես Շնորհալու" label="Ներսես Շնորհալու" />
+      <node id="ՎԱՐԴԱՆ ԱՅԳԵՑԻ" label="ՎԱՐԴԱՆ ԱՅԳԵՑԻ" />
+      <node id="Վարդան Այգեկցին" label="Վարդան Այգեկցին" />
+      <node id="Ն . Մառի" label="Ն . Մառի" />
+      <node id="Մեծ Վարդան" label="Մեծ Վարդան" />
+      <node id="Վարդանի" label="Վարդանի" />
+      <node id="Կիրակոս Գանձակեցին" label="Կիրակոս Գանձակեցին" />
+      <node id="Վարդան" label="Վարդան" />
+      <node id="Վարդան Այգեցի" label="Վարդան Այգեցի" />
+      <node id="Վարդանին" label="Վարդանին" />
+      <node id="Այգեցին" label="Այգեցին" />
+      <node id="Վարդան Այգեցին" label="Վարդան Այգեցին" />
+      <node id="Վարդան Այգեցու" label="Վարդան Այգեցու" />
+    </nodes>
+    <edges>
+      <edge source="Վարդաններից" target="Այգեցին" id="0" weight="1" />
+      <edge source="Վարդաններից" target="Մեծ Վարդան" id="1" weight="1" />
+      <edge source="Վարդաններից" target="Վարդան" id="2" weight="1" />
+      <edge source="Վարդաններից" target="Վարդան Այգեկցին" id="3" weight="1" />
+      <edge source="Վարդաններից" target="Վարդան Այգեցի" id="4" weight="1" />
+      <edge source="Վարդաններից" target="Վարդան Այգեցին" id="5" weight="1" />
+      <edge source="Վարդաններից" target="Վարդան Մարաթեցի" id="6" weight="1" />
+      <edge source="Վարդաններից" target="Վարդանայ" id="7" weight="1" />
+      <edge source="Վարդաններից" target="Վարդանին" id="8" weight="1" />
+      <edge source="Հովհան Մանդակունին" target="Անանիա Իմաստասերը" id="9" weight="1" />
+      <edge source="Հովհան Մանդակունին" target="Կիրակոս Գանձակեցին" id="10" weight="1" />
+      <edge source="Հովհան Մանդակունին" target="Հովհան Օձնեցին" id="11" weight="1" />
+      <edge source="Հովհան Մանդակունին" target="Մխիթար Գոշը" id="12" weight="1" />
+      <edge source="Հովհան Մանդակունին" target="Ներսես Շնորհալու" id="13" weight="1" />
+      <edge source="Հովհան Մանդակունին" target="Վարդան Այգեցին" id="14" weight="1" />
+      <edge source="Վարդանայ" target="Այգեցին" id="15" weight="1" />
+      <edge source="Վարդանայ" target="Մեծ Վարդան" id="16" weight="1" />
+      <edge source="Վարդանայ" target="Վարդան" id="17" weight="1" />
+      <edge source="Վարդանայ" target="Վարդան Այգեկցին" id="18" weight="1" />
+      <edge source="Վարդանայ" target="Վարդան Այգեցի" id="19" weight="1" />
+      <edge source="Վարդանայ" target="Վարդան Այգեցին" id="20" weight="1" />
+      <edge source="Վարդանայ" target="Վարդան Մարաթեցի" id="21" weight="1" />
+      <edge source="Վարդանայ" target="Վարդանին" id="22" weight="1" />
+      <edge source="Վարդան Մարաթեցի" target="Այգեցին" id="23" weight="1" />
+      <edge source="Վարդան Մարաթեցի" target="Մեծ Վարդան" id="24" weight="1" />
+      <edge source="Վարդան Մարաթեցի" target="Վարդան" id="25" weight="1" />
+      <edge source="Վարդան Մարաթեցի" target="Վարդան Այգեկցին" id="26" weight="1" />
+      <edge source="Վարդան Մարաթեցի" target="Վարդան Այգեցի" id="27" weight="1" />
+      <edge source="Վարդան Մարաթեցի" target="Վարդան Այգեցին" id="28" weight="1" />
+      <edge source="Վարդան Մարաթեցի" target="Վարդանին" id="29" weight="1" />
+      <edge source="Հովհան Օձնեցին" target="Անանիա Իմաստասերը" id="30" weight="1" />
+      <edge source="Հովհան Օձնեցին" target="Կիրակոս Գանձակեցին" id="31" weight="1" />
+      <edge source="Հովհան Օձնեցին" target="Մխիթար Գոշը" id="32" weight="1" />
+      <edge source="Հովհան Օձնեցին" target="Ներսես Շնորհալու" id="33" weight="1" />
+      <edge source="Հովհան Օձնեցին" target="Վարդան Այգեցին" id="34" weight="1" />
+      <edge source="Մխիթար Գոշը" target="Անանիա Իմաստասերը" id="35" weight="1" />
+      <edge source="Մխիթար Գոշը" target="Կիրակոս Գանձակեցին" id="36" weight="1" />
+      <edge source="Մխիթար Գոշը" target="Ներսես Շնորհալու" id="37" weight="1" />
+      <edge source="Մխիթար Գոշը" target="Վարդան Այգեցին" id="38" weight="1" />
+      <edge source="Անանիա Իմաստասերը" target="Կիրակոս Գանձակեցին" id="39" weight="1" />
+      <edge source="Անանիա Իմաստասերը" target="Ներսես Շնորհալու" id="40" weight="1" />
+      <edge source="Անանիա Իմաստասերը" target="Վարդան Այգեցին" id="41" weight="1" />
+      <edge source="Ն . Մառը" target="Ն . Մառի" id="42" weight="1" />
+      <edge source="Ն . Մառը" target="ՎԱՐԴԱՆ ԱՅԳԵՑԻ" id="43" weight="1" />
+      <edge source="Ն . Մառը" target="Վարդան Այգեցու" id="44" weight="1" />
+      <edge source="Ն . Մառը" target="Վարդանի" id="45" weight="1" />
+      <edge source="Ն . Մառը" target="Վարդանին" id="46" weight="1" />
+      <edge source="Ներսես Շնորհալու" target="Կիրակոս Գանձակեցին" id="47" weight="1" />
+      <edge source="Ներսես Շնորհալու" target="Վարդան Այգեցին" id="48" weight="1" />
+      <edge source="ՎԱՐԴԱՆ ԱՅԳԵՑԻ" target="Ն . Մառի" id="49" weight="1" />
+      <edge source="ՎԱՐԴԱՆ ԱՅԳԵՑԻ" target="Վարդան Այգեցու" id="50" weight="1" />
+      <edge source="ՎԱՐԴԱՆ ԱՅԳԵՑԻ" target="Վարդանի" id="51" weight="1" />
+      <edge source="ՎԱՐԴԱՆ ԱՅԳԵՑԻ" target="Վարդանին" id="52" weight="1" />
+      <edge source="Վարդան Այգեկցին" target="Այգեցին" id="53" weight="1" />
+      <edge source="Վարդան Այգեկցին" target="Մեծ Վարդան" id="54" weight="1" />
+      <edge source="Վարդան Այգեկցին" target="Վարդան" id="55" weight="1" />
+      <edge source="Վարդան Այգեկցին" target="Վարդան Այգեցի" id="56" weight="1" />
+      <edge source="Վարդան Այգեկցին" target="Վարդան Այգեցին" id="57" weight="1" />
+      <edge source="Վարդան Այգեկցին" target="Վարդանին" id="58" weight="1" />
+      <edge source="Ն . Մառի" target="Վարդան Այգեցու" id="59" weight="1" />
+      <edge source="Ն . Մառի" target="Վարդանի" id="60" weight="1" />
+      <edge source="Ն . Մառի" target="Վարդանին" id="61" weight="1" />
+      <edge source="Մեծ Վարդան" target="Այգեցին" id="62" weight="1" />
+      <edge source="Մեծ Վարդան" target="Վարդան" id="63" weight="1" />
+      <edge source="Մեծ Վարդան" target="Վարդան Այգեցի" id="64" weight="1" />
+      <edge source="Մեծ Վարդան" target="Վարդան Այգեցին" id="65" weight="1" />
+      <edge source="Մեծ Վարդան" target="Վարդանին" id="66" weight="1" />
+      <edge source="Վարդանի" target="Վարդան Այգեցու" id="67" weight="1" />
+      <edge source="Վարդանի" target="Վարդանին" id="68" weight="1" />
+      <edge source="Կիրակոս Գանձակեցին" target="Վարդան Այգեցին" id="69" weight="1" />
+      <edge source="Վարդան" target="Այգեցին" id="70" weight="1" />
+      <edge source="Վարդան" target="Վարդան Այգեցի" id="71" weight="1" />
+      <edge source="Վարդան" target="Վարդան Այգեցին" id="72" weight="1" />
+      <edge source="Վարդան" target="Վարդանին" id="73" weight="1" />
+      <edge source="Վարդան Այգեցի" target="Այգեցին" id="74" weight="1" />
+      <edge source="Վարդան Այգեցի" target="Վարդան Այգեցին" id="75" weight="1" />
+      <edge source="Վարդան Այգեցի" target="Վարդանին" id="76" weight="1" />
+      <edge source="Վարդանին" target="Այգեցին" id="77" weight="1" />
+      <edge source="Վարդանին" target="Վարդան Այգեցին" id="78" weight="1" />
+      <edge source="Վարդանին" target="Վարդան Այգեցու" id="79" weight="1" />
+      <edge source="Այգեցին" target="Վարդան Այգեցին" id="80" weight="1" />
+    </edges>
+  </graph>
+</gexf>

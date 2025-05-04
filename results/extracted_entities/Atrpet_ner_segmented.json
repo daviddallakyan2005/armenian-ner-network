@@ -1,0 +1,271 @@
+{
+  "segment_0": [
+    {
+      "word": "ԱՏՐՊԵՏ",
+      "entity_group": "PER",
+      "score": 0.9984684586524963
+    },
+    {
+      "word": "Բ . Այվազյանը",
+      "entity_group": "PER",
+      "score": 0.9684696793556213
+    },
+    {
+      "word": "Ատրպետը",
+      "entity_group": "PER",
+      "score": 0.9996057152748108
+    },
+    {
+      "word": "Լեոն",
+      "entity_group": "PER",
+      "score": 0.9988559484481812
+    },
+    {
+      "word": "Տմբլաչի — Խաչանը",
+      "entity_group": "PER",
+      "score": 0.9856541554133097
+    },
+    {
+      "word": "Բ . Քեչյանը",
+      "entity_group": "PER",
+      "score": 0.9436971346537272
+    },
+    {
+      "word": "Սիպիլը",
+      "entity_group": "PER",
+      "score": 0.999535083770752
+    },
+    {
+      "word": "Լ . Բաշալյանը",
+      "entity_group": "PER",
+      "score": 0.9304175972938538
+    },
+    {
+      "word": "Ատրպետը",
+      "entity_group": "PER",
+      "score": 0.9985942244529724
+    },
+    {
+      "word": "Ատրպետը",
+      "entity_group": "PER",
+      "score": 0.9992345571517944
+    },
+    {
+      "word": "Սարգիս Մուբայաջյան",
+      "entity_group": "PER",
+      "score": 0.9993265569210052
+    }
+  ],
+  "segment_1": [
+    {
+      "word": "Կարճ — Օհանի",
+      "entity_group": "PER",
+      "score": 0.9806742668151855
+    },
+    {
+      "word": "Մինասը",
+      "entity_group": "PER",
+      "score": 0.999476969242096
+    },
+    {
+      "word": "Ամիրխան քեհյայի",
+      "entity_group": "PER",
+      "score": 0.9798385202884674
+    },
+    {
+      "word": "Մինասի",
+      "entity_group": "PER",
+      "score": 0.9978997707366943
+    },
+    {
+      "word": "Թեմրանը",
+      "entity_group": "PER",
+      "score": 0.8271129131317139
+    },
+    {
+      "word": "Քյալաշը",
+      "entity_group": "PER",
+      "score": 0.9993656277656555
+    },
+    {
+      "word": "Մրոն",
+      "entity_group": "PER",
+      "score": 0.9991785883903503
+    },
+    {
+      "word": "Մրոյի",
+      "entity_group": "PER",
+      "score": 0.9979458451271057
+    },
+    {
+      "word": "Մինասին",
+      "entity_group": "PER",
+      "score": 0.9990946054458618
+    },
+    {
+      "word": "Ղայմաղամը",
+      "entity_group": "PER",
+      "score": 0.9968511462211609
+    }
+  ],
+  "segment_2": [
+    {
+      "word": "Մամոն",
+      "entity_group": "PER",
+      "score": 0.9990262985229492
+    },
+    {
+      "word": "Քյալաշի",
+      "entity_group": "PER",
+      "score": 0.9977061748504639
+    },
+    {
+      "word": "Մամոյի",
+      "entity_group": "PER",
+      "score": 0.9930717349052429
+    },
+    {
+      "word": "Մինասի",
+      "entity_group": "PER",
+      "score": 0.9979774355888367
+    },
+    {
+      "word": "Քյալաշը",
+      "entity_group": "PER",
+      "score": 0.9990924596786499
+    },
+    {
+      "word": "Քյալաշի",
+      "entity_group": "PER",
+      "score": 0.9593923091888428
+    },
+    {
+      "word": "Մամոն",
+      "entity_group": "PER",
+      "score": 0.9992080330848694
+    },
+    {
+      "word": "Քյալաշի",
+      "entity_group": "PER",
+      "score": 0.6541147232055664
+    },
+    {
+      "word": "Քյալաշի",
+      "entity_group": "PER",
+      "score": 0.9927667379379272
+    },
+    {
+      "word": "Մամոն",
+      "entity_group": "PER",
+      "score": 0.9989460110664368
+    },
+    {
+      "word": "Մամոն Քյալաշին",
+      "entity_group": "PER",
+      "score": 0.9878503382205963
+    }
+  ],
+  "segment_3": [
+    {
+      "word": "Մտրակի",
+      "entity_group": "PER",
+      "score": 0.9952137470245361
+    },
+    {
+      "word": "Սուլոն",
+      "entity_group": "PER",
+      "score": 0.9996259212493896
+    },
+    {
+      "word": "Մամոն",
+      "entity_group": "PER",
+      "score": 0.9994943141937256
+    },
+    {
+      "word": "Քյալաշը",
+      "entity_group": "PER",
+      "score": 0.9981673955917358
+    },
+    {
+      "word": "Քյալաշ",
+      "entity_group": "PER",
+      "score": 0.7246449589729309
+    },
+    {
+      "word": "Մամոն",
+      "entity_group": "PER",
+      "score": 0.9993269443511963
+    },
+    {
+      "word": "Չլոյին",
+      "entity_group": "PER",
+      "score": 0.9987695813179016
+    },
+    {
+      "word": "Քյալաշ",
+      "entity_group": "PER",
+      "score": 0.9423982501029968
+    }
+  ],
+  "segment_4": [
+    {
+      "word": "Քյալաշը",
+      "entity_group": "PER",
+      "score": 0.9995715022087097
+    },
+    {
+      "word": "Ամիրխան քեհյայի",
+      "entity_group": "PER",
+      "score": 0.9951907694339752
+    },
+    {
+      "word": "Քյալաշը",
+      "entity_group": "PER",
+      "score": 0.9994910955429077
+    },
+    {
+      "word": "Մամոյին",
+      "entity_group": "PER",
+      "score": 0.9986280202865601
+    },
+    {
+      "word": "Մամոն",
+      "entity_group": "PER",
+      "score": 0.9981626868247986
+    }
+  ],
+  "segment_5": [
+    {
+      "word": "Մինաս քեհյա",
+      "entity_group": "PER",
+      "score": 0.9368594586849213
+    },
+    {
+      "word": "Մամոն Թեմրանի",
+      "entity_group": "PER",
+      "score": 0.9986833333969116
+    },
+    {
+      "word": "Մամոյի",
+      "entity_group": "PER",
+      "score": 0.9960896968841553
+    }
+  ],
+  "segment_6": [
+    {
+      "word": "Անթառամը",
+      "entity_group": "PER",
+      "score": 0.997816801071167
+    },
+    {
+      "word": "Քյալաշին",
+      "entity_group": "PER",
+      "score": 0.9983474016189575
+    },
+    {
+      "word": "Զահլա",
+      "entity_group": "PER",
+      "score": 0.938784658908844
+    }
+  ]
+}

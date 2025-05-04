@@ -1,5 +1,4 @@
 import os
-import json
 import sys
 import torch
 import numpy as np
@@ -21,10 +20,6 @@ print(f"Python Executable: {sys.executable}")
 print(f"CUDA Available Check: {torch.cuda.is_available()}") # Check before transformers import
 print(f"PyTorch CUDA Built Version: {torch.version.cuda}")
 print(f"PyTorch Version: {torch.__version__}")
-# --- End Diagnostics ---
-
-print("PyTorch CUDA available:", torch.cuda.is_available())
-print("PyTorch built with CUDA:", torch.version.cuda)
 
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))

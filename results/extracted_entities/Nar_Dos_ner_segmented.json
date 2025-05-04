@@ -1,0 +1,1008 @@
+{
+  "segment_0": [
+    {
+      "word": "Նորատի",
+      "entity_group": "PER",
+      "score": 0.9942798614501953
+    },
+    {
+      "word": "Նորատի",
+      "entity_group": "PER",
+      "score": 0.9926406741142273
+    },
+    {
+      "word": "Նորատի",
+      "entity_group": "PER",
+      "score": 0.9934026598930359
+    }
+  ],
+  "segment_1": [
+    {
+      "word": "ՍՈՖԻԱ ՄԵԼԻՔՅԱՆ",
+      "entity_group": "PER",
+      "score": 0.8014485538005829
+    },
+    {
+      "word": "Սոֆիա Մելիքյանը",
+      "entity_group": "PER",
+      "score": 0.9985751211643219
+    },
+    {
+      "word": "Սոֆիան",
+      "entity_group": "PER",
+      "score": 0.9985974431037903
+    }
+  ],
+  "segment_2": [
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9947524070739746
+    },
+    {
+      "word": "Մելիքյանը",
+      "entity_group": "PER",
+      "score": 0.9935378432273865
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.9988232254981995
+    },
+    {
+      "word": "Ախ",
+      "entity_group": "PER",
+      "score": 0.9012449979782104
+    },
+    {
+      "word": "Սոֆիա",
+      "entity_group": "PER",
+      "score": 0.9942518472671509
+    },
+    {
+      "word": "Սոֆիա",
+      "entity_group": "PER",
+      "score": 0.9967034459114075
+    },
+    {
+      "word": "Մելիքյանը",
+      "entity_group": "PER",
+      "score": 0.9828223586082458
+    },
+    {
+      "word": "Իշխանուհի Մելիքյանը",
+      "entity_group": "PER",
+      "score": 0.998915284872055
+    },
+    {
+      "word": "Հարունյանին",
+      "entity_group": "PER",
+      "score": 0.9837086796760559
+    },
+    {
+      "word": "Հարունյանների",
+      "entity_group": "PER",
+      "score": 0.7946414947509766
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.9988118410110474
+    }
+  ],
+  "segment_3": [
+    {
+      "word": "Տիկին",
+      "entity_group": "PER",
+      "score": 0.6266281008720398
+    },
+    {
+      "word": "Հարունյանն",
+      "entity_group": "PER",
+      "score": 0.5101239681243896
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.9957553148269653
+    },
+    {
+      "word": "Հայկանուշի",
+      "entity_group": "PER",
+      "score": 0.9989870190620422
+    },
+    {
+      "word": "Հարունյանն",
+      "entity_group": "PER",
+      "score": 0.9899045825004578
+    }
+  ],
+  "segment_4": [
+    {
+      "word": "Արմենակն",
+      "entity_group": "PER",
+      "score": 0.9992066025733948
+    },
+    {
+      "word": "Հարունյանի",
+      "entity_group": "PER",
+      "score": 0.9986571073532104
+    },
+    {
+      "word": "Ստեփաննոսն",
+      "entity_group": "PER",
+      "score": 0.9995810389518738
+    },
+    {
+      "word": "Ստեփաննոսը",
+      "entity_group": "PER",
+      "score": 0.9995404481887817
+    },
+    {
+      "word": "Արմենակն",
+      "entity_group": "PER",
+      "score": 0.9992897510528564
+    },
+    {
+      "word": "Ստեփաննոսը",
+      "entity_group": "PER",
+      "score": 0.9994288086891174
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.9988780617713928
+    },
+    {
+      "word": "Արմենակ",
+      "entity_group": "PER",
+      "score": 0.996932864189148
+    },
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9735414981842041
+    },
+    {
+      "word": "Սոֆիա",
+      "entity_group": "PER",
+      "score": 0.8977075219154358
+    }
+  ],
+  "segment_5": [
+    {
+      "word": "ԵՐԵԿՈՅԱՆ",
+      "entity_group": "PER",
+      "score": 0.9876213669776917
+    },
+    {
+      "word": "Հարունյաններին",
+      "entity_group": "PER",
+      "score": 0.9790063500404358
+    },
+    {
+      "word": "Հարունյաններն",
+      "entity_group": "PER",
+      "score": 0.97743159532547
+    },
+    {
+      "word": "Արմենակից",
+      "entity_group": "PER",
+      "score": 0.9991662502288818
+    },
+    {
+      "word": "Միքայելյան",
+      "entity_group": "PER",
+      "score": 0.9977703094482422
+    }
+  ],
+  "segment_6": [
+    {
+      "word": "ՊԵՏՐՈՎ",
+      "entity_group": "PER",
+      "score": 0.9925146698951721
+    },
+    {
+      "word": "ՀԱՐՈԻՆՅԱՆ",
+      "entity_group": "PER",
+      "score": 0.9940693378448486
+    },
+    {
+      "word": "Հարունյանները",
+      "entity_group": "PER",
+      "score": 0.992794930934906
+    },
+    {
+      "word": "Պետրովի",
+      "entity_group": "PER",
+      "score": 0.9996901750564575
+    },
+    {
+      "word": "Հարությանը",
+      "entity_group": "PER",
+      "score": 0.9996565580368042
+    },
+    {
+      "word": "Արմենակը",
+      "entity_group": "PER",
+      "score": 0.9992695450782776
+    },
+    {
+      "word": "Պետրովն",
+      "entity_group": "PER",
+      "score": 0.9995065927505493
+    },
+    {
+      "word": "Պետրովը",
+      "entity_group": "PER",
+      "score": 0.9994956254959106
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.996747612953186
+    },
+    {
+      "word": "Պետրովի",
+      "entity_group": "PER",
+      "score": 0.9993894100189209
+    },
+    {
+      "word": "Պետրովին",
+      "entity_group": "PER",
+      "score": 0.9993845224380493
+    }
+  ],
+  "segment_7": [
+    {
+      "word": "Հարունյան",
+      "entity_group": "PER",
+      "score": 0.9993388056755066
+    },
+    {
+      "word": "Մելիքյանի",
+      "entity_group": "PER",
+      "score": 0.9986006617546082
+    },
+    {
+      "word": "Սոֆիա Մելիքյանի",
+      "entity_group": "PER",
+      "score": 0.9989518821239471
+    },
+    {
+      "word": "Մելիքյանր",
+      "entity_group": "PER",
+      "score": 0.9989653825759888
+    },
+    {
+      "word": "Հարունյանին",
+      "entity_group": "PER",
+      "score": 0.9984521865844727
+    }
+  ],
+  "segment_8": [
+    {
+      "word": "Հարունյանն",
+      "entity_group": "PER",
+      "score": 0.9918711185455322
+    },
+    {
+      "word": "Մելիքյանից",
+      "entity_group": "PER",
+      "score": 0.9954234957695007
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.998982846736908
+    },
+    {
+      "word": "Հարունյանի",
+      "entity_group": "PER",
+      "score": 0.9985513091087341
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.9985847473144531
+    },
+    {
+      "word": "Հարունյանը",
+      "entity_group": "PER",
+      "score": 0.998431384563446
+    },
+    {
+      "word": "Սոֆիա",
+      "entity_group": "PER",
+      "score": 0.9958457350730896
+    }
+  ],
+  "segment_9": [
+    {
+      "word": "Հարունյաններն",
+      "entity_group": "PER",
+      "score": 0.5893004536628723
+    },
+    {
+      "word": "Մելիքյանի",
+      "entity_group": "PER",
+      "score": 0.9891121983528137
+    },
+    {
+      "word": "Արմենակը",
+      "entity_group": "PER",
+      "score": 0.998830258846283
+    },
+    {
+      "word": "Հայկանուշը",
+      "entity_group": "PER",
+      "score": 0.9993190765380859
+    },
+    {
+      "word": "Հարունյանն",
+      "entity_group": "PER",
+      "score": 0.8495566248893738
+    },
+    {
+      "word": "Հարունյանն",
+      "entity_group": "PER",
+      "score": 0.9996538162231445
+    },
+    {
+      "word": "Արա խիղճը",
+      "entity_group": "PER",
+      "score": 0.9147581458091736
+    }
+  ],
+  "segment_10": [],
+  "segment_11": [],
+  "segment_12": [
+    {
+      "word": "Գրիգոր Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9996389448642731
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9995280504226685
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9996411800384521
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9996223449707031
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9969423413276672
+    }
+  ],
+  "segment_13": [
+    {
+      "word": "Նունեին",
+      "entity_group": "PER",
+      "score": 0.9992712140083313
+    },
+    {
+      "word": "Սեյրանյանին",
+      "entity_group": "PER",
+      "score": 0.9993669390678406
+    },
+    {
+      "word": "Սեյրանյանի",
+      "entity_group": "PER",
+      "score": 0.9995730519294739
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9995532631874084
+    },
+    {
+      "word": "Նունեի",
+      "entity_group": "PER",
+      "score": 0.9986283779144287
+    },
+    {
+      "word": "Օրիորդը",
+      "entity_group": "PER",
+      "score": 0.533316433429718
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9995006322860718
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9996675252914429
+    },
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9956608414649963
+    }
+  ],
+  "segment_14": [],
+  "segment_15": [
+    {
+      "word": "Գրիգոր Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9997128844261169
+    },
+    {
+      "word": "Նունեի",
+      "entity_group": "PER",
+      "score": 0.9938212633132935
+    },
+    {
+      "word": "Նունեի",
+      "entity_group": "PER",
+      "score": 0.9951868653297424
+    },
+    {
+      "word": "Սեյրանյանի",
+      "entity_group": "PER",
+      "score": 0.9995818734169006
+    },
+    {
+      "word": "Նունեն",
+      "entity_group": "PER",
+      "score": 0.9976819753646851
+    },
+    {
+      "word": "Սեյրանյանի",
+      "entity_group": "PER",
+      "score": 0.999639630317688
+    },
+    {
+      "word": "Նունեի",
+      "entity_group": "PER",
+      "score": 0.9985382556915283
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9997063279151917
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9997076392173767
+    },
+    {
+      "word": "Սեյրանյանից",
+      "entity_group": "PER",
+      "score": 0.9994308352470398
+    },
+    {
+      "word": "Սեյրանյանին",
+      "entity_group": "PER",
+      "score": 0.9996019005775452
+    },
+    {
+      "word": "Նունեից",
+      "entity_group": "PER",
+      "score": 0.8692904710769653
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9996846914291382
+    },
+    {
+      "word": "Սեյրանյանի",
+      "entity_group": "PER",
+      "score": 0.9995136260986328
+    }
+  ],
+  "segment_16": [
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9996021389961243
+    },
+    {
+      "word": "Նունեի",
+      "entity_group": "PER",
+      "score": 0.9964080452919006
+    },
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9786569476127625
+    },
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9445879459381104
+    },
+    {
+      "word": "Նունեն",
+      "entity_group": "PER",
+      "score": 0.9960513710975647
+    },
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9995375871658325
+    },
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9901955723762512
+    },
+    {
+      "word": "Գրիգոր",
+      "entity_group": "PER",
+      "score": 0.9961762428283691
+    },
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9851183891296387
+    },
+    {
+      "word": "Նունե",
+      "entity_group": "PER",
+      "score": 0.9762222170829773
+    }
+  ],
+  "segment_17": [
+    {
+      "word": "Սեյրանյանը",
+      "entity_group": "PER",
+      "score": 0.9996744394302368
+    },
+    {
+      "word": "Նունեի",
+      "entity_group": "PER",
+      "score": 0.9966471791267395
+    },
+    {
+      "word": "Գրիգոր",
+      "entity_group": "PER",
+      "score": 0.9980502128601074
+    },
+    {
+      "word": "Գրիգոր",
+      "entity_group": "PER",
+      "score": 0.9947624802589417
+    },
+    {
+      "word": "Գրիգոր",
+      "entity_group": "PER",
+      "score": 0.9978169202804565
+    },
+    {
+      "word": "Գրիգոր",
+      "entity_group": "PER",
+      "score": 0.9967589974403381
+    }
+  ],
+  "segment_18": [],
+  "segment_19": [
+    {
+      "word": "Պետրոս",
+      "entity_group": "PER",
+      "score": 0.999301552772522
+    },
+    {
+      "word": "Պետրոսը",
+      "entity_group": "PER",
+      "score": 0.9995242357254028
+    }
+  ],
+  "segment_20": [
+    {
+      "word": "Սաքո",
+      "entity_group": "PER",
+      "score": 0.9996321201324463
+    },
+    {
+      "word": "Սաքոյին",
+      "entity_group": "PER",
+      "score": 0.9992960691452026
+    },
+    {
+      "word": "Ղայիմ",
+      "entity_group": "PER",
+      "score": 0.7701374888420105
+    },
+    {
+      "word": "Սաքոն",
+      "entity_group": "PER",
+      "score": 0.9616649150848389
+    },
+    {
+      "word": "Աստված",
+      "entity_group": "PER",
+      "score": 0.9078242182731628
+    }
+  ],
+  "segment_21": [
+    {
+      "word": "Աղա Գրիգոր Մոսեիչի",
+      "entity_group": "PER",
+      "score": 0.9441114664077759
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչի",
+      "entity_group": "PER",
+      "score": 0.8949758807818095
+    },
+    {
+      "word": "Գայանեի",
+      "entity_group": "PER",
+      "score": 0.9983874559402466
+    },
+    {
+      "word": "Գարեգին",
+      "entity_group": "PER",
+      "score": 0.9990805387496948
+    },
+    {
+      "word": "Իսկուհին",
+      "entity_group": "PER",
+      "score": 0.9984203577041626
+    },
+    {
+      "word": "Գարեգինը",
+      "entity_group": "PER",
+      "score": 0.9985376596450806
+    },
+    {
+      "word": "Գարեգինի",
+      "entity_group": "PER",
+      "score": 0.997677743434906
+    }
+  ],
+  "segment_22": [
+    {
+      "word": "աղա Գրիգոր Մոսեիչի",
+      "entity_group": "PER",
+      "score": 0.9766683777173361
+    },
+    {
+      "word": "Թամամչյանի",
+      "entity_group": "PER",
+      "score": 0.9993854761123657
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9991127848625183
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչին",
+      "entity_group": "PER",
+      "score": 0.9682689905166626
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.998745322227478
+    },
+    {
+      "word": "Բարսեղ",
+      "entity_group": "PER",
+      "score": 0.9948834776878357
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչը",
+      "entity_group": "PER",
+      "score": 0.9746373494466146
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչ",
+      "entity_group": "PER",
+      "score": 0.9194017648696899
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9994915723800659
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչը",
+      "entity_group": "PER",
+      "score": 0.9445911844571432
+    }
+  ],
+  "segment_23": [
+    {
+      "word": "Դարիա Կիրիլովնան",
+      "entity_group": "PER",
+      "score": 0.9983313083648682
+    },
+    {
+      "word": "Փառանձեմ",
+      "entity_group": "PER",
+      "score": 0.966315746307373
+    },
+    {
+      "word": "Փառանձեմը",
+      "entity_group": "PER",
+      "score": 0.9955998659133911
+    },
+    {
+      "word": "Փառանձեմին",
+      "entity_group": "PER",
+      "score": 0.9904688000679016
+    }
+  ],
+  "segment_24": [
+    {
+      "word": "Վասիլի Պետրովիչ",
+      "entity_group": "PER",
+      "score": 0.9978187680244446
+    },
+    {
+      "word": "Աղա Գրիգոր Մոսեիչը",
+      "entity_group": "PER",
+      "score": 0.9974187811215719
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9996311664581299
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչին",
+      "entity_group": "PER",
+      "score": 0.978076159954071
+    },
+    {
+      "word": "Դարիա Կիրիլովնան",
+      "entity_group": "PER",
+      "score": 0.9986897110939026
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9995766282081604
+    },
+    {
+      "word": "Դարիա Կիրիլովնան",
+      "entity_group": "PER",
+      "score": 0.9976595044136047
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9996609687805176
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9996217489242554
+    }
+  ],
+  "segment_25": [
+    {
+      "word": "Գրիգոր Մոսեիչի",
+      "entity_group": "PER",
+      "score": 0.9974356591701508
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9996732473373413
+    },
+    {
+      "word": "Դարիա Կիրիլովնայի",
+      "entity_group": "PER",
+      "score": 0.9988477528095245
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9996750354766846
+    }
+  ],
+  "segment_26": [
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9995760321617126
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչի",
+      "entity_group": "PER",
+      "score": 0.791154146194458
+    },
+    {
+      "word": "Աղա Գրիգոր Մոսեիչը",
+      "entity_group": "PER",
+      "score": 0.8285901149113973
+    },
+    {
+      "word": "աղա Գրիգոր Մոսեիչը",
+      "entity_group": "PER",
+      "score": 0.8866063356399536
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9996858835220337
+    },
+    {
+      "word": "Բախշոյին",
+      "entity_group": "PER",
+      "score": 0.9996084570884705
+    },
+    {
+      "word": "Բարսեղը",
+      "entity_group": "PER",
+      "score": 0.9996386766433716
+    }
+  ],
+  "segment_27": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.998435914516449
+    },
+    {
+      "word": "Աննա",
+      "entity_group": "PER",
+      "score": 0.9784042239189148
+    }
+  ],
+  "segment_28": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9921218156814575
+    }
+  ],
+  "segment_29": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.991827130317688
+    }
+  ],
+  "segment_30": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9916576743125916
+    },
+    {
+      "word": "Գրիգորը",
+      "entity_group": "PER",
+      "score": 0.999679684638977
+    },
+    {
+      "word": "Գրիգորին",
+      "entity_group": "PER",
+      "score": 0.999515175819397
+    },
+    {
+      "word": "Գրիգորի",
+      "entity_group": "PER",
+      "score": 0.9994542002677917
+    }
+  ],
+  "segment_31": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9923713207244873
+    },
+    {
+      "word": "Թոմաս Գասպարիչը",
+      "entity_group": "PER",
+      "score": 0.9995630085468292
+    },
+    {
+      "word": "Թոմաս Գասպարիչն",
+      "entity_group": "PER",
+      "score": 0.9994798898696899
+    },
+    {
+      "word": "Գևորգ",
+      "entity_group": "PER",
+      "score": 0.6909094452857971
+    },
+    {
+      "word": "Թոմաս Գասպարիչը",
+      "entity_group": "PER",
+      "score": 0.9994954466819763
+    }
+  ],
+  "segment_32": [
+    {
+      "word": "Անգին",
+      "entity_group": "PER",
+      "score": 0.9265971183776855
+    },
+    {
+      "word": "Գուշակությունս",
+      "entity_group": "PER",
+      "score": 0.9951581358909607
+    }
+  ],
+  "segment_33": [],
+  "segment_34": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9934852719306946
+    },
+    {
+      "word": "Հորս",
+      "entity_group": "PER",
+      "score": 0.9889920949935913
+    },
+    {
+      "word": "Գրիգորի",
+      "entity_group": "PER",
+      "score": 0.9990793466567993
+    },
+    {
+      "word": "Գրիգորը",
+      "entity_group": "PER",
+      "score": 0.9992178678512573
+    }
+  ],
+  "segment_35": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9991299510002136
+    },
+    {
+      "word": "Գրիգորի",
+      "entity_group": "PER",
+      "score": 0.9988495111465454
+    },
+    {
+      "word": "Արշակին",
+      "entity_group": "PER",
+      "score": 0.998066246509552
+    },
+    {
+      "word": "Գարեգինին",
+      "entity_group": "PER",
+      "score": 0.9986878037452698
+    }
+  ],
+  "segment_36": [
+    {
+      "word": "Հոիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9451766014099121
+    }
+  ],
+  "segment_37": [
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9968993663787842
+    },
+    {
+      "word": "Աննա Սարոյան",
+      "entity_group": "PER",
+      "score": 0.9972854852676392
+    },
+    {
+      "word": "Հռիփսիմե",
+      "entity_group": "PER",
+      "score": 0.9976940751075745
+    },
+    {
+      "word": "Իզուր",
+      "entity_group": "PER",
+      "score": 0.9142682552337646
+    }
+  ]
+}

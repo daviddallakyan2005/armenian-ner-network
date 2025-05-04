@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="հավիտյան" label="հավիտյան" />
+      <node id="Դավիթի" label="Դավիթի" />
+      <node id="Առընչվելով" label="Առընչվելով" />
+      <node id="Ֆայտոն" label="Ֆայտոն" />
+      <node id="Քուչակի" label="Քուչակի" />
+      <node id="Դավիթ" label="Դավիթ" />
+      <node id="Սևահեր" label="Սևահեր" />
+      <node id="Սարյակի" label="Սարյակի" />
+      <node id="Խանդով" label="Խանդով" />
+      <node id="Քանզի" label="Քանզի" />
+      <node id="Կացին" label="Կացին" />
+      <node id="Չարենց" label="Չարենց" />
+      <node id="Մորուքը" label="Մորուքը" />
+      <node id="Թումանյանի" label="Թումանյանի" />
+      <node id="Դավիթը" label="Դավիթը" />
+      <node id="Արեգակը" label="Արեգակը" />
+      <node id="Վարդստանի" label="Վարդստանի" />
+      <node id="Մտքի" label="Մտքի" />
+      <node id="Աչքերը" label="Աչքերը" />
+      <node id="ԴԵՊԻ" label="ԴԵՊԻ" />
+      <node id="Ձենով" label="Ձենով" />
+      <node id="Կտակած" label="Կտակած" />
+      <node id="Մսրամելիքը" label="Մսրամելիքը" />
+      <node id="Ռես Մնոյի" label="Ռես Մնոյի" />
+      <node id="Շիրազ" label="Շիրազ" />
+      <node id="Տերյանից" label="Տերյանից" />
+      <node id="Հիսուսին" label="Հիսուսին" />
+      <node id="Չարենցը" label="Չարենցը" />
+      <node id="Անհնարին" label="Անհնարին" />
+      <node id="Աշուղ Սայաթ — Նովի" label="Աշուղ Սայաթ — Նովի" />
+      <node id="Ահավասիկ" label="Ահավասիկ" />
+      <node id="Օվկիանի" label="Օվկիանի" />
+      <node id="Մհերի" label="Մհերի" />
+      <node id="Նարեկացի" label="Նարեկացի" />
+      <node id="Նաիրյան" label="Նաիրյան" />
+      <node id="Նարեկացին" label="Նարեկացին" />
+      <node id="Դավթին" label="Դավթին" />
+      <node id="Ֆիրդուսի" label="Ֆիրդուսի" />
+      <node id="Սայաթ" label="Սայաթ" />
+      <node id="Մահի" label="Մահի" />
+      <node id="Առաջնորդին" label="Առաջնորդին" />
+      <node id="ԻզաբելլայինԻմ" label="ԻզաբելլայինԻմ" />
+      <node id="Զանգի" label="Զանգի" />
+      <node id="Սասունցի Դավիթը" label="Սասունցի Դավիթը" />
+      <node id="Կացինի" label="Կացինի" />
+      <node id="Էլի" label="Էլի" />
+      <node id="Մհերը" label="Մհերը" />
+      <node id="Շիրազի" label="Շիրազի" />
+      <node id="Հացի" label="Հացի" />
+      <node id="Ղազարոսի" label="Ղազարոսի" />
+      <node id="Սասուն" label="Սասուն" />
+      <node id="Այտերիդ" label="Այտերիդ" />
+      <node id="Տերյանի" label="Տերյանի" />
+      <node id="Անհանգրվան" label="Անհանգրվան" />
+      <node id="ԺԱ" label="ԺԱ" />
+      <node id="Խոհն" label="Խոհն" />
+      <node id="Արևանման" label="Արևանման" />
+      <node id="Զարհուրելի" label="Զարհուրելի" />
+      <node id="Սասմա" label="Սասմա" />
+      <node id="Արարիչ" label="Արարիչ" />
+      <node id="Դավիթն" label="Դավիթն" />
+      <node id="Սովը" label="Սովը" />
+      <node id="ԱյգաբացիՄայրամուտի" label="ԱյգաբացիՄայրամուտի" />
+      <node id="Տերության" label="Տերության" />
+      <node id="Մսրամելիքի" label="Մսրամելիքի" />
+      <node id="Մելիքը" label="Մելիքը" />
+      <node id="Շահնշահերի" label="Շահնշահերի" />
+      <node id="Անակընկալ" label="Անակընկալ" />
+      <node id="Էշխը" label="Էշխը" />
+      <node id="Իմաստունն" label="Իմաստունն" />
+      <node id="Մարտիրոսյալ" label="Մարտիրոսյալ" />
+      <node id="Տերյան" label="Տերյան" />
+      <node id="Բուդդայի" label="Բուդդայի" />
+      <node id="Էլամն" label="Էլամն" />
+      <node id="Շնչեցիր" label="Շնչեցիր" />
+      <node id="Արեգակին" label="Արեգակին" />
+      <node id="Տարերքին" label="Տարերքին" />
+      <node id="Այգաբացին" label="Այգաբացին" />
+      <node id="Օհանին" label="Օհանին" />
+      <node id="Քեզանից" label="Քեզանից" />
+      <node id="Առյուծ" label="Առյուծ" />
+      <node id="Ոգու" label="Ոգու" />
+      <node id="Մհերին" label="Մհերին" />
+      <node id="Էշխդ" label="Էշխդ" />
+      <node id="Արփիկին" label="Արփիկին" />
+      <node id="Սոսկումի" label="Սոսկումի" />
+      <node id="Խայամ" label="Խայամ" />
+      <node id="Նարեկացու" label="Նարեկացու" />
+      <node id="ՀիսուսիԴեռ" label="ՀիսուսիԴեռ" />
+      <node id="ՍԻՐՈ" label="ՍԻՐՈ" />
+      <node id="Մհեր" label="Մհեր" />
+      <node id="Շրթերը" label="Շրթերը" />
+      <node id="Գարնան" label="Գարնան" />
+      <node id="Դավթի" label="Դավթի" />
+      <node id="Վիթխարի" label="Վիթխարի" />
+      <node id="Նովա" label="Նովա" />
+      <node id="Գոզալը" label="Գոզալը" />
+      <node id="Ժողովրդի" label="Ժողովրդի" />
+      <node id="Մսրա" label="Մսրա" />
+      <node id="Աղեքի" label="Աղեքի" />
+      <node id="Հիսուսի" label="Հիսուսի" />
+      <node id="Կապկանման" label="Կապկանման" />
+      <node id="Օհանը" label="Օհանը" />
+      <node id="խալխի" label="խալխի" />
+      <node id="Նովի" label="Նովի" />
+    </nodes>
+    <edges>
+      <edge source="Դավիթի" target="Դավիթ" id="0" weight="1" />
+      <edge source="Դավիթի" target="Դավիթը" id="1" weight="1" />
+      <edge source="Դավիթի" target="Դավիթն" id="2" weight="1" />
+      <edge source="Դավիթի" target="Ձենով" id="3" weight="1" />
+      <edge source="Դավիթի" target="Մսրա" id="4" weight="1" />
+      <edge source="Դավիթի" target="Սասմա" id="5" weight="1" />
+      <edge source="Դավիթի" target="Օհանը" id="6" weight="1" />
+      <edge source="Դավիթի" target="Օհանին" id="7" weight="1" />
+      <edge source="Ֆայտոն" target="Էշխդ" id="8" weight="1" />
+      <edge source="Քուչակի" target="Նարեկացու" id="9" weight="1" />
+      <edge source="Դավիթ" target="Դավիթը" id="10" weight="2" />
+      <edge source="Դավիթ" target="Դավիթն" id="11" weight="2" />
+      <edge source="Դավիթ" target="Ձենով" id="12" weight="1" />
+      <edge source="Դավիթ" target="Մսրա" id="13" weight="1" />
+      <edge source="Դավիթ" target="Սասմա" id="14" weight="1" />
+      <edge source="Դավիթ" target="Օհանը" id="15" weight="1" />
+      <edge source="Դավիթ" target="Օհանին" id="16" weight="1" />
+      <edge source="Դավիթ" target="Դավթի" id="17" weight="1" />
+      <edge source="Դավիթ" target="Մելիքը" id="18" weight="1" />
+      <edge source="Դավիթ" target="Մհերի" id="19" weight="1" />
+      <edge source="Դավիթ" target="Մսրամելիքի" id="20" weight="1" />
+      <edge source="Սևահեր" target="Վիթխարի" id="21" weight="1" />
+      <edge source="Խանդով" target="Դավիթը" id="22" weight="1" />
+      <edge source="Խանդով" target="Դավիթն" id="23" weight="1" />
+      <edge source="Խանդով" target="Մհեր" id="24" weight="1" />
+      <edge source="Խանդով" target="Սասունցի Դավիթը" id="25" weight="1" />
+      <edge source="Քանզի" target="Արարիչ" id="26" weight="1" />
+      <edge source="Քանզի" target="Կացին" id="27" weight="1" />
+      <edge source="Քանզի" target="Հացի" id="28" weight="1" />
+      <edge source="Քանզի" target="Նարեկացին" id="29" weight="1" />
+      <edge source="Կացին" target="Արարիչ" id="30" weight="1" />
+      <edge source="Կացին" target="Հացի" id="31" weight="1" />
+      <edge source="Կացին" target="Նարեկացին" id="32" weight="1" />
+      <edge source="Չարենց" target="Սայաթ" id="33" weight="1" />
+      <edge source="Մորուքը" target="Կապկանման" id="34" weight="1" />
+      <edge source="Մորուքը" target="Օվկիանի" id="35" weight="1" />
+      <edge source="Թումանյանի" target="Տերյանից" id="36" weight="1" />
+      <edge source="Դավիթը" target="Դավիթն" id="37" weight="3" />
+      <edge source="Դավիթը" target="Մհեր" id="38" weight="1" />
+      <edge source="Դավիթը" target="Սասունցի Դավիթը" id="39" weight="1" />
+      <edge source="Դավիթը" target="Ձենով" id="40" weight="1" />
+      <edge source="Դավիթը" target="Մսրա" id="41" weight="1" />
+      <edge source="Դավիթը" target="Սասմա" id="42" weight="1" />
+      <edge source="Դավիթը" target="Օհանը" id="43" weight="1" />
+      <edge source="Դավիթը" target="Օհանին" id="44" weight="1" />
+      <edge source="Դավիթը" target="Դավթի" id="45" weight="1" />
+      <edge source="Դավիթը" target="Մելիքը" id="46" weight="1" />
+      <edge source="Դավիթը" target="Մհերի" id="47" weight="1" />
+      <edge source="Դավիթը" target="Մսրամելիքի" id="48" weight="1" />
+      <edge source="Վարդստանի" target="Աշուղ Սայաթ — Նովի" id="49" weight="1" />
+      <edge source="Վարդստանի" target="Շիրազի" id="50" weight="1" />
+      <edge source="Մտքի" target="Առաջնորդին" id="51" weight="1" />
+      <edge source="Աչքերը" target="Առյուծ" id="52" weight="1" />
+      <edge source="Աչքերը" target="Դավթին" id="53" weight="1" />
+      <edge source="Աչքերը" target="Դավիթն" id="54" weight="1" />
+      <edge source="Աչքերը" target="ԺԱ" id="55" weight="1" />
+      <edge source="Աչքերը" target="Մհեր" id="56" weight="1" />
+      <edge source="Աչքերը" target="Մհերի" id="57" weight="1" />
+      <edge source="Աչքերը" target="Մսրամելիքը" id="58" weight="1" />
+      <edge source="Աչքերը" target="Օհանը" id="59" weight="1" />
+      <edge source="ԴԵՊԻ" target="Նաիրյան" id="60" weight="1" />
+      <edge source="Ձենով" target="Դավիթն" id="61" weight="1" />
+      <edge source="Ձենով" target="Մսրա" id="62" weight="1" />
+      <edge source="Ձենով" target="Սասմա" id="63" weight="1" />
+      <edge source="Ձենով" target="Օհանը" id="64" weight="1" />
+      <edge source="Ձենով" target="Օհանին" id="65" weight="1" />
+      <edge source="Մսրամելիքը" target="Առյուծ" id="66" weight="1" />
+      <edge source="Մսրամելիքը" target="Դավթին" id="67" weight="1" />
+      <edge source="Մսրամելիքը" target="Դավիթն" id="68" weight="1" />
+      <edge source="Մսրամելիքը" target="ԺԱ" id="69" weight="1" />
+      <edge source="Մսրամելիքը" target="Մհեր" id="70" weight="1" />
+      <edge source="Մսրամելիքը" target="Մհերի" id="71" weight="1" />
+      <edge source="Մսրամելիքը" target="Օհանը" id="72" weight="1" />
+      <edge source="Ռես Մնոյի" target="Հիսուսի" id="73" weight="1" />
+      <edge source="Ռես Մնոյի" target="Հիսուսին" id="74" weight="1" />
+      <edge source="Հիսուսին" target="Հիսուսի" id="75" weight="1" />
+      <edge source="Չարենցը" target="Ժողովրդի" id="76" weight="1" />
+      <edge source="Չարենցը" target="Ոգու" id="77" weight="1" />
+      <edge source="Անհնարին" target="Անհանգրվան" id="78" weight="1" />
+      <edge source="Աշուղ Սայաթ — Նովի" target="Շիրազի" id="79" weight="1" />
+      <edge source="Օվկիանի" target="Կապկանման" id="80" weight="1" />
+      <edge source="Մհերի" target="Մհերը" id="81" weight="1" />
+      <edge source="Մհերի" target="Սասմա" id="82" weight="1" />
+      <edge source="Մհերի" target="Առյուծ" id="83" weight="1" />
+      <edge source="Մհերի" target="Դավթին" id="84" weight="1" />
+      <edge source="Մհերի" target="Դավիթն" id="85" weight="2" />
+      <edge source="Մհերի" target="ԺԱ" id="86" weight="1" />
+      <edge source="Մհերի" target="Մհեր" id="87" weight="1" />
+      <edge source="Մհերի" target="Օհանը" id="88" weight="1" />
+      <edge source="Մհերի" target="Դավթի" id="89" weight="1" />
+      <edge source="Մհերի" target="Մելիքը" id="90" weight="1" />
+      <edge source="Մհերի" target="Մսրամելիքի" id="91" weight="1" />
+      <edge source="Նարեկացի" target="ԱյգաբացիՄայրամուտի" id="92" weight="1" />
+      <edge source="Նարեկացի" target="Արարիչ" id="93" weight="1" />
+      <edge source="Նարեկացի" target="Այգաբացին" id="94" weight="1" />
+      <edge source="Նարեկացի" target="Արեգակին" id="95" weight="1" />
+      <edge source="Նարեկացի" target="Զարհուրելի" id="96" weight="1" />
+      <edge source="Նարեկացի" target="Ղազարոսի" id="97" weight="1" />
+      <edge source="Նարեկացի" target="Քեզանից" id="98" weight="1" />
+      <edge source="Նարեկացին" target="Արարիչ" id="99" weight="1" />
+      <edge source="Նարեկացին" target="Հացի" id="100" weight="1" />
+      <edge source="Նարեկացին" target="ԻզաբելլայինԻմ" id="101" weight="1" />
+      <edge source="Դավթին" target="Մհերին" id="102" weight="1" />
+      <edge source="Դավթին" target="Առյուծ" id="103" weight="1" />
+      <edge source="Դավթին" target="Դավիթն" id="104" weight="1" />
+      <edge source="Դավթին" target="ԺԱ" id="105" weight="1" />
+      <edge source="Դավթին" target="Մհեր" id="106" weight="1" />
+      <edge source="Դավթին" target="Օհանը" id="107" weight="1" />
+      <edge source="Մահի" target="Սոսկումի" id="108" weight="1" />
+      <edge source="Զանգի" target="Գարնան" id="109" weight="1" />
+      <edge source="Զանգի" target="Էշխդ" id="110" weight="1" />
+      <edge source="Սասունցի Դավիթը" target="Դավիթն" id="111" weight="1" />
+      <edge source="Սասունցի Դավիթը" target="Մհեր" id="112" weight="1" />
+      <edge source="Էլի" target="Շրթերը" id="113" weight="1" />
+      <edge source="Մհերը" target="Սասուն" id="114" weight="1" />
+      <edge source="Մհերը" target="Սասմա" id="115" weight="1" />
+      <edge source="Հացի" target="Արարիչ" id="116" weight="1" />
+      <edge source="Ղազարոսի" target="Այգաբացին" id="117" weight="1" />
+      <edge source="Ղազարոսի" target="Արեգակին" id="118" weight="1" />
+      <edge source="Ղազարոսի" target="Զարհուրելի" id="119" weight="1" />
+      <edge source="Ղազարոսի" target="Քեզանից" id="120" weight="1" />
+      <edge source="ԺԱ" target="Առյուծ" id="121" weight="1" />
+      <edge source="ԺԱ" target="Դավիթն" id="122" weight="1" />
+      <edge source="ԺԱ" target="Մհեր" id="123" weight="1" />
+      <edge source="ԺԱ" target="Օհանը" id="124" weight="1" />
+      <edge source="Խոհն" target="Անակընկալ" id="125" weight="1" />
+      <edge source="Արևանման" target="Արփիկին" id="126" weight="1" />
+      <edge source="Զարհուրելի" target="Այգաբացին" id="127" weight="1" />
+      <edge source="Զարհուրելի" target="Արեգակին" id="128" weight="1" />
+      <edge source="Զարհուրելի" target="Քեզանից" id="129" weight="1" />
+      <edge source="Սասմա" target="Դավիթն" id="130" weight="1" />
+      <edge source="Սասմա" target="Մսրա" id="131" weight="1" />
+      <edge source="Սասմա" target="Օհանը" id="132" weight="1" />
+      <edge source="Սասմա" target="Օհանին" id="133" weight="1" />
+      <edge source="Արարիչ" target="ԱյգաբացիՄայրամուտի" id="134" weight="1" />
+      <edge source="Դավիթն" target="Մհեր" id="135" weight="2" />
+      <edge source="Դավիթն" target="Առյուծ" id="136" weight="1" />
+      <edge source="Դավիթն" target="Օհանը" id="137" weight="2" />
+      <edge source="Դավիթն" target="Մսրա" id="138" weight="1" />
+      <edge source="Դավիթն" target="Օհանին" id="139" weight="1" />
+      <edge source="Դավիթն" target="Դավթի" id="140" weight="1" />
+      <edge source="Դավիթն" target="Մելիքը" id="141" weight="1" />
+      <edge source="Դավիթն" target="Մսրամելիքի" id="142" weight="1" />
+      <edge source="Տերության" target="Տարերքին" id="143" weight="1" />
+      <edge source="Մսրամելիքի" target="Դավթի" id="144" weight="1" />
+      <edge source="Մսրամելիքի" target="Մելիքը" id="145" weight="1" />
+      <edge source="Մելիքը" target="Դավթի" id="146" weight="1" />
+      <edge source="Էշխը" target="Աղեքի" id="147" weight="1" />
+      <edge source="Էշխը" target="Գոզալը" id="148" weight="1" />
+      <edge source="Էշխը" target="Նովի" id="149" weight="1" />
+      <edge source="Բուդդայի" target="Հիսուսի" id="150" weight="1" />
+      <edge source="Արեգակին" target="Այգաբացին" id="151" weight="1" />
+      <edge source="Արեգակին" target="Քեզանից" id="152" weight="1" />
+      <edge source="Այգաբացին" target="Քեզանից" id="153" weight="1" />
+      <edge source="Օհանին" target="Մսրա" id="154" weight="1" />
+      <edge source="Օհանին" target="Օհանը" id="155" weight="1" />
+      <edge source="Առյուծ" target="Մհեր" id="156" weight="1" />
+      <edge source="Առյուծ" target="Օհանը" id="157" weight="1" />
+      <edge source="Ոգու" target="Ժողովրդի" id="158" weight="1" />
+      <edge source="Էշխդ" target="Գարնան" id="159" weight="1" />
+      <edge source="Մհեր" target="Օհանը" id="160" weight="1" />
+      <edge source="Գոզալը" target="Աղեքի" id="161" weight="1" />
+      <edge source="Գոզալը" target="Նովի" id="162" weight="1" />
+      <edge source="Մսրա" target="Օհանը" id="163" weight="1" />
+      <edge source="Աղեքի" target="Նովի" id="164" weight="1" />
+      <edge source="խալխի" target="Նովի" id="165" weight="1" />
+    </edges>
+  </graph>
+</gexf>

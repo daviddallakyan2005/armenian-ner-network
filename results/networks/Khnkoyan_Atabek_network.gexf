@@ -1,0 +1,1215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Թվիստըր" label="Թվիստըր" />
+      <node id="Իշուկը" label="Իշուկը" />
+      <node id="Ճռիկի" label="Ճռիկի" />
+      <node id="Տղան" label="Տղան" />
+      <node id="Աքլորն" label="Աքլորն" />
+      <node id="ԱգռավայինԲկովը" label="ԱգռավայինԲկովը" />
+      <node id="Շլդիկ" label="Շլդիկ" />
+      <node id="Ծիտիկ" label="Ծիտիկ" />
+      <node id="Փիսիկ" label="Փիսիկ" />
+      <node id="Զաքին" label="Զաքին" />
+      <node id="Շուն" label="Շուն" />
+      <node id="Կատվին" label="Կատվին" />
+      <node id="Դոնիան" label="Դոնիան" />
+      <node id="Կեսն" label="Կեսն" />
+      <node id="Տարան" label="Տարան" />
+      <node id="Դահիճ" label="Դահիճ" />
+      <node id="Քարը" label="Քարը" />
+      <node id="ՃՌԻԿԸ" label="ՃՌԻԿԸ" />
+      <node id="Մեծ" label="Մեծ" />
+      <node id="Ցորնատերը" label="Ցորնատերը" />
+      <node id="Դոնիային" label="Դոնիային" />
+      <node id="Սերոբ" label="Սերոբ" />
+      <node id="Խոզն" label="Խոզն" />
+      <node id="Կիկլիկի" label="Կիկլիկի" />
+      <node id="արքան" label="արքան" />
+      <node id="Կեռ" label="Կեռ" />
+      <node id="Ստեփանին" label="Ստեփանին" />
+      <node id="Թվիստըրն" label="Թվիստըրն" />
+      <node id="Հրաչ" label="Հրաչ" />
+      <node id="Տատը" label="Տատը" />
+      <node id="եղևնին" label="եղևնին" />
+      <node id="Ետ" label="Ետ" />
+      <node id="Մուկիկ" label="Մուկիկ" />
+      <node id="Աղվես" label="Աղվես" />
+      <node id="Սիրտն" label="Սիրտն" />
+      <node id="Կոպալին" label="Կոպալին" />
+      <node id="Մտիկ" label="Մտիկ" />
+      <node id="Արոտ" label="Արոտ" />
+      <node id="Լուսամուտին" label="Լուսամուտին" />
+      <node id="Հաֆիզի" label="Հաֆիզի" />
+      <node id="Հաֆիզր" label="Հաֆիզր" />
+      <node id="Ճեպընթաց" label="Ճեպընթաց" />
+      <node id="Հայր" label="Հայր" />
+      <node id="Արաբը" label="Արաբը" />
+      <node id="Փիսոն" label="Փիսոն" />
+      <node id="Կրիան" label="Կրիան" />
+      <node id="Կռունկ" label="Կռունկ" />
+      <node id="Մեծը" label="Մեծը" />
+      <node id="Աստվածն" label="Աստվածն" />
+      <node id="Գելը" label="Գելը" />
+      <node id="Փիսիկը" label="Փիսիկը" />
+      <node id="Դուռը" label="Դուռը" />
+      <node id="Վաչիկի" label="Վաչիկի" />
+      <node id="Կենդանի" label="Կենդանի" />
+      <node id="Գորտը" label="Գորտը" />
+      <node id="Քամին" label="Քամին" />
+      <node id="Մուկիկի" label="Մուկիկի" />
+      <node id="Մերն" label="Մերն" />
+      <node id="հովվի" label="հովվի" />
+      <node id="Հարսը" label="Հարսը" />
+      <node id="Արտուտն" label="Արտուտն" />
+      <node id="Աստված" label="Աստված" />
+      <node id="Տվեց" label="Տվեց" />
+      <node id="Հիմի" label="Հիմի" />
+      <node id="Մկնաբաշին" label="Մկնաբաշին" />
+      <node id="Ջահրեն" label="Ջահրեն" />
+      <node id="Միստըրը" label="Միստըրը" />
+      <node id="Կարլ Բեդեկերի" label="Կարլ Բեդեկերի" />
+      <node id="Պապիկը" label="Պապիկը" />
+      <node id="ՍՈԻԼԹԱՆ" label="ՍՈԻԼԹԱՆ" />
+      <node id="Ճամփի" label="Ճամփի" />
+      <node id="Գայլի" label="Գայլի" />
+      <node id="ճռիկը" label="ճռիկը" />
+      <node id="Ծտի" label="Ծտի" />
+      <node id="Տեր վեհափառ" label="Տեր վեհափառ" />
+      <node id="ՄոսինԿացինը" label="ՄոսինԿացինը" />
+      <node id="Փշի" label="Փշի" />
+      <node id="Իրենցից" label="Իրենցից" />
+      <node id="Մի Ծիտ" label="Մի Ծիտ" />
+      <node id="Նռնոն" label="Նռնոն" />
+      <node id="Մարոյի" label="Մարոյի" />
+      <node id="Եկան" label="Եկան" />
+      <node id="Ծովն" label="Ծովն" />
+      <node id="Հազարան Բլբուլն" label="Հազարան Բլբուլն" />
+      <node id="Սենյակին" label="Սենյակին" />
+      <node id="Ագռավը" label="Ագռավը" />
+      <node id="Արծիվն" label="Արծիվն" />
+      <node id="Չարչին" label="Չարչին" />
+      <node id="Ճռիկ" label="Ճռիկ" />
+      <node id="Լանկթամուրի" label="Լանկթամուրի" />
+      <node id="Վիտալիա" label="Վիտալիա" />
+      <node id="Ուլիկը" label="Ուլիկը" />
+      <node id="Ծովիկն" label="Ծովիկն" />
+      <node id="մին" label="մին" />
+      <node id="ԹվիստըրԱշխարհում" label="ԹվիստըրԱշխարհում" />
+      <node id="Նապաստակն" label="Նապաստակն" />
+      <node id="Ճստան" label="Ճստան" />
+      <node id="կատվին" label="կատվին" />
+      <node id="Հացն" label="Հացն" />
+      <node id="Բանաստեծի" label="Բանաստեծի" />
+      <node id="Խեցգետինն" label="Խեցգետինն" />
+      <node id="Դելֆին" label="Դելֆին" />
+      <node id="ՄուխսինԱրջից" label="ՄուխսինԱրջից" />
+      <node id="Խեղճ" label="Խեղճ" />
+      <node id="Քեռին" label="Քեռին" />
+      <node id="Հերթն" label="Հերթն" />
+      <node id="Արքան" label="Արքան" />
+      <node id="Աքլորի" label="Աքլորի" />
+      <node id="Արև" label="Արև" />
+      <node id="Ասես" label="Ասես" />
+      <node id="Քամուն" label="Քամուն" />
+      <node id="Մնացին" label="Մնացին" />
+      <node id="Խումբն" label="Խումբն" />
+      <node id="ԽԵՑԻՔԸ" label="ԽԵՑԻՔԸ" />
+      <node id="հովվին" label="հովվին" />
+      <node id="Բալո" label="Բալո" />
+      <node id="Հաֆիզն" label="Հաֆիզն" />
+      <node id="Ապի" label="Ապի" />
+      <node id="Մկնիկը" label="Մկնիկը" />
+      <node id="ՊառավըՃնճղկա" label="ՊառավըՃնճղկա" />
+      <node id="Կարիճ" label="Կարիճ" />
+      <node id="ԵՍ Ագռավը" label="ԵՍ Ագռավը" />
+      <node id="Հա" label="Հա" />
+      <node id="Գայլն" label="Գայլն" />
+      <node id="Ալ" label="Ալ" />
+      <node id="Մեծ մուկիկ" label="Մեծ մուկիկ" />
+      <node id="Թերթերը" label="Թերթերը" />
+      <node id="Արջիկն" label="Արջիկն" />
+      <node id="Կոպալը" label="Կոպալը" />
+      <node id="ՊառավըՃամփի" label="ՊառավըՃամփի" />
+      <node id="Որդիդ" label="Որդիդ" />
+      <node id="Ծեր" label="Ծեր" />
+      <node id="Կուկի" label="Կուկի" />
+      <node id="Արծվին" label="Արծվին" />
+      <node id="Կը" label="Կը" />
+      <node id="Դաշտի" label="Դաշտի" />
+      <node id="Եղբոր" label="Եղբոր" />
+      <node id="Հետը" label="Հետը" />
+      <node id="Եզիկը" label="Եզիկը" />
+      <node id="Ա" label="Ա" />
+      <node id="Լանկթամուրին" label="Լանկթամուրին" />
+      <node id="ՀԱԶԱՐԱՆ ԲԼԲՈԻԼԸ" label="ՀԱԶԱՐԱՆ ԲԼԲՈԻԼԸ" />
+      <node id="Դշխուհի" label="Դշխուհի" />
+      <node id="ՀԻՎԱՆԴ ԵՂՋԵՐՈԻՆ" label="ՀԻՎԱՆԴ ԵՂՋԵՐՈԻՆ" />
+      <node id="Կոպալ" label="Կոպալ" />
+      <node id="Տանուտերն" label="Տանուտերն" />
+      <node id="Պապի" label="Պապի" />
+      <node id="Սիրուն" label="Սիրուն" />
+      <node id="Գետինն" label="Գետինն" />
+      <node id="Ականջը" label="Ականջը" />
+      <node id="Շիրազը" label="Շիրազը" />
+      <node id="ԳԱՅԼՆ" label="ԳԱՅԼՆ" />
+      <node id="ՄիստըրԹվիստըր" label="ՄիստըրԹվիստըր" />
+      <node id="Ալ վարդի" label="Ալ վարդի" />
+      <node id="Խեցին" label="Խեցին" />
+      <node id="Մկնիկ" label="Մկնիկ" />
+      <node id="Ուլիկն" label="Ուլիկն" />
+      <node id="Հաֆիզին" label="Հաֆիզին" />
+      <node id="Ալո" label="Ալո" />
+      <node id="Կաքավներին" label="Կաքավներին" />
+      <node id="Ծով" label="Ծով" />
+      <node id="ԳՈՐՏՆ ՈԻ" label="ԳՈՐՏՆ ՈԻ" />
+      <node id="Ալ արյունը" label="Ալ արյունը" />
+      <node id="Թարգմ" label="Թարգմ" />
+      <node id="Նապաստակը" label="Նապաստակը" />
+      <node id="Հեղուշն" label="Հեղուշն" />
+      <node id="Կռիլովից" label="Կռիլովից" />
+      <node id="Գոգոլի" label="Գոգոլի" />
+      <node id="Լուսին" label="Լուսին" />
+      <node id="Կոպալի" label="Կոպալի" />
+      <node id="Ծիտիկն" label="Ծիտիկն" />
+      <node id="Աքլորիկս" label="Աքլորիկս" />
+      <node id="Լանկթամուրն" label="Լանկթամուրն" />
+      <node id="Իշուկ" label="Իշուկ" />
+      <node id="Վասիլ" label="Վասիլ" />
+      <node id="Ամպի" label="Ամպի" />
+      <node id="Ոսկեհատիկ" label="Ոսկեհատիկ" />
+      <node id="Տատիկ" label="Տատիկ" />
+      <node id="Էլի" label="Էլի" />
+      <node id="ԲԱԼԴԻ" label="ԲԱԼԴԻ" />
+      <node id="Էշը" label="Էշը" />
+      <node id="Բախտն" label="Բախտն" />
+      <node id="Փշկո" label="Փշկո" />
+      <node id="Հազարան Բլբուլին" label="Հազարան Բլբուլին" />
+      <node id="Եղիսեն" label="Եղիսեն" />
+      <node id="Գետնի" label="Գետնի" />
+      <node id="Թոռը" label="Թոռը" />
+      <node id="Ասին" label="Ասին" />
+      <node id="Գերեզմանիս" label="Գերեզմանիս" />
+      <node id="Պառավը" label="Պառավը" />
+      <node id="Տանտերը" label="Տանտերը" />
+      <node id="Յոթի" label="Յոթի" />
+      <node id="Մին" label="Մին" />
+      <node id="ԴԱԼԱՐԻ" label="ԴԱԼԱՐԻ" />
+      <node id="Հայրս" label="Հայրս" />
+      <node id="Շահզադե" label="Շահզադե" />
+      <node id="Արքայի" label="Արքայի" />
+      <node id="Մկին" label="Մկին" />
+      <node id="Մարգարե" label="Մարգարե" />
+      <node id="Լանկթամուրը" label="Լանկթամուրը" />
+      <node id="Աշնան" label="Աշնան" />
+      <node id="Տերն" label="Տերն" />
+      <node id="Նռնոյին" label="Նռնոյին" />
+      <node id="Ծիտը" label="Ծիտը" />
+      <node id="ԿԿՈԻՆ" label="ԿԿՈԻՆ" />
+      <node id="Կերան" label="Կերան" />
+      <node id="Եղբայրները" label="Եղբայրները" />
+      <node id="Լացը" label="Լացը" />
+      <node id="Սևամորթ" label="Սևամորթ" />
+      <node id="ԿԱՊԻԿՆ" label="ԿԱՊԻԿՆ" />
+      <node id="Շունը" label="Շունը" />
+      <node id="Լանկթամարը" label="Լանկթամարը" />
+      <node id="Եզիկ" label="Եզիկ" />
+      <node id="գորտըԿովին" label="գորտըԿովին" />
+      <node id="Իշուկի" label="Իշուկի" />
+      <node id="Մկնիկն" label="Մկնիկն" />
+      <node id="Աքլորը" label="Աքլորը" />
+      <node id="տանուտերը" label="տանուտերը" />
+      <node id="Հավերը" label="Հավերը" />
+      <node id="Խափշիկ Եղբայրիկ" label="Խափշիկ Եղբայրիկ" />
+      <node id="Կատուն" label="Կատուն" />
+      <node id="Քարն" label="Քարն" />
+      <node id="Կուկին" label="Կուկին" />
+      <node id="Հավին" label="Հավին" />
+      <node id="ԿԱՐԱՊԸ" label="ԿԱՐԱՊԸ" />
+      <node id="Աքլորիկը" label="Աքլորիկը" />
+      <node id="Մուխսի" label="Մուխսի" />
+      <node id="Մոծակն" label="Մոծակն" />
+      <node id="Բարակ" label="Բարակ" />
+      <node id="Հեղուշ" label="Հեղուշ" />
+      <node id="Աշուղը" label="Աշուղը" />
+      <node id="Գլուխը" label="Գլուխը" />
+      <node id="Կոստան" label="Կոստան" />
+      <node id="ԴՇԽՈԻՀԻՆ" label="ԴՇԽՈԻՀԻՆ" />
+      <node id="Ա . Պուշկին" label="Ա . Պուշկին" />
+      <node id="Աստըծուն" label="Աստըծուն" />
+      <node id="Սաստիկ" label="Սաստիկ" />
+      <node id="ԳԱՅԼԻ" label="ԳԱՅԼԻ" />
+      <node id="Հետն" label="Հետն" />
+      <node id="Գինն" label="Գինն" />
+      <node id="Ալարկոտը" label="Ալարկոտը" />
+      <node id="Հազարան Բլբուլը" label="Հազարան Բլբուլը" />
+      <node id="Վառոյին" label="Վառոյին" />
+      <node id="Սովն" label="Սովն" />
+      <node id="Փիլոսը" label="Փիլոսը" />
+      <node id="Փիլոն" label="Փիլոն" />
+      <node id="ԿոստանինՏարան" label="ԿոստանինՏարան" />
+      <node id="Զորքը" label="Զորքը" />
+      <node id="Ագռավին" label="Ագռավին" />
+      <node id="Ծառ" label="Ծառ" />
+      <node id="Կռունկը" label="Կռունկը" />
+      <node id="Վ . Ժուկովսկու" label="Վ . Ժուկովսկու" />
+      <node id="Բալդուն" label="Բալդուն" />
+      <node id="բարիլուսինՍենյակ" label="բարիլուսինՍենյակ" />
+      <node id="Մկան" label="Մկան" />
+      <node id="Պապիկ" label="Պապիկ" />
+      <node id="Հաֆիզ" label="Հաֆիզ" />
+      <node id="Թազին" label="Թազին" />
+      <node id="Ա . Պուշկինից" label="Ա . Պուշկինից" />
+      <node id="Մխիկ" label="Մխիկ" />
+      <node id="Արտուտը" label="Արտուտը" />
+      <node id="Բոռո" label="Բոռո" />
+      <node id="Սերոբը" label="Սերոբը" />
+      <node id="ՋԱՂԱՑՊԱՆԸ" label="ՋԱՂԱՑՊԱՆԸ" />
+      <node id="Գլխարկը" label="Գլխարկը" />
+      <node id="Ցավն" label="Ցավն" />
+      <node id="Եղբայրն" label="Եղբայրն" />
+      <node id="ԿԱՐԻՃՆ" label="ԿԱՐԻՃՆ" />
+      <node id="ԿուկիԽոսքը" label="ԿուկիԽոսքը" />
+      <node id="Բան" label="Բան" />
+      <node id="Արև արքա" label="Արև արքա" />
+      <node id="Դռնապանն" label="Դռնապանն" />
+      <node id="Քեռու" label="Քեռու" />
+      <node id="Գտա" label="Գտա" />
+      <node id="Եզիկն" label="Եզիկն" />
+      <node id="Կռունկի" label="Կռունկի" />
+      <node id="արքայի" label="արքայի" />
+      <node id="Չարչփն" label="Չարչփն" />
+      <node id="Ա . Ֆեդորչենկոյից" label="Ա . Ֆեդորչենկոյից" />
+      <node id="Աղա" label="Աղա" />
+      <node id="Միջնեկ" label="Միջնեկ" />
+      <node id="Տանուտերը" label="Տանուտերը" />
+      <node id="Ասեղ" label="Ասեղ" />
+      <node id="Էդ" label="Էդ" />
+      <node id="Աչքս" label="Աչքս" />
+      <node id="Նանը" label="Նանը" />
+      <node id="Բանին" label="Բանին" />
+      <node id="Հաճուճ" label="Հաճուճ" />
+      <node id="Գազանները" label="Գազանները" />
+      <node id="Ստեփան" label="Ստեփան" />
+      <node id="Ծառիկ" label="Ծառիկ" />
+      <node id="Պապը" label="Պապը" />
+      <node id="Փիլոս" label="Փիլոս" />
+      <node id="Ալոն" label="Ալոն" />
+      <node id="Մուկ" label="Մուկ" />
+      <node id="Արծիվ" label="Արծիվ" />
+      <node id="Ասեղը" label="Ասեղը" />
+      <node id="Նեպտունը" label="Նեպտունը" />
+      <node id="աղվեսը" label="աղվեսը" />
+      <node id="ՆեպտունըԾովի" label="ՆեպտունըԾովի" />
+      <node id="Ագռավիկ" label="Ագռավիկ" />
+      <node id="Բլբուլը" label="Բլբուլը" />
+      <node id="Բալդի" label="Բալդի" />
+      <node id="Անուշ" label="Անուշ" />
+      <node id="Դստրիկն" label="Դստրիկն" />
+      <node id="Բասար" label="Բասար" />
+      <node id="Ջուխտիդ" label="Ջուխտիդ" />
+      <node id="Ագռավ" label="Ագռավ" />
+      <node id="ԲալդինԷն" label="ԲալդինԷն" />
+      <node id="Ձին" label="Ձին" />
+      <node id="Տարաս Շեվչենկոյից" label="Տարաս Շեվչենկոյից" />
+      <node id="Մանուշակը" label="Մանուշակը" />
+      <node id="Ծերն" label="Ծերն" />
+      <node id="Հրաչը" label="Հրաչը" />
+      <node id="ԹիթեռնիկըՁու" label="ԹիթեռնիկըՁու" />
+      <node id="Կույսը" label="Կույսը" />
+      <node id="Անտուն" label="Անտուն" />
+      <node id="Կատվի" label="Կատվի" />
+      <node id="Եկվորն" label="Եկվորն" />
+      <node id="Փիսիկն" label="Փիսիկն" />
+      <node id="Հազար" label="Հազար" />
+      <node id="Ծառը" label="Ծառը" />
+      <node id="Քարիկն" label="Քարիկն" />
+      <node id="Միստըր Թվիստըր" label="Միստըր Թվիստըր" />
+      <node id="Ղոչ" label="Ղոչ" />
+      <node id="Լուսինն" label="Լուսինն" />
+      <node id="Քոլիկ" label="Քոլիկ" />
+      <node id="Անգին" label="Անգին" />
+      <node id="Գորգի" label="Գորգի" />
+      <node id="ԱԼԱՐԻ" label="ԱԼԱՐԻ" />
+      <node id="Լեզուս" label="Լեզուս" />
+      <node id="Իշուկին" label="Իշուկին" />
+      <node id="Պուճուր" label="Պուճուր" />
+      <node id="Գառնիկս" label="Գառնիկս" />
+      <node id="Հազարան Բլբուլի" label="Հազարան Բլբուլի" />
+      <node id="Ծովը" label="Ծովը" />
+      <node id="ԳՑՈԻՂԱՑԻՆ" label="ԳՑՈԻՂԱՑԻՆ" />
+      <node id="Գորտ" label="Գորտ" />
+      <node id="Դավթի" label="Դավթի" />
+      <node id="Ագռավն" label="Ագռավն" />
+      <node id="Ռոստոմ" label="Ռոստոմ" />
+      <node id="Ուլիկին" label="Ուլիկին" />
+      <node id="Քարի" label="Քարի" />
+      <node id="Հաֆիզը" label="Հաֆիզը" />
+      <node id="Վիտալի" label="Վիտալի" />
+      <node id="Դաշտը" label="Դաշտը" />
+      <node id="Ասլան" label="Ասլան" />
+      <node id="ԱՂՎԵՍՆ ՈԻ" label="ԱՂՎԵՍՆ ՈԻ" />
+      <node id="Աքլոր" label="Աքլոր" />
+      <node id="Խաբարը" label="Խաբարը" />
+      <node id="Խափշիկ" label="Խափշիկ" />
+      <node id="Թասն" label="Թասն" />
+      <node id="Կատու" label="Կատու" />
+      <node id="ՍԵՐՈԲԸ" label="ՍԵՐՈԲԸ" />
+      <node id="Խնձորենին" label="Խնձորենին" />
+      <node id="Հավը" label="Հավը" />
+      <node id="Ստվերների" label="Ստվերների" />
+      <node id="Արքա" label="Արքա" />
+      <node id="Բալդու" label="Բալդու" />
+      <node id="Վրան" label="Վրան" />
+      <node id="Փափկամազիկ" label="Փափկամազիկ" />
+      <node id="Տատիկը" label="Տատիկը" />
+      <node id="Հերկուլես" label="Հերկուլես" />
+      <node id="ՈՍԿԵ ԻԼԻԿԸ" label="ՈՍԿԵ ԻԼԻԿԸ" />
+      <node id="Քամի" label="Քամի" />
+      <node id="Փշիկը" label="Փշիկը" />
+      <node id="Եղբայրը" label="Եղբայրը" />
+      <node id="Կուկը" label="Կուկը" />
+      <node id="Ներս" label="Ներս" />
+      <node id="Շիրազեցիք" label="Շիրազեցիք" />
+      <node id="Ձեռքին" label="Ձեռքին" />
+      <node id="Հովիվն" label="Հովիվն" />
+      <node id="Արշալույսը" label="Արշալույսը" />
+      <node id="Շանը" label="Շանը" />
+      <node id="Աքլորին" label="Աքլորին" />
+      <node id="Ռոստոմը" label="Ռոստոմը" />
+      <node id="Մարգագետնով" label="Մարգագետնով" />
+      <node id="Արտուտիկի" label="Արտուտիկի" />
+      <node id="Ջահել" label="Ջահել" />
+      <node id="Գերի" label="Գերի" />
+      <node id="Ախպեր" label="Ախպեր" />
+      <node id="շիրազեցիք" label="շիրազեցիք" />
+      <node id="աղվեսն" label="աղվեսն" />
+      <node id="Ճռիկն" label="Ճռիկն" />
+      <node id="Հրաչի" label="Հրաչի" />
+      <node id="Կառ" label="Կառ" />
+      <node id="Գազանի" label="Գազանի" />
+      <node id="Դալար" label="Դալար" />
+      <node id="ՃՊՈԻՌՆ" label="ՃՊՈԻՌՆ" />
+      <node id="Արջը" label="Արջը" />
+      <node id="Մուկ Զարզանդը" label="Մուկ Զարզանդը" />
+      <node id="Աղվեսի" label="Աղվեսի" />
+      <node id="Հայրիկ" label="Հայրիկ" />
+      <node id="Վրեն" label="Վրեն" />
+      <node id="Իշուկն" label="Իշուկն" />
+      <node id="Բալդին" label="Բալդին" />
+      <node id="Ծտին" label="Ծտին" />
+      <node id="Թվիստըրը" label="Թվիստըրը" />
+      <node id="Վերշին" label="Վերշին" />
+      <node id="ԽԵՑԳԵՏԻՆԸ" label="ԽԵՑԳԵՏԻՆԸ" />
+      <node id="Միստըրն" label="Միստըրն" />
+      <node id="Ծուղրուղու" label="Ծուղրուղու" />
+      <node id="Տերտերը" label="Տերտերը" />
+      <node id="Կալմեջ" label="Կալմեջ" />
+      <node id="Պանամ" label="Պանամ" />
+      <node id="Հայելի" label="Հայելի" />
+      <node id="Գայլը" label="Գայլը" />
+      <node id="Ախ" label="Ախ" />
+      <node id="արքա" label="արքա" />
+      <node id="Հետքով" label="Հետքով" />
+      <node id="Ծաղկի" label="Ծաղկի" />
+      <node id="Մուկը" label="Մուկը" />
+      <node id="Հնդիկ Եղբայրիկ" label="Հնդիկ Եղբայրիկ" />
+      <node id="Լիճը" label="Լիճը" />
+      <node id="Էն ըմբոստինՈտս" label="Էն ըմբոստինՈտս" />
+      <node id="շահ Աքլորն" label="շահ Աքլորն" />
+      <node id="Անբաժան" label="Անբաժան" />
+      <node id="Արև արքայի" label="Արև արքայի" />
+      <node id="Աչքախուփիկ" label="Աչքախուփիկ" />
+      <node id="Կարիճն" label="Կարիճն" />
+      <node id="Ծըզծըվոցն" label="Ծըզծըվոցն" />
+      <node id="ՅՈԹ" label="ՅՈԹ" />
+      <node id="Քեռի" label="Քեռի" />
+      <node id="Արջին" label="Արջին" />
+      <node id="Գողտրիկ" label="Գողտրիկ" />
+      <node id="Խեցիի" label="Խեցիի" />
+      <node id="Հազարան Բլրուլը" label="Հազարան Բլրուլը" />
+      <node id="Էն" label="Էն" />
+      <node id="Մարոն" label="Մարոն" />
+      <node id="ՊՈԻՏՈԻԿՆ" label="ՊՈԻՏՈԻԿՆ" />
+      <node id="Մխիկն" label="Մխիկն" />
+      <node id="Ճամփին" label="Ճամփին" />
+      <node id="ԴնեպրիԱհեղ" label="ԴնեպրիԱհեղ" />
+      <node id="Զիլ" label="Զիլ" />
+      <node id="Թև" label="Թև" />
+      <node id="Առյուծ" label="Առյուծ" />
+      <node id="Շալակն" label="Շալակն" />
+      <node id="Աժդահա" label="Աժդահա" />
+      <node id="Ոսկեմազիկը" label="Ոսկեմազիկը" />
+      <node id="Աղվեսն" label="Աղվեսն" />
+      <node id="Վայը" label="Վայը" />
+      <node id="Ջիվան Աքլոր" label="Ջիվան Աքլոր" />
+      <node id="Ծառիկն" label="Ծառիկն" />
+      <node id="Պառավն" label="Պառավն" />
+      <node id="Աշուն" label="Աշուն" />
+      <node id="Դեն" label="Դեն" />
+      <node id="Ռոստոմին" label="Ռոստոմին" />
+      <node id="Կիկիլիկի" label="Կիկիլիկի" />
+      <node id="Ծիտն" label="Ծիտն" />
+      <node id="Չալ" label="Չալ" />
+      <node id="Ասեղն" label="Ասեղն" />
+      <node id="ՇլդիկԱսավ" label="ՇլդիկԱսավ" />
+      <node id="Կազբեկի" label="Կազբեկի" />
+      <node id="Հպարտ" label="Հպարտ" />
+      <node id="Հովիվը" label="Հովիվը" />
+      <node id="Աղվեսը" label="Աղվեսը" />
+      <node id="Փողալի" label="Փողալի" />
+      <node id="Կռունկն" label="Կռունկն" />
+      <node id="Քույրիկ" label="Քույրիկ" />
+      <node id="Միստրին" label="Միստրին" />
+      <node id="Շահզադա" label="Շահզադա" />
+      <node id="Արտուտիկ" label="Արտուտիկ" />
+      <node id="Շերեփը" label="Շերեփը" />
+      <node id="Դարդ" label="Դարդ" />
+      <node id="Մարոյենց" label="Մարոյենց" />
+      <node id="ԻՄԱՍՏՈԻՆ ՄԱՆՈԻԿԸ" label="ԻՄԱՍՏՈԻՆ ՄԱՆՈԻԿԸ" />
+      <node id="Իրեն" label="Իրեն" />
+      <node id="Մժեղը" label="Մժեղը" />
+      <node id="Ճռիկը" label="Ճռիկը" />
+      <node id="ԿԱՏՎԻ" label="ԿԱՏՎԻ" />
+      <node id="Նռնո" label="Նռնո" />
+    </nodes>
+    <edges>
+      <edge source="Թվիստըր" target="Գոգոլի" id="0" weight="1" />
+      <edge source="Թվիստըր" target="ԹվիստըրԱշխարհում" id="1" weight="1" />
+      <edge source="Թվիստըր" target="Ստեփան" id="2" weight="1" />
+      <edge source="Թվիստըր" target="Վասիլ" id="3" weight="1" />
+      <edge source="Թվիստըր" target="Վիտալի" id="4" weight="1" />
+      <edge source="Թվիստըր" target="Վիտալիա" id="5" weight="1" />
+      <edge source="Իշուկը" target="Ասեղ" id="6" weight="1" />
+      <edge source="Իշուկը" target="Ասեղը" id="7" weight="2" />
+      <edge source="Իշուկը" target="Աքլորը" id="8" weight="3" />
+      <edge source="Իշուկը" target="Կատուն" id="9" weight="3" />
+      <edge source="Իշուկը" target="Կոպալը" id="10" weight="3" />
+      <edge source="Իշուկը" target="Շունը" id="11" weight="3" />
+      <edge source="Իշուկը" target="Ուլիկը" id="12" weight="2" />
+      <edge source="Իշուկը" target="Ասեղն" id="13" weight="1" />
+      <edge source="Իշուկը" target="Ուլիկն" id="14" weight="1" />
+      <edge source="Իշուկը" target="Չարչփն" id="15" weight="1" />
+      <edge source="Իշուկը" target="Եզիկը" id="16" weight="1" />
+      <edge source="Իշուկը" target="Իշուկ" id="17" weight="1" />
+      <edge source="Իշուկը" target="Իշուկն" id="18" weight="1" />
+      <edge source="Իշուկը" target="Ճռիկ" id="19" weight="2" />
+      <edge source="Իշուկը" target="Ճռիկն" id="20" weight="2" />
+      <edge source="Իշուկը" target="Փիսիկ" id="21" weight="1" />
+      <edge source="Իշուկը" target="Փիսիկը" id="22" weight="1" />
+      <edge source="Իշուկը" target="Փիսիկն" id="23" weight="1" />
+      <edge source="Ճռիկի" target="Ճռիկը" id="24" weight="1" />
+      <edge source="Ճռիկի" target="Մկնիկը" id="25" weight="2" />
+      <edge source="Ճռիկի" target="Մուկիկ" id="26" weight="1" />
+      <edge source="Ճռիկի" target="ճռիկը" id="27" weight="1" />
+      <edge source="Տղան" target="Կենդանի" id="28" weight="1" />
+      <edge source="Տղան" target="Վայը" id="29" weight="1" />
+      <edge source="Տղան" target="Տվեց" id="30" weight="1" />
+      <edge source="Տղան" target="Քամին" id="31" weight="1" />
+      <edge source="Աքլորն" target="Աղվեսն" id="32" weight="1" />
+      <edge source="Աքլորն" target="աղվեսը" id="33" weight="1" />
+      <edge source="Աքլորն" target="Մարոն" id="34" weight="1" />
+      <edge source="Աքլորն" target="Վաչիկի" id="35" weight="1" />
+      <edge source="Աքլորն" target="Վառոյին" id="36" weight="1" />
+      <edge source="Աքլորն" target="Ասեղ" id="37" weight="1" />
+      <edge source="Աքլորն" target="Մարոյի" id="38" weight="1" />
+      <edge source="Աքլորն" target="Աքլորը" id="39" weight="1" />
+      <edge source="Շլդիկ" target="ՇլդիկԱսավ" id="40" weight="1" />
+      <edge source="Շլդիկ" target="Շունը" id="41" weight="1" />
+      <edge source="Ծիտիկ" target="Մուկը" id="42" weight="1" />
+      <edge source="Ծիտիկ" target="Արտուտիկ" id="43" weight="1" />
+      <edge source="Ծիտիկ" target="Ծտին" id="44" weight="1" />
+      <edge source="Փիսիկ" target="Ճռիկ" id="45" weight="1" />
+      <edge source="Փիսիկ" target="Ճռիկն" id="46" weight="1" />
+      <edge source="Փիսիկ" target="Փիսիկը" id="47" weight="1" />
+      <edge source="Փիսիկ" target="Փիսիկն" id="48" weight="1" />
+      <edge source="Զաքին" target="Ասլան" id="49" weight="1" />
+      <edge source="Զաքին" target="Գայլն" id="50" weight="1" />
+      <edge source="Զաքին" target="Դավթի" id="51" weight="1" />
+      <edge source="Զաքին" target="Մարոյենց" id="52" weight="1" />
+      <edge source="Զաքին" target="կատվին" id="53" weight="1" />
+      <edge source="Շուն" target="Ուլիկին" id="54" weight="1" />
+      <edge source="Կատվին" target="Կատու" id="55" weight="1" />
+      <edge source="Դոնիան" target="Դոնիային" id="56" weight="1" />
+      <edge source="Դոնիան" target="Հաֆիզը" id="57" weight="1" />
+      <edge source="Դոնիան" target="Լանկթամուրը" id="58" weight="1" />
+      <edge source="Դոնիան" target="Լանկթամուրին" id="59" weight="1" />
+      <edge source="Դոնիան" target="Հայրիկ" id="60" weight="1" />
+      <edge source="Դոնիան" target="Հաֆիզին" id="61" weight="1" />
+      <edge source="Դոնիան" target="Հաֆիզն" id="62" weight="1" />
+      <edge source="Դոնիան" target="Հաֆիզր" id="63" weight="1" />
+      <edge source="Կեսն" target="Բալդի" id="64" weight="1" />
+      <edge source="Կեսն" target="Բալդին" id="65" weight="1" />
+      <edge source="Կեսն" target="Բալդուն" id="66" weight="1" />
+      <edge source="Տարան" target="Աքլորը" id="67" weight="1" />
+      <edge source="Դահիճ" target="ԿԱՐԻՃՆ" id="68" weight="1" />
+      <edge source="Դահիճ" target="Կարիճ" id="69" weight="1" />
+      <edge source="Դահիճ" target="Կարիճն" id="70" weight="1" />
+      <edge source="Քարը" target="Ծառ" id="71" weight="1" />
+      <edge source="Քարը" target="Ագռավն" id="72" weight="1" />
+      <edge source="Քարը" target="Արտուտն" id="73" weight="1" />
+      <edge source="Քարը" target="Ծառիկն" id="74" weight="1" />
+      <edge source="Քարը" target="Ծիտիկն" id="75" weight="1" />
+      <edge source="Քարը" target="Ծովն" id="76" weight="1" />
+      <edge source="Քարը" target="Քարիկն" id="77" weight="1" />
+      <edge source="ՃՌԻԿԸ" target="Ճռիկը" id="78" weight="1" />
+      <edge source="Մեծ" target="Արտուտն" id="79" weight="5" />
+      <edge source="Մեծ" target="Ծիտիկն" id="80" weight="5" />
+      <edge source="Մեծ" target="Պուճուր" id="81" weight="5" />
+      <edge source="Մեծ" target="Ագռավն" id="82" weight="4" />
+      <edge source="Մեծ" target="Ծառիկ" id="83" weight="1" />
+      <edge source="Մեծ" target="Ծառը" id="84" weight="1" />
+      <edge source="Մեծ" target="Ծառիկն" id="85" weight="3" />
+      <edge source="Մեծ" target="Ծովիկն" id="86" weight="2" />
+      <edge source="Մեծ" target="Քարիկն" id="87" weight="2" />
+      <edge source="Ցորնատերը" target="Իրենցից" id="88" weight="1" />
+      <edge source="Ցորնատերը" target="ՋԱՂԱՑՊԱՆԸ" id="89" weight="1" />
+      <edge source="Դոնիային" target="Հաֆիզը" id="90" weight="1" />
+      <edge source="Սերոբ" target="ՍԵՐՈԲԸ" id="91" weight="1" />
+      <edge source="Սերոբ" target="Սերոբը" id="92" weight="1" />
+      <edge source="Սերոբ" target="Սիրուն" id="93" weight="1" />
+      <edge source="Կիկլիկի" target="Աքլորիկը" id="94" weight="1" />
+      <edge source="Կիկլիկի" target="աղվեսն" id="95" weight="1" />
+      <edge source="արքան" target="Արքայի" id="96" weight="1" />
+      <edge source="արքան" target="Գողտրիկ" id="97" weight="1" />
+      <edge source="արքան" target="Դելֆին" id="98" weight="1" />
+      <edge source="արքան" target="ԽԵՑԻՔԸ" id="99" weight="1" />
+      <edge source="արքան" target="Ճեպընթաց" id="100" weight="1" />
+      <edge source="արքան" target="Նեպտունը" id="101" weight="2" />
+      <edge source="արքան" target="ՆեպտունըԾովի" id="102" weight="1" />
+      <edge source="արքան" target="Խեցիի" id="103" weight="1" />
+      <edge source="արքան" target="Խեցին" id="104" weight="1" />
+      <edge source="Ստեփանին" target="Բանին" id="105" weight="1" />
+      <edge source="Հրաչ" target="Հովիվը" id="106" weight="1" />
+      <edge source="Հրաչ" target="Հրաչը" id="107" weight="1" />
+      <edge source="Հրաչ" target="Հրաչի" id="108" weight="1" />
+      <edge source="Հրաչ" target="Հեղուշ" id="109" weight="3" />
+      <edge source="Հրաչ" target="Հեղուշն" id="110" weight="1" />
+      <edge source="Հրաչ" target="Տատը" id="111" weight="1" />
+      <edge source="Հրաչ" target="Ախպեր" id="112" weight="1" />
+      <edge source="Հրաչ" target="Ծիտը" id="113" weight="1" />
+      <edge source="Տատը" target="Թոռը" id="114" weight="1" />
+      <edge source="Տատը" target="Մուկը" id="115" weight="1" />
+      <edge source="Տատը" target="Շունը" id="116" weight="1" />
+      <edge source="Տատը" target="Պապը" id="117" weight="1" />
+      <edge source="Տատը" target="Փիսոն" id="118" weight="1" />
+      <edge source="Տատը" target="Հեղուշ" id="119" weight="1" />
+      <edge source="Ետ" target="Նապաստակը" id="120" weight="1" />
+      <edge source="Ետ" target="Նապաստակն" id="121" weight="1" />
+      <edge source="Ետ" target="Շահզադա" id="122" weight="1" />
+      <edge source="Մուկիկ" target="Մկնիկը" id="123" weight="1" />
+      <edge source="Մուկիկ" target="ճռիկը" id="124" weight="1" />
+      <edge source="Աղվես" target="Գետինն" id="125" weight="1" />
+      <edge source="Աղվես" target="Սաստիկ" id="126" weight="1" />
+      <edge source="Աղվես" target="Վրեն" id="127" weight="1" />
+      <edge source="Աղվես" target="Աքլորը" id="128" weight="2" />
+      <edge source="Աղվես" target="Ագռավը" id="129" weight="2" />
+      <edge source="Աղվես" target="Աքլորի" id="130" weight="1" />
+      <edge source="Աղվես" target="Աղվեսը" id="131" weight="2" />
+      <edge source="Աղվես" target="Աղվեսն" id="132" weight="2" />
+      <edge source="Աղվես" target="Կռունկ" id="133" weight="2" />
+      <edge source="Աղվես" target="Կռունկը" id="134" weight="3" />
+      <edge source="Աղվես" target="Կռունկի" id="135" weight="2" />
+      <edge source="Աղվես" target="Կռունկն" id="136" weight="1" />
+      <edge source="Սիրտն" target="Ծաղկի" id="137" weight="1" />
+      <edge source="Մտիկ" target="Խափշիկ Եղբայրիկ" id="138" weight="1" />
+      <edge source="Մտիկ" target="Հնդիկ Եղբայրիկ" id="139" weight="1" />
+      <edge source="Լուսամուտին" target="Ա . Պուշկինից" id="140" weight="1" />
+      <edge source="Լուսամուտին" target="Արքան" id="141" weight="1" />
+      <edge source="Լուսամուտին" target="ԴՇԽՈԻՀԻՆ" id="142" weight="1" />
+      <edge source="Լուսամուտին" target="Հետը" id="143" weight="1" />
+      <edge source="Լուսամուտին" target="ՅՈԹ" id="144" weight="1" />
+      <edge source="Լուսամուտին" target="Վրան" id="145" weight="1" />
+      <edge source="Հաֆիզի" target="Լանկթամուրը" id="146" weight="2" />
+      <edge source="Հաֆիզի" target="Հաֆիզին" id="147" weight="2" />
+      <edge source="Հաֆիզի" target="Բանաստեծի" id="148" weight="1" />
+      <edge source="Հաֆիզի" target="Հաֆիզը" id="149" weight="2" />
+      <edge source="Ճեպընթաց" target="Արքայի" id="150" weight="1" />
+      <edge source="Ճեպընթաց" target="Գողտրիկ" id="151" weight="1" />
+      <edge source="Ճեպընթաց" target="Դելֆին" id="152" weight="1" />
+      <edge source="Ճեպընթաց" target="ԽԵՑԻՔԸ" id="153" weight="1" />
+      <edge source="Ճեպընթաց" target="Նեպտունը" id="154" weight="1" />
+      <edge source="Ճեպընթաց" target="ՆեպտունըԾովի" id="155" weight="1" />
+      <edge source="Հայր" target="Եկվորն" id="156" weight="1" />
+      <edge source="Հայր" target="Թվիստըրը" id="157" weight="1" />
+      <edge source="Հայր" target="Ճամփի" id="158" weight="1" />
+      <edge source="Հայր" target="Միստըրն" id="159" weight="1" />
+      <edge source="Հայր" target="Մնացին" id="160" weight="1" />
+      <edge source="Հայր" target="Պանամ" id="161" weight="1" />
+      <edge source="Հայր" target="Սևամորթ" id="162" weight="1" />
+      <edge source="Արաբը" target="Հազարան Բլբուլի" id="163" weight="1" />
+      <edge source="Արաբը" target="Միջնեկ" id="164" weight="1" />
+      <edge source="Արաբը" target="Հազարան Բլբուլը" id="165" weight="1" />
+      <edge source="Փիսոն" target="Թոռը" id="166" weight="1" />
+      <edge source="Փիսոն" target="Մուկը" id="167" weight="1" />
+      <edge source="Փիսոն" target="Շունը" id="168" weight="1" />
+      <edge source="Փիսոն" target="Պապը" id="169" weight="1" />
+      <edge source="Կրիան" target="Աստըծուն" id="170" weight="1" />
+      <edge source="Կրիան" target="Աստվածն" id="171" weight="1" />
+      <edge source="Կռունկ" target="Աղվեսը" id="172" weight="3" />
+      <edge source="Կռունկ" target="Աղվեսն" id="173" weight="2" />
+      <edge source="Կռունկ" target="Կռունկը" id="174" weight="1" />
+      <edge source="Կռունկ" target="Կռունկի" id="175" weight="2" />
+      <edge source="Կռունկ" target="Կռունկն" id="176" weight="1" />
+      <edge source="Մեծը" target="Գորգի" id="177" weight="1" />
+      <edge source="Մեծը" target="Դշխուհի" id="178" weight="1" />
+      <edge source="Մեծը" target="Եղբայրները" id="179" weight="1" />
+      <edge source="Մեծը" target="Յոթի" id="180" weight="1" />
+      <edge source="Մեծը" target="բարիլուսինՍենյակ" id="181" weight="1" />
+      <edge source="Աստվածն" target="Աստըծուն" id="182" weight="1" />
+      <edge source="Փիսիկը" target="Ճռիկ" id="183" weight="1" />
+      <edge source="Փիսիկը" target="Ճռիկն" id="184" weight="2" />
+      <edge source="Փիսիկը" target="Փիսիկն" id="185" weight="1" />
+      <edge source="Փիսիկը" target="Ալ վարդի" id="186" weight="1" />
+      <edge source="Փիսիկը" target="Մկնիկ" id="187" weight="1" />
+      <edge source="Փիսիկը" target="Մկնիկը" id="188" weight="1" />
+      <edge source="Փիսիկը" target="Մկնիկն" id="189" weight="1" />
+      <edge source="Դուռը" target="Ալ արյունը" id="190" weight="1" />
+      <edge source="Դուռը" target="Անտուն" id="191" weight="1" />
+      <edge source="Դուռը" target="Ցավն" id="192" weight="1" />
+      <edge source="Վաչիկի" target="Մարոն" id="193" weight="1" />
+      <edge source="Վաչիկի" target="Վառոյին" id="194" weight="1" />
+      <edge source="Կենդանի" target="Վայը" id="195" weight="1" />
+      <edge source="Կենդանի" target="Տվեց" id="196" weight="1" />
+      <edge source="Կենդանի" target="Քամին" id="197" weight="1" />
+      <edge source="Գորտը" target="ԳՈՐՏՆ ՈԻ" id="198" weight="1" />
+      <edge source="Գորտը" target="գորտըԿովին" id="199" weight="1" />
+      <edge source="Քամին" target="Վայը" id="200" weight="1" />
+      <edge source="Քամին" target="Տվեց" id="201" weight="1" />
+      <edge source="Մերն" target="Գինն" id="202" weight="1" />
+      <edge source="հովվի" target="Ծիտը" id="203" weight="1" />
+      <edge source="հովվի" target="հովվին" id="204" weight="1" />
+      <edge source="Արտուտն" target="Ծիտիկն" id="205" weight="7" />
+      <edge source="Արտուտն" target="Պուճուր" id="206" weight="5" />
+      <edge source="Արտուտն" target="Ագռավն" id="207" weight="6" />
+      <edge source="Արտուտն" target="Ծառիկ" id="208" weight="1" />
+      <edge source="Արտուտն" target="Ծառը" id="209" weight="1" />
+      <edge source="Արտուտն" target="Ծառիկն" id="210" weight="5" />
+      <edge source="Արտուտն" target="Ծովն" id="211" weight="1" />
+      <edge source="Արտուտն" target="Քարիկն" id="212" weight="3" />
+      <edge source="Արտուտն" target="Ծովիկն" id="213" weight="3" />
+      <edge source="Աստված" target="Զիլ" id="214" weight="1" />
+      <edge source="Աստված" target="Շալակն" id="215" weight="1" />
+      <edge source="Տվեց" target="Վայը" id="216" weight="1" />
+      <edge source="Հիմի" target="Ագռավ" id="217" weight="1" />
+      <edge source="Մկնաբաշին" target="Զորքը" id="218" weight="1" />
+      <edge source="Ջահրեն" target="Պառավը" id="219" weight="1" />
+      <edge source="Միստըրը" target="Անբաժան" id="220" weight="1" />
+      <edge source="Միստըրը" target="ՊառավըՃամփի" id="221" weight="1" />
+      <edge source="Կարլ Բեդեկերի" target="Թարգմ" id="222" weight="1" />
+      <edge source="Պապիկը" target="Պապի" id="223" weight="1" />
+      <edge source="Պապիկը" target="Պապիկ" id="224" weight="1" />
+      <edge source="Պապիկը" target="Տատիկ" id="225" weight="1" />
+      <edge source="Պապիկը" target="Տատիկը" id="226" weight="1" />
+      <edge source="ՍՈԻԼԹԱՆ" target="Հավերը" id="227" weight="1" />
+      <edge source="ՍՈԻԼԹԱՆ" target="շահ Աքլորն" id="228" weight="1" />
+      <edge source="Ճամփի" target="Եկվորն" id="229" weight="1" />
+      <edge source="Ճամփի" target="Թվիստըրը" id="230" weight="1" />
+      <edge source="Ճամփի" target="Միստըրն" id="231" weight="1" />
+      <edge source="Ճամփի" target="Մնացին" id="232" weight="1" />
+      <edge source="Ճամփի" target="Պանամ" id="233" weight="1" />
+      <edge source="Ճամփի" target="Սևամորթ" id="234" weight="1" />
+      <edge source="Գայլի" target="ԳԱՅԼԻ" id="235" weight="1" />
+      <edge source="ճռիկը" target="Մկնիկը" id="236" weight="1" />
+      <edge source="Ծտի" target="Արտուտը" id="237" weight="1" />
+      <edge source="Ծտի" target="Պուճուր" id="238" weight="1" />
+      <edge source="Տեր վեհափառ" target="Աղվեսն" id="239" weight="1" />
+      <edge source="Տեր վեհափառ" target="Արքան" id="240" weight="1" />
+      <edge source="Իրենցից" target="ՋԱՂԱՑՊԱՆԸ" id="241" weight="1" />
+      <edge source="Մի Ծիտ" target="Մկան" id="242" weight="1" />
+      <edge source="Նռնոն" target="Պառավը" id="243" weight="1" />
+      <edge source="Նռնոն" target="Փշկո" id="244" weight="2" />
+      <edge source="Մարոյի" target="Ասեղ" id="245" weight="1" />
+      <edge source="Եկան" target="Արքայի" id="246" weight="1" />
+      <edge source="Ծովն" target="Ագռավն" id="247" weight="1" />
+      <edge source="Ծովն" target="Ծառիկն" id="248" weight="1" />
+      <edge source="Ծովն" target="Ծիտիկն" id="249" weight="1" />
+      <edge source="Ծովն" target="Քարիկն" id="250" weight="1" />
+      <edge source="Սենյակին" target="Աժդահա" id="251" weight="1" />
+      <edge source="Ագռավը" target="Ոսկեհատիկ" id="252" weight="1" />
+      <edge source="Ագռավը" target="Ագռավին" id="253" weight="1" />
+      <edge source="Ագռավը" target="Աղվեսը" id="254" weight="1" />
+      <edge source="Ագռավը" target="Աքլոր" id="255" weight="1" />
+      <edge source="Ագռավը" target="Աքլորը" id="256" weight="1" />
+      <edge source="Ագռավը" target="Աքլորին" id="257" weight="1" />
+      <edge source="Ագռավը" target="Աքլորի" id="258" weight="1" />
+      <edge source="Ագռավը" target="Արտուտիկ" id="259" weight="1" />
+      <edge source="Ագռավը" target="Պուճուր" id="260" weight="1" />
+      <edge source="Արծիվն" target="Բախտն" id="261" weight="1" />
+      <edge source="Արծիվն" target="Ռոստոմ" id="262" weight="1" />
+      <edge source="Արծիվն" target="Ռոստոմը" id="263" weight="1" />
+      <edge source="Արծիվն" target="Ռոստոմին" id="264" weight="1" />
+      <edge source="Ճռիկ" target="Եզիկը" id="265" weight="1" />
+      <edge source="Ճռիկ" target="Իշուկ" id="266" weight="1" />
+      <edge source="Ճռիկ" target="Իշուկն" id="267" weight="1" />
+      <edge source="Ճռիկ" target="Ճռիկն" id="268" weight="2" />
+      <edge source="Ճռիկ" target="Փիսիկն" id="269" weight="1" />
+      <edge source="Լանկթամուրի" target="Լանկթամուրն" id="270" weight="1" />
+      <edge source="Վիտալիա" target="Գոգոլի" id="271" weight="1" />
+      <edge source="Վիտալիա" target="ԹվիստըրԱշխարհում" id="272" weight="1" />
+      <edge source="Վիտալիա" target="Ստեփան" id="273" weight="1" />
+      <edge source="Վիտալիա" target="Վասիլ" id="274" weight="1" />
+      <edge source="Վիտալիա" target="Վիտալի" id="275" weight="1" />
+      <edge source="Ուլիկը" target="Ասեղը" id="276" weight="2" />
+      <edge source="Ուլիկը" target="Աքլորը" id="277" weight="2" />
+      <edge source="Ուլիկը" target="Կատուն" id="278" weight="3" />
+      <edge source="Ուլիկը" target="Կոպալը" id="279" weight="2" />
+      <edge source="Ուլիկը" target="Շունը" id="280" weight="3" />
+      <edge source="Ուլիկը" target="Ասեղն" id="281" weight="1" />
+      <edge source="Ուլիկը" target="Իշուկին" id="282" weight="1" />
+      <edge source="Ծովիկն" target="Ագռավն" id="283" weight="3" />
+      <edge source="Ծովիկն" target="Ծառիկն" id="284" weight="3" />
+      <edge source="Ծովիկն" target="Ծիտիկն" id="285" weight="3" />
+      <edge source="Ծովիկն" target="Պուճուր" id="286" weight="2" />
+      <edge source="Ծովիկն" target="Քարիկն" id="287" weight="2" />
+      <edge source="մին" target="Եղբայրը" id="288" weight="1" />
+      <edge source="մին" target="Լեզուս" id="289" weight="1" />
+      <edge source="ԹվիստըրԱշխարհում" target="Գոգոլի" id="290" weight="1" />
+      <edge source="ԹվիստըրԱշխարհում" target="Ստեփան" id="291" weight="1" />
+      <edge source="ԹվիստըրԱշխարհում" target="Վասիլ" id="292" weight="1" />
+      <edge source="ԹվիստըրԱշխարհում" target="Վիտալի" id="293" weight="1" />
+      <edge source="Նապաստակն" target="Աղվեսն" id="294" weight="1" />
+      <edge source="Նապաստակն" target="Անտուն" id="295" weight="1" />
+      <edge source="Նապաստակն" target="Շահզադե" id="296" weight="1" />
+      <edge source="Նապաստակն" target="աղվեսը" id="297" weight="1" />
+      <edge source="Նապաստակն" target="Նապաստակը" id="298" weight="1" />
+      <edge source="Նապաստակն" target="Շահզադա" id="299" weight="1" />
+      <edge source="կատվին" target="Ասլան" id="300" weight="1" />
+      <edge source="կատվին" target="Գայլն" id="301" weight="1" />
+      <edge source="կատվին" target="Դավթի" id="302" weight="1" />
+      <edge source="կատվին" target="Մարոյենց" id="303" weight="1" />
+      <edge source="կատվին" target="Տանուտերն" id="304" weight="1" />
+      <edge source="Բանաստեծի" target="Լանկթամուրը" id="305" weight="1" />
+      <edge source="Բանաստեծի" target="Հաֆիզը" id="306" weight="1" />
+      <edge source="Բանաստեծի" target="Հաֆիզին" id="307" weight="1" />
+      <edge source="Խեցգետինն" target="Ոսկեհատիկ" id="308" weight="1" />
+      <edge source="Դելֆին" target="Արքայի" id="309" weight="1" />
+      <edge source="Դելֆին" target="Գողտրիկ" id="310" weight="1" />
+      <edge source="Դելֆին" target="ԽԵՑԻՔԸ" id="311" weight="1" />
+      <edge source="Դելֆին" target="Նեպտունը" id="312" weight="1" />
+      <edge source="Դելֆին" target="ՆեպտունըԾովի" id="313" weight="1" />
+      <edge source="ՄուխսինԱրջից" target="Հերկուլես" id="314" weight="1" />
+      <edge source="ՄուխսինԱրջից" target="Մուխսի" id="315" weight="1" />
+      <edge source="ՄուխսինԱրջից" target="Փիլոն" id="316" weight="1" />
+      <edge source="ՄուխսինԱրջից" target="Փիլոս" id="317" weight="1" />
+      <edge source="ՄուխսինԱրջից" target="Փիլոսը" id="318" weight="1" />
+      <edge source="Խեղճ" target="Էն" id="319" weight="1" />
+      <edge source="Քեռին" target="Գորտ" id="320" weight="1" />
+      <edge source="Քեռին" target="Լիճը" id="321" weight="1" />
+      <edge source="Քեռին" target="Քեռու" id="322" weight="1" />
+      <edge source="Արքան" target="Էն ըմբոստինՈտս" id="323" weight="1" />
+      <edge source="Արքան" target="Աղվեսն" id="324" weight="1" />
+      <edge source="Արքան" target="Ա . Պուշկինից" id="325" weight="1" />
+      <edge source="Արքան" target="ԴՇԽՈԻՀԻՆ" id="326" weight="1" />
+      <edge source="Արքան" target="Հետը" id="327" weight="1" />
+      <edge source="Արքան" target="ՅՈԹ" id="328" weight="1" />
+      <edge source="Արքան" target="Վրան" id="329" weight="1" />
+      <edge source="Աքլորի" target="Ագռավ" id="330" weight="1" />
+      <edge source="Աքլորի" target="Ագռավիկ" id="331" weight="1" />
+      <edge source="Աքլորի" target="Ագռավին" id="332" weight="1" />
+      <edge source="Աքլորի" target="Ջուխտիդ" id="333" weight="1" />
+      <edge source="Քամուն" target="Եղիսեն" id="334" weight="1" />
+      <edge source="Քամուն" target="Լուսին" id="335" weight="1" />
+      <edge source="Քամուն" target="Լուսինն" id="336" weight="1" />
+      <edge source="Մնացին" target="Եկվորն" id="337" weight="1" />
+      <edge source="Մնացին" target="Թվիստըրը" id="338" weight="1" />
+      <edge source="Մնացին" target="Միստըրն" id="339" weight="1" />
+      <edge source="Մնացին" target="Պանամ" id="340" weight="1" />
+      <edge source="Մնացին" target="Սևամորթ" id="341" weight="1" />
+      <edge source="Խումբն" target="Բան" id="342" weight="1" />
+      <edge source="Խումբն" target="Էշը" id="343" weight="1" />
+      <edge source="ԽԵՑԻՔԸ" target="Արքայի" id="344" weight="1" />
+      <edge source="ԽԵՑԻՔԸ" target="Գողտրիկ" id="345" weight="1" />
+      <edge source="ԽԵՑԻՔԸ" target="Նեպտունը" id="346" weight="1" />
+      <edge source="ԽԵՑԻՔԸ" target="ՆեպտունըԾովի" id="347" weight="1" />
+      <edge source="հովվին" target="Ծիտը" id="348" weight="1" />
+      <edge source="Բալո" target="Ալո" id="349" weight="1" />
+      <edge source="Բալո" target="Ալոն" id="350" weight="1" />
+      <edge source="Բալո" target="Ախ" id="351" weight="1" />
+      <edge source="Բալո" target="Կատվի" id="352" weight="1" />
+      <edge source="Բալո" target="Սովն" id="353" weight="1" />
+      <edge source="Ապի" target="Բալդու" id="354" weight="1" />
+      <edge source="Ապի" target="Տերտերը" id="355" weight="1" />
+      <edge source="Մկնիկը" target="Ալ վարդի" id="356" weight="1" />
+      <edge source="Մկնիկը" target="Ճռիկն" id="357" weight="1" />
+      <edge source="Մկնիկը" target="Մկնիկ" id="358" weight="1" />
+      <edge source="Մկնիկը" target="Մկնիկն" id="359" weight="1" />
+      <edge source="Մկնիկը" target="Ճռիկը" id="360" weight="1" />
+      <edge source="ՊառավըՃնճղկա" target="Դստրիկն" id="361" weight="1" />
+      <edge source="ՊառավըՃնճղկա" target="Հետքով" id="362" weight="1" />
+      <edge source="ՊառավըՃնճղկա" target="Միստըր Թվիստըր" id="363" weight="1" />
+      <edge source="Կարիճ" target="ԿԱՐԻՃՆ" id="364" weight="1" />
+      <edge source="Կարիճ" target="Կարիճն" id="365" weight="1" />
+      <edge source="Հա" target="ԱԼԱՐԻ" id="366" weight="1" />
+      <edge source="Հա" target="ԴԱԼԱՐԻ" id="367" weight="1" />
+      <edge source="Գայլն" target="Ասլան" id="368" weight="1" />
+      <edge source="Գայլն" target="Դավթի" id="369" weight="1" />
+      <edge source="Գայլն" target="Մարոյենց" id="370" weight="1" />
+      <edge source="Մեծ մուկիկ" target="Աչքախուփիկ" id="371" weight="1" />
+      <edge source="Մեծ մուկիկ" target="Արտուտիկ" id="372" weight="1" />
+      <edge source="Մեծ մուկիկ" target="Ծիտիկն" id="373" weight="1" />
+      <edge source="Մեծ մուկիկ" target="Պուճուր" id="374" weight="1" />
+      <edge source="Արջիկն" target="Անուշ" id="375" weight="1" />
+      <edge source="Կոպալը" target="Ասեղը" id="376" weight="2" />
+      <edge source="Կոպալը" target="Աքլորը" id="377" weight="3" />
+      <edge source="Կոպալը" target="Կատուն" id="378" weight="3" />
+      <edge source="Կոպալը" target="Շունը" id="379" weight="3" />
+      <edge source="Կոպալը" target="Ասեղն" id="380" weight="1" />
+      <edge source="Կոպալը" target="Ուլիկն" id="381" weight="1" />
+      <edge source="Կոպալը" target="Չարչփն" id="382" weight="1" />
+      <edge source="ՊառավըՃամփի" target="Անբաժան" id="383" weight="1" />
+      <edge source="Որդիդ" target="Աղա" id="384" weight="1" />
+      <edge source="Որդիդ" target="Գերի" id="385" weight="1" />
+      <edge source="Որդիդ" target="Մկին" id="386" weight="1" />
+      <edge source="Ծեր" target="Կռիլովից" id="387" weight="1" />
+      <edge source="Ծեր" target="Ձեռքին" id="388" weight="1" />
+      <edge source="Կուկի" target="ԿուկիԽոսքը" id="389" weight="1" />
+      <edge source="Կուկի" target="Կուկը" id="390" weight="1" />
+      <edge source="Արծվին" target="Արծիվ" id="391" weight="1" />
+      <edge source="Հետը" target="Ա . Պուշկինից" id="392" weight="1" />
+      <edge source="Հետը" target="ԴՇԽՈԻՀԻՆ" id="393" weight="1" />
+      <edge source="Հետը" target="ՅՈԹ" id="394" weight="1" />
+      <edge source="Հետը" target="Վրան" id="395" weight="1" />
+      <edge source="Եզիկը" target="Գտա" id="396" weight="1" />
+      <edge source="Եզիկը" target="Եզիկ" id="397" weight="1" />
+      <edge source="Եզիկը" target="Եզիկն" id="398" weight="1" />
+      <edge source="Եզիկը" target="Ճռիկն" id="399" weight="2" />
+      <edge source="Եզիկը" target="Իշուկ" id="400" weight="1" />
+      <edge source="Եզիկը" target="Իշուկն" id="401" weight="1" />
+      <edge source="Ա" target="Բալդի" id="402" weight="1" />
+      <edge source="Ա" target="Բալդին" id="403" weight="1" />
+      <edge source="Լանկթամուրին" target="Լանկթամուրը" id="404" weight="1" />
+      <edge source="Լանկթամուրին" target="Հայրիկ" id="405" weight="1" />
+      <edge source="Լանկթամուրին" target="Հաֆիզին" id="406" weight="1" />
+      <edge source="Դշխուհի" target="Գորգի" id="407" weight="1" />
+      <edge source="Դշխուհի" target="Եղբայրները" id="408" weight="1" />
+      <edge source="Դշխուհի" target="Յոթի" id="409" weight="1" />
+      <edge source="Դշխուհի" target="բարիլուսինՍենյակ" id="410" weight="1" />
+      <edge source="Պապի" target="Պապիկ" id="411" weight="1" />
+      <edge source="Պապի" target="Տատիկ" id="412" weight="1" />
+      <edge source="Պապի" target="Տատիկը" id="413" weight="1" />
+      <edge source="Սիրուն" target="Սերոբը" id="414" weight="1" />
+      <edge source="Գետինն" target="Սաստիկ" id="415" weight="1" />
+      <edge source="Գետինն" target="Վրեն" id="416" weight="1" />
+      <edge source="Ականջը" target="Գլխարկը" id="417" weight="1" />
+      <edge source="Ականջը" target="ՄիստըրԹվիստըր" id="418" weight="1" />
+      <edge source="Շիրազը" target="Հաֆիզը" id="419" weight="1" />
+      <edge source="ԳԱՅԼՆ" target="Գայլը" id="420" weight="1" />
+      <edge source="ՄիստըրԹվիստըր" target="Գլխարկը" id="421" weight="1" />
+      <edge source="ՄիստըրԹվիստըր" target="Հպարտ" id="422" weight="1" />
+      <edge source="Ալ վարդի" target="Ճռիկն" id="423" weight="1" />
+      <edge source="Ալ վարդի" target="Մկնիկ" id="424" weight="1" />
+      <edge source="Ալ վարդի" target="Մկնիկն" id="425" weight="1" />
+      <edge source="Խեցին" target="Խեցիի" id="426" weight="1" />
+      <edge source="Խեցին" target="Նեպտունը" id="427" weight="1" />
+      <edge source="Մկնիկ" target="Ճռիկն" id="428" weight="1" />
+      <edge source="Մկնիկ" target="Մկնիկն" id="429" weight="1" />
+      <edge source="Ուլիկն" target="Աքլորը" id="430" weight="1" />
+      <edge source="Ուլիկն" target="Կատուն" id="431" weight="1" />
+      <edge source="Ուլիկն" target="Շունը" id="432" weight="1" />
+      <edge source="Ուլիկն" target="Չարչփն" id="433" weight="1" />
+      <edge source="Հաֆիզին" target="Լանկթամուրը" id="434" weight="3" />
+      <edge source="Հաֆիզին" target="Հաֆիզը" id="435" weight="1" />
+      <edge source="Հաֆիզին" target="Հայրիկ" id="436" weight="1" />
+      <edge source="Ալո" target="Ալոն" id="437" weight="1" />
+      <edge source="Ալո" target="Ախ" id="438" weight="1" />
+      <edge source="Ալո" target="Կատվի" id="439" weight="1" />
+      <edge source="Ալո" target="Սովն" id="440" weight="1" />
+      <edge source="ԳՈՐՏՆ ՈԻ" target="Աշուն" id="441" weight="1" />
+      <edge source="Ալ արյունը" target="Անտուն" id="442" weight="1" />
+      <edge source="Ալ արյունը" target="Ցավն" id="443" weight="1" />
+      <edge source="Նապաստակը" target="Շահզադա" id="444" weight="1" />
+      <edge source="Հեղուշն" target="Հեղուշ" id="445" weight="1" />
+      <edge source="Կռիլովից" target="ԱՂՎԵՍՆ ՈԻ" id="446" weight="1" />
+      <edge source="Կռիլովից" target="Աղվեսի" id="447" weight="1" />
+      <edge source="Կռիլովից" target="Ձեռքին" id="448" weight="1" />
+      <edge source="Գոգոլի" target="Ստեփան" id="449" weight="1" />
+      <edge source="Գոգոլի" target="Վասիլ" id="450" weight="1" />
+      <edge source="Գոգոլի" target="Վիտալի" id="451" weight="1" />
+      <edge source="Լուսին" target="Եղիսեն" id="452" weight="1" />
+      <edge source="Լուսին" target="Լուսինն" id="453" weight="1" />
+      <edge source="Կոպալի" target="Ասեղը" id="454" weight="1" />
+      <edge source="Կոպալի" target="Աքլորը" id="455" weight="1" />
+      <edge source="Կոպալի" target="Իշուկի" id="456" weight="1" />
+      <edge source="Կոպալի" target="Կատուն" id="457" weight="1" />
+      <edge source="Կոպալի" target="Հավը" id="458" weight="1" />
+      <edge source="Կոպալի" target="Հավին" id="459" weight="1" />
+      <edge source="Ծիտիկն" target="Աչքախուփիկ" id="460" weight="1" />
+      <edge source="Ծիտիկն" target="Արտուտիկ" id="461" weight="1" />
+      <edge source="Ծիտիկն" target="Պուճուր" id="462" weight="6" />
+      <edge source="Ծիտիկն" target="Ագռավն" id="463" weight="6" />
+      <edge source="Ծիտիկն" target="Ծառիկ" id="464" weight="1" />
+      <edge source="Ծիտիկն" target="Ծառը" id="465" weight="1" />
+      <edge source="Ծիտիկն" target="Ծառիկն" id="466" weight="5" />
+      <edge source="Ծիտիկն" target="Քարիկն" id="467" weight="3" />
+      <edge source="Իշուկ" target="Իշուկն" id="468" weight="1" />
+      <edge source="Իշուկ" target="Ճռիկն" id="469" weight="1" />
+      <edge source="Վասիլ" target="Ստեփան" id="470" weight="1" />
+      <edge source="Վասիլ" target="Վիտալի" id="471" weight="1" />
+      <edge source="Ամպի" target="Կալմեջ" id="472" weight="1" />
+      <edge source="Տատիկ" target="Պապիկ" id="473" weight="1" />
+      <edge source="Տատիկ" target="Տատիկը" id="474" weight="1" />
+      <edge source="ԲԱԼԴԻ" target="Ա . Պուշկին" id="475" weight="1" />
+      <edge source="ԲԱԼԴԻ" target="Բալդին" id="476" weight="1" />
+      <edge source="Էշը" target="Բան" id="477" weight="1" />
+      <edge source="Բախտն" target="Ռոստոմ" id="478" weight="1" />
+      <edge source="Բախտն" target="Ռոստոմը" id="479" weight="1" />
+      <edge source="Բախտն" target="Ռոստոմին" id="480" weight="1" />
+      <edge source="Փշկո" target="Պառավը" id="481" weight="1" />
+      <edge source="Փշկո" target="Նռնոյին" id="482" weight="1" />
+      <edge source="Եղիսեն" target="Լուսինն" id="483" weight="1" />
+      <edge source="Գետնի" target="Դեն" id="484" weight="1" />
+      <edge source="Թոռը" target="Մուկը" id="485" weight="1" />
+      <edge source="Թոռը" target="Շունը" id="486" weight="1" />
+      <edge source="Թոռը" target="Պապը" id="487" weight="1" />
+      <edge source="Գերեզմանիս" target="Տարաս Շեվչենկոյից" id="488" weight="1" />
+      <edge source="Պառավը" target="Ծտին" id="489" weight="2" />
+      <edge source="Պառավը" target="Ծիտը" id="490" weight="1" />
+      <edge source="Տանտերը" target="Ծիտը" id="491" weight="1" />
+      <edge source="Տանտերը" target="Ծտին" id="492" weight="1" />
+      <edge source="Տանտերը" target="Հովիվն" id="493" weight="1" />
+      <edge source="Յոթի" target="Գորգի" id="494" weight="1" />
+      <edge source="Յոթի" target="Եղբայրները" id="495" weight="1" />
+      <edge source="Յոթի" target="բարիլուսինՍենյակ" id="496" weight="1" />
+      <edge source="Մին" target="Դռնապանն" id="497" weight="1" />
+      <edge source="ԴԱԼԱՐԻ" target="ԱԼԱՐԻ" id="498" weight="1" />
+      <edge source="Շահզադե" target="Աղվեսն" id="499" weight="1" />
+      <edge source="Շահզադե" target="Անտուն" id="500" weight="1" />
+      <edge source="Շահզադե" target="աղվեսը" id="501" weight="1" />
+      <edge source="Արքայի" target="Գողտրիկ" id="502" weight="1" />
+      <edge source="Արքայի" target="Նեպտունը" id="503" weight="1" />
+      <edge source="Արքայի" target="ՆեպտունըԾովի" id="504" weight="1" />
+      <edge source="Մկին" target="Աղա" id="505" weight="1" />
+      <edge source="Մկին" target="Գերի" id="506" weight="1" />
+      <edge source="Մարգարե" target="Վ . Ժուկովսկու" id="507" weight="1" />
+      <edge source="Լանկթամուրը" target="Հաֆիզը" id="508" weight="1" />
+      <edge source="Լանկթամուրը" target="Հայրիկ" id="509" weight="1" />
+      <edge source="Լանկթամուրը" target="Հաֆիզ" id="510" weight="1" />
+      <edge source="Տերն" target="Ծիտը" id="511" weight="1" />
+      <edge source="Ծիտը" target="Ախպեր" id="512" weight="1" />
+      <edge source="Ծիտը" target="Հեղուշ" id="513" weight="1" />
+      <edge source="Ծիտը" target="Ծտին" id="514" weight="2" />
+      <edge source="Ծիտը" target="Հովիվն" id="515" weight="1" />
+      <edge source="Ծիտը" target="Մուկ" id="516" weight="1" />
+      <edge source="Եղբայրները" target="Գորգի" id="517" weight="1" />
+      <edge source="Եղբայրները" target="բարիլուսինՍենյակ" id="518" weight="1" />
+      <edge source="Եղբայրները" target="Կույսը" id="519" weight="1" />
+      <edge source="Լացը" target="Անտուն" id="520" weight="1" />
+      <edge source="Սևամորթ" target="Եկվորն" id="521" weight="1" />
+      <edge source="Սևամորթ" target="Թվիստըրը" id="522" weight="1" />
+      <edge source="Սևամորթ" target="Միստըրն" id="523" weight="1" />
+      <edge source="Սևամորթ" target="Պանամ" id="524" weight="1" />
+      <edge source="ԿԱՊԻԿՆ" target="Իրեն" id="525" weight="1" />
+      <edge source="ԿԱՊԻԿՆ" target="Քեռի" id="526" weight="1" />
+      <edge source="Շունը" target="Մուկը" id="527" weight="1" />
+      <edge source="Շունը" target="Պապը" id="528" weight="1" />
+      <edge source="Շունը" target="ՇլդիկԱսավ" id="529" weight="1" />
+      <edge source="Շունը" target="Ասեղ" id="530" weight="1" />
+      <edge source="Շունը" target="Ասեղը" id="531" weight="2" />
+      <edge source="Շունը" target="Աքլորը" id="532" weight="3" />
+      <edge source="Շունը" target="Կատուն" id="533" weight="4" />
+      <edge source="Շունը" target="Ասեղն" id="534" weight="1" />
+      <edge source="Շունը" target="Չարչփն" id="535" weight="1" />
+      <edge source="Շունը" target="Իշուկին" id="536" weight="1" />
+      <edge source="Լանկթամարը" target="Շիրազեցիք" id="537" weight="1" />
+      <edge source="Լանկթամարը" target="շիրազեցիք" id="538" weight="1" />
+      <edge source="Եզիկ" target="Գտա" id="539" weight="1" />
+      <edge source="Եզիկ" target="Եզիկն" id="540" weight="1" />
+      <edge source="Եզիկ" target="Ճռիկն" id="541" weight="1" />
+      <edge source="Իշուկի" target="Ասեղը" id="542" weight="1" />
+      <edge source="Իշուկի" target="Աքլորը" id="543" weight="1" />
+      <edge source="Իշուկի" target="Կատուն" id="544" weight="1" />
+      <edge source="Իշուկի" target="Հավը" id="545" weight="1" />
+      <edge source="Իշուկի" target="Հավին" id="546" weight="1" />
+      <edge source="Մկնիկն" target="Ճռիկն" id="547" weight="1" />
+      <edge source="Աքլորը" target="Ծուղրուղու" id="548" weight="1" />
+      <edge source="Աքլորը" target="Աղվեսը" id="549" weight="3" />
+      <edge source="Աքլորը" target="Աղվեսն" id="550" weight="2" />
+      <edge source="Աքլորը" target="Ասեղը" id="551" weight="3" />
+      <edge source="Աքլորը" target="Կատուն" id="552" weight="4" />
+      <edge source="Աքլորը" target="Ասեղն" id="553" weight="1" />
+      <edge source="Աքլորը" target="Չարչփն" id="554" weight="1" />
+      <edge source="Աքլորը" target="Հավը" id="555" weight="1" />
+      <edge source="Աքլորը" target="Հավին" id="556" weight="1" />
+      <edge source="Աքլորը" target="Ագռավն" id="557" weight="1" />
+      <edge source="Աքլորը" target="Ագռավին" id="558" weight="1" />
+      <edge source="Աքլորը" target="Աքլոր" id="559" weight="1" />
+      <edge source="Աքլորը" target="Աքլորին" id="560" weight="1" />
+      <edge source="տանուտերը" target="Տանուտերը" id="561" weight="1" />
+      <edge source="Հավերը" target="շահ Աքլորն" id="562" weight="1" />
+      <edge source="Խափշիկ Եղբայրիկ" target="Հնդիկ Եղբայրիկ" id="563" weight="1" />
+      <edge source="Կատուն" target="Աղվեսն" id="564" weight="1" />
+      <edge source="Կատուն" target="Ասեղը" id="565" weight="3" />
+      <edge source="Կատուն" target="Ասեղն" id="566" weight="1" />
+      <edge source="Կատուն" target="Չարչփն" id="567" weight="1" />
+      <edge source="Կատուն" target="Հավը" id="568" weight="1" />
+      <edge source="Կատուն" target="Հավին" id="569" weight="1" />
+      <edge source="Կատուն" target="Իշուկին" id="570" weight="1" />
+      <edge source="Քարն" target="Ծովը" id="571" weight="1" />
+      <edge source="Քարն" target="Քարի" id="572" weight="1" />
+      <edge source="Կուկին" target="Կուկը" id="573" weight="1" />
+      <edge source="Հավին" target="Ասեղը" id="574" weight="1" />
+      <edge source="Հավին" target="Հավը" id="575" weight="1" />
+      <edge source="ԿԱՐԱՊԸ" target="ԽԵՑԳԵՏԻՆԸ" id="576" weight="1" />
+      <edge source="Աքլորիկը" target="աղվեսն" id="577" weight="1" />
+      <edge source="Մուխսի" target="Հերկուլես" id="578" weight="1" />
+      <edge source="Մուխսի" target="Փիլոն" id="579" weight="1" />
+      <edge source="Մուխսի" target="Փիլոս" id="580" weight="1" />
+      <edge source="Մուխսի" target="Փիլոսը" id="581" weight="1" />
+      <edge source="Բարակ" target="Անուշ" id="582" weight="1" />
+      <edge source="Հեղուշ" target="Ախպեր" id="583" weight="1" />
+      <edge source="Աշուղը" target="Ծիտն" id="584" weight="1" />
+      <edge source="Աշուղը" target="Ծտին" id="585" weight="1" />
+      <edge source="Աշուղը" target="Փշիկը" id="586" weight="1" />
+      <edge source="Կոստան" target="ԿԱՏՎԻ" id="587" weight="1" />
+      <edge source="ԴՇԽՈԻՀԻՆ" target="Ա . Պուշկինից" id="588" weight="1" />
+      <edge source="ԴՇԽՈԻՀԻՆ" target="ՅՈԹ" id="589" weight="1" />
+      <edge source="ԴՇԽՈԻՀԻՆ" target="Վրան" id="590" weight="1" />
+      <edge source="Ա . Պուշկին" target="Բալդին" id="591" weight="1" />
+      <edge source="Սաստիկ" target="Վրեն" id="592" weight="1" />
+      <edge source="Ալարկոտը" target="Թասն" id="593" weight="1" />
+      <edge source="Հազարան Բլբուլը" target="Հազարան Բլբուլի" id="594" weight="2" />
+      <edge source="Հազարան Բլբուլը" target="Բլբուլը" id="595" weight="1" />
+      <edge source="Վառոյին" target="Մարոն" id="596" weight="1" />
+      <edge source="Սովն" target="Ալոն" id="597" weight="1" />
+      <edge source="Սովն" target="Ախ" id="598" weight="1" />
+      <edge source="Սովն" target="Կատվի" id="599" weight="1" />
+      <edge source="Փիլոսը" target="Հերկուլես" id="600" weight="1" />
+      <edge source="Փիլոսը" target="Փիլոն" id="601" weight="1" />
+      <edge source="Փիլոսը" target="Փիլոս" id="602" weight="1" />
+      <edge source="Փիլոն" target="Հերկուլես" id="603" weight="1" />
+      <edge source="Փիլոն" target="Փիլոս" id="604" weight="1" />
+      <edge source="Ագռավին" target="Աղվեսը" id="605" weight="1" />
+      <edge source="Ագռավին" target="Աքլոր" id="606" weight="1" />
+      <edge source="Ագռավին" target="Աքլորին" id="607" weight="1" />
+      <edge source="Ագռավին" target="Ագռավ" id="608" weight="1" />
+      <edge source="Ագռավին" target="Ագռավիկ" id="609" weight="1" />
+      <edge source="Ագռավին" target="Ջուխտիդ" id="610" weight="1" />
+      <edge source="Կռունկը" target="Աղվեսը" id="611" weight="2" />
+      <edge source="Կռունկը" target="Աղվեսն" id="612" weight="1" />
+      <edge source="Կռունկը" target="Կռունկի" id="613" weight="1" />
+      <edge source="Բալդուն" target="Բալդի" id="614" weight="1" />
+      <edge source="Բալդուն" target="Բալդին" id="615" weight="1" />
+      <edge source="բարիլուսինՍենյակ" target="Գորգի" id="616" weight="1" />
+      <edge source="Պապիկ" target="Տատիկը" id="617" weight="1" />
+      <edge source="Ա . Պուշկինից" target="ՅՈԹ" id="618" weight="1" />
+      <edge source="Ա . Պուշկինից" target="Վրան" id="619" weight="1" />
+      <edge source="Մխիկ" target="Արջը" id="620" weight="1" />
+      <edge source="Մխիկ" target="Մխիկն" id="621" weight="1" />
+      <edge source="Արտուտը" target="Պուճուր" id="622" weight="1" />
+      <edge source="Ցավն" target="Անտուն" id="623" weight="1" />
+      <edge source="ԿԱՐԻՃՆ" target="Կարիճն" id="624" weight="1" />
+      <edge source="Քեռու" target="Գորտ" id="625" weight="1" />
+      <edge source="Քեռու" target="Լիճը" id="626" weight="1" />
+      <edge source="Գտա" target="Եզիկն" id="627" weight="1" />
+      <edge source="Գտա" target="Ճռիկն" id="628" weight="1" />
+      <edge source="Եզիկն" target="Ճռիկն" id="629" weight="1" />
+      <edge source="Կռունկի" target="Աղվեսը" id="630" weight="4" />
+      <edge source="Կռունկի" target="Աղվեսն" id="631" weight="2" />
+      <edge source="Կռունկի" target="Կռունկն" id="632" weight="1" />
+      <edge source="Աղա" target="Գերի" id="633" weight="1" />
+      <edge source="Միջնեկ" target="Հազարան Բլբուլի" id="634" weight="1" />
+      <edge source="Աչքս" target="Աղվեսը" id="635" weight="1" />
+      <edge source="Աչքս" target="Փափկամազիկ" id="636" weight="1" />
+      <edge source="Հաճուճ" target="Գազանները" id="637" weight="1" />
+      <edge source="Ստեփան" target="Վիտալի" id="638" weight="1" />
+      <edge source="Ծառիկ" target="Ագռավն" id="639" weight="1" />
+      <edge source="Ծառիկ" target="Պուճուր" id="640" weight="1" />
+      <edge source="Պապը" target="Մուկը" id="641" weight="1" />
+      <edge source="Փիլոս" target="Հերկուլես" id="642" weight="1" />
+      <edge source="Ալոն" target="Ախ" id="643" weight="1" />
+      <edge source="Ալոն" target="Կատվի" id="644" weight="1" />
+      <edge source="Ասեղը" target="Ասեղն" id="645" weight="1" />
+      <edge source="Ասեղը" target="Հավը" id="646" weight="1" />
+      <edge source="Նեպտունը" target="Գողտրիկ" id="647" weight="1" />
+      <edge source="Նեպտունը" target="ՆեպտունըԾովի" id="648" weight="1" />
+      <edge source="Նեպտունը" target="Խեցիի" id="649" weight="1" />
+      <edge source="աղվեսը" target="Աղվեսն" id="650" weight="2" />
+      <edge source="աղվեսը" target="Անտուն" id="651" weight="1" />
+      <edge source="ՆեպտունըԾովի" target="Գողտրիկ" id="652" weight="1" />
+      <edge source="Ագռավիկ" target="Ագռավ" id="653" weight="1" />
+      <edge source="Ագռավիկ" target="Ջուխտիդ" id="654" weight="1" />
+      <edge source="Բլբուլը" target="Հազարան Բլբուլի" id="655" weight="1" />
+      <edge source="Բալդի" target="Բալդին" id="656" weight="2" />
+      <edge source="Դստրիկն" target="Հետքով" id="657" weight="1" />
+      <edge source="Դստրիկն" target="Միստըր Թվիստըր" id="658" weight="1" />
+      <edge source="Բասար" target="Ձին" id="659" weight="1" />
+      <edge source="Ջուխտիդ" target="Ագռավ" id="660" weight="1" />
+      <edge source="Ագռավ" target="Ծառը" id="661" weight="1" />
+      <edge source="ԲալդինԷն" target="Բալդին" id="662" weight="1" />
+      <edge source="ԲալդինԷն" target="Բալդու" id="663" weight="1" />
+      <edge source="Հրաչը" target="Հովիվը" id="664" weight="1" />
+      <edge source="Հրաչը" target="Հրաչի" id="665" weight="1" />
+      <edge source="Անտուն" target="Աղվեսն" id="666" weight="1" />
+      <edge source="Կատվի" target="Ախ" id="667" weight="1" />
+      <edge source="Կատվի" target="Աղվեսն" id="668" weight="1" />
+      <edge source="Եկվորն" target="Թվիստըրը" id="669" weight="1" />
+      <edge source="Եկվորն" target="Միստըրն" id="670" weight="1" />
+      <edge source="Եկվորն" target="Պանամ" id="671" weight="1" />
+      <edge source="Փիսիկն" target="Ճռիկն" id="672" weight="1" />
+      <edge source="Հազար" target="Անգին" id="673" weight="1" />
+      <edge source="Ծառը" target="Ագռավն" id="674" weight="1" />
+      <edge source="Ծառը" target="Ծառիկն" id="675" weight="1" />
+      <edge source="Ծառը" target="Պուճուր" id="676" weight="1" />
+      <edge source="Քարիկն" target="Ագռավն" id="677" weight="3" />
+      <edge source="Քարիկն" target="Ծառիկն" id="678" weight="3" />
+      <edge source="Քարիկն" target="Պուճուր" id="679" weight="2" />
+      <edge source="Միստըր Թվիստըր" target="Հետքով" id="680" weight="1" />
+      <edge source="Լեզուս" target="Եղբայրը" id="681" weight="1" />
+      <edge source="Պուճուր" target="Աչքախուփիկ" id="682" weight="1" />
+      <edge source="Պուճուր" target="Արտուտիկ" id="683" weight="1" />
+      <edge source="Պուճուր" target="Արտուտիկի" id="684" weight="1" />
+      <edge source="Պուճուր" target="Ագռավն" id="685" weight="4" />
+      <edge source="Պուճուր" target="Ծառիկն" id="686" weight="3" />
+      <edge source="Ծովը" target="Քարի" id="687" weight="1" />
+      <edge source="Գորտ" target="Լիճը" id="688" weight="1" />
+      <edge source="Դավթի" target="Ասլան" id="689" weight="1" />
+      <edge source="Դավթի" target="Մարոյենց" id="690" weight="1" />
+      <edge source="Ագռավն" target="Աղվեսը" id="691" weight="1" />
+      <edge source="Ագռավն" target="Ծառիկն" id="692" weight="5" />
+      <edge source="Ռոստոմ" target="Ռոստոմը" id="693" weight="1" />
+      <edge source="Ռոստոմ" target="Ռոստոմին" id="694" weight="1" />
+      <edge source="Ասլան" target="Մարոյենց" id="695" weight="1" />
+      <edge source="ԱՂՎԵՍՆ ՈԻ" target="Աղվեսի" id="696" weight="1" />
+      <edge source="Աքլոր" target="Աղվեսը" id="697" weight="1" />
+      <edge source="Աքլոր" target="Աքլորին" id="698" weight="1" />
+      <edge source="Աքլոր" target="Ջիվան Աքլոր" id="699" weight="1" />
+      <edge source="Ստվերների" target="Ջահել" id="700" weight="1" />
+      <edge source="Արքա" target="արքա" id="701" weight="1" />
+      <edge source="Բալդու" target="Տերտերը" id="702" weight="1" />
+      <edge source="Բալդու" target="Բալդին" id="703" weight="2" />
+      <edge source="Վրան" target="ՅՈԹ" id="704" weight="1" />
+      <edge source="Փափկամազիկ" target="Աղվեսը" id="705" weight="1" />
+      <edge source="Քամի" target="Եղբայրը" id="706" weight="1" />
+      <edge source="Փշիկը" target="Ծիտն" id="707" weight="1" />
+      <edge source="Փշիկը" target="Ծտին" id="708" weight="1" />
+      <edge source="Եղբայրը" target="Քույրիկ" id="709" weight="1" />
+      <edge source="Շիրազեցիք" target="շիրազեցիք" id="710" weight="1" />
+      <edge source="Հովիվն" target="Ծտին" id="711" weight="1" />
+      <edge source="Աքլորին" target="Աղվեսը" id="712" weight="1" />
+      <edge source="Ռոստոմը" target="Ռոստոմին" id="713" weight="1" />
+      <edge source="Ռոստոմը" target="Թև" id="714" weight="1" />
+      <edge source="Ճռիկն" target="Իշուկն" id="715" weight="1" />
+      <edge source="Հրաչի" target="Հովիվը" id="716" weight="1" />
+      <edge source="Արջը" target="Մխիկն" id="717" weight="1" />
+      <edge source="Ծտին" target="Ծիտն" id="718" weight="2" />
+      <edge source="Ծտին" target="Արտուտիկ" id="719" weight="1" />
+      <edge source="Թվիստըրը" target="Միստըրն" id="720" weight="1" />
+      <edge source="Թվիստըրը" target="Պանամ" id="721" weight="1" />
+      <edge source="Միստըրն" target="Պանամ" id="722" weight="1" />
+      <edge source="Աչքախուփիկ" target="Արտուտիկ" id="723" weight="1" />
+      <edge source="Քեռի" target="Իրեն" id="724" weight="1" />
+      <edge source="ՊՈԻՏՈԻԿՆ" target="Շերեփը" id="725" weight="1" />
+      <edge source="Զիլ" target="Շալակն" id="726" weight="1" />
+      <edge source="Աղվեսն" target="Աղվեսը" id="727" weight="3" />
+      <edge source="Աղվեսն" target="Կիկիլիկի" id="728" weight="1" />
+      <edge source="Աղվեսն" target="Կռունկն" id="729" weight="1" />
+      <edge source="Կիկիլիկի" target="ԻՄԱՍՏՈԻՆ ՄԱՆՈԻԿԸ" id="730" weight="1" />
+      <edge source="Աղվեսը" target="Կռունկն" id="731" weight="1" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,139 @@
+{
+  "segment_0": [],
+  "segment_1": [
+    {
+      "word": "Վարդան Այգեցին",
+      "entity_group": "PER",
+      "score": 0.9995644390583038
+    },
+    {
+      "word": "Վարդանայ",
+      "entity_group": "PER",
+      "score": 0.997061550617218
+    },
+    {
+      "word": "Վարդան Այգեցի",
+      "entity_group": "PER",
+      "score": 0.9984552264213562
+    },
+    {
+      "word": "Վարդան Այգեկցին",
+      "entity_group": "PER",
+      "score": 0.9991832673549652
+    },
+    {
+      "word": "Այգեցին",
+      "entity_group": "PER",
+      "score": 0.991477906703949
+    },
+    {
+      "word": "Վարդաններից",
+      "entity_group": "PER",
+      "score": 0.9800893068313599
+    },
+    {
+      "word": "Մեծ Վարդան",
+      "entity_group": "PER",
+      "score": 0.9086737632751465
+    },
+    {
+      "word": "Վարդանին",
+      "entity_group": "PER",
+      "score": 0.9976295232772827
+    },
+    {
+      "word": "Վարդան Մարաթեցի",
+      "entity_group": "PER",
+      "score": 0.9898610711097717
+    },
+    {
+      "word": "Վարդան",
+      "entity_group": "PER",
+      "score": 0.9013692140579224
+    }
+  ],
+  "segment_2": [
+    {
+      "word": "Վարդան Այգեցին",
+      "entity_group": "PER",
+      "score": 0.999652624130249
+    },
+    {
+      "word": "Մխիթար Գոշը",
+      "entity_group": "PER",
+      "score": 0.999459981918335
+    },
+    {
+      "word": "Անանիա Իմաստասերը",
+      "entity_group": "PER",
+      "score": 0.9995273351669312
+    },
+    {
+      "word": "Հովհան Օձնեցին",
+      "entity_group": "PER",
+      "score": 0.999700129032135
+    },
+    {
+      "word": "Հովհան Մանդակունին",
+      "entity_group": "PER",
+      "score": 0.9996993541717529
+    },
+    {
+      "word": "Վարդան Այգեցին",
+      "entity_group": "PER",
+      "score": 0.9994945824146271
+    },
+    {
+      "word": "Ներսես Շնորհալու",
+      "entity_group": "PER",
+      "score": 0.9994622766971588
+    },
+    {
+      "word": "Կիրակոս Գանձակեցին",
+      "entity_group": "PER",
+      "score": 0.9995884895324707
+    }
+  ],
+  "segment_3": [
+    {
+      "word": "Ն . Մառի",
+      "entity_group": "PER",
+      "score": 0.9621967077255249
+    },
+    {
+      "word": "Ն . Մառը",
+      "entity_group": "PER",
+      "score": 0.9802302916844686
+    },
+    {
+      "word": "Վարդանի",
+      "entity_group": "PER",
+      "score": 0.9963148236274719
+    },
+    {
+      "word": "Վարդան Այգեցու",
+      "entity_group": "PER",
+      "score": 0.999120682477951
+    },
+    {
+      "word": "Վարդանի",
+      "entity_group": "PER",
+      "score": 0.9956520199775696
+    },
+    {
+      "word": "Վարդանին",
+      "entity_group": "PER",
+      "score": 0.995835542678833
+    },
+    {
+      "word": "Ն . Մառի",
+      "entity_group": "PER",
+      "score": 0.9832187493642172
+    },
+    {
+      "word": "ՎԱՐԴԱՆ ԱՅԳԵՑԻ",
+      "entity_group": "PER",
+      "score": 0.991551399230957
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Տմբլաչի — Խաչանը" label="Տմբլաչի — Խաչանը" />
+      <node id="Լ . Բաշալյանը" label="Լ . Բաշալյանը" />
+      <node id="Քյալաշը" label="Քյալաշը" />
+      <node id="Քյալաշի" label="Քյալաշի" />
+      <node id="Ղայմաղամը" label="Ղայմաղամը" />
+      <node id="Սարգիս Մուբայաջյան" label="Սարգիս Մուբայաջյան" />
+      <node id="Մամոն Քյալաշին" label="Մամոն Քյալաշին" />
+      <node id="Մինասին" label="Մինասին" />
+      <node id="Մամոյի" label="Մամոյի" />
+      <node id="Քյալաշ" label="Քյալաշ" />
+      <node id="Անթառամը" label="Անթառամը" />
+      <node id="Մամոյին" label="Մամոյին" />
+      <node id="Բ . Քեչյանը" label="Բ . Քեչյանը" />
+      <node id="ԱՏՐՊԵՏ" label="ԱՏՐՊԵՏ" />
+      <node id="Լեոն" label="Լեոն" />
+      <node id="Մրոն" label="Մրոն" />
+      <node id="Մրոյի" label="Մրոյի" />
+      <node id="Քյալաշին" label="Քյալաշին" />
+      <node id="Զահլա" label="Զահլա" />
+      <node id="Մինասը" label="Մինասը" />
+      <node id="Ամիրխան քեհյայի" label="Ամիրխան քեհյայի" />
+      <node id="Կարճ — Օհանի" label="Կարճ — Օհանի" />
+      <node id="Մինասի" label="Մինասի" />
+      <node id="Սուլոն" label="Սուլոն" />
+      <node id="Չլոյին" label="Չլոյին" />
+      <node id="Մտրակի" label="Մտրակի" />
+      <node id="Ատրպետը" label="Ատրպետը" />
+      <node id="Թեմրանը" label="Թեմրանը" />
+      <node id="Մամոն" label="Մամոն" />
+      <node id="Մինաս քեհյա" label="Մինաս քեհյա" />
+      <node id="Սիպիլը" label="Սիպիլը" />
+      <node id="Մամոն Թեմրանի" label="Մամոն Թեմրանի" />
+      <node id="Բ . Այվազյանը" label="Բ . Այվազյանը" />
+    </nodes>
+    <edges>
+      <edge source="Տմբլաչի — Խաչանը" target="ԱՏՐՊԵՏ" id="0" weight="1" />
+      <edge source="Տմբլաչի — Խաչանը" target="Ատրպետը" id="1" weight="1" />
+      <edge source="Տմբլաչի — Խաչանը" target="Բ . Այվազյանը" id="2" weight="1" />
+      <edge source="Տմբլաչի — Խաչանը" target="Բ . Քեչյանը" id="3" weight="1" />
+      <edge source="Տմբլաչի — Խաչանը" target="Լ . Բաշալյանը" id="4" weight="1" />
+      <edge source="Տմբլաչի — Խաչանը" target="Լեոն" id="5" weight="1" />
+      <edge source="Տմբլաչի — Խաչանը" target="Սարգիս Մուբայաջյան" id="6" weight="1" />
+      <edge source="Տմբլաչի — Խաչանը" target="Սիպիլը" id="7" weight="1" />
+      <edge source="Լ . Բաշալյանը" target="ԱՏՐՊԵՏ" id="8" weight="1" />
+      <edge source="Լ . Բաշալյանը" target="Ատրպետը" id="9" weight="1" />
+      <edge source="Լ . Բաշալյանը" target="Բ . Այվազյանը" id="10" weight="1" />
+      <edge source="Լ . Բաշալյանը" target="Բ . Քեչյանը" id="11" weight="1" />
+      <edge source="Լ . Բաշալյանը" target="Լեոն" id="12" weight="1" />
+      <edge source="Լ . Բաշալյանը" target="Սարգիս Մուբայաջյան" id="13" weight="1" />
+      <edge source="Լ . Բաշալյանը" target="Սիպիլը" id="14" weight="1" />
+      <edge source="Քյալաշը" target="Ամիրխան քեհյայի" id="15" weight="2" />
+      <edge source="Քյալաշը" target="Թեմրանը" id="16" weight="1" />
+      <edge source="Քյալաշը" target="Կարճ — Օհանի" id="17" weight="1" />
+      <edge source="Քյալաշը" target="Ղայմաղամը" id="18" weight="1" />
+      <edge source="Քյալաշը" target="Մինասը" id="19" weight="1" />
+      <edge source="Քյալաշը" target="Մինասի" id="20" weight="2" />
+      <edge source="Քյալաշը" target="Մինասին" id="21" weight="1" />
+      <edge source="Քյալաշը" target="Մրոյի" id="22" weight="1" />
+      <edge source="Քյալաշը" target="Մրոն" id="23" weight="1" />
+      <edge source="Քյալաշը" target="Մամոյի" id="24" weight="1" />
+      <edge source="Քյալաշը" target="Մամոն" id="25" weight="3" />
+      <edge source="Քյալաշը" target="Մամոն Քյալաշին" id="26" weight="1" />
+      <edge source="Քյալաշը" target="Քյալաշի" id="27" weight="1" />
+      <edge source="Քյալաշը" target="Մտրակի" id="28" weight="1" />
+      <edge source="Քյալաշը" target="Չլոյին" id="29" weight="1" />
+      <edge source="Քյալաշը" target="Սուլոն" id="30" weight="1" />
+      <edge source="Քյալաշը" target="Քյալաշ" id="31" weight="1" />
+      <edge source="Քյալաշը" target="Մամոյին" id="32" weight="1" />
+      <edge source="Քյալաշի" target="Մամոյի" id="33" weight="1" />
+      <edge source="Քյալաշի" target="Մամոն" id="34" weight="1" />
+      <edge source="Քյալաշի" target="Մամոն Քյալաշին" id="35" weight="1" />
+      <edge source="Քյալաշի" target="Մինասի" id="36" weight="1" />
+      <edge source="Ղայմաղամը" target="Ամիրխան քեհյայի" id="37" weight="1" />
+      <edge source="Ղայմաղամը" target="Թեմրանը" id="38" weight="1" />
+      <edge source="Ղայմաղամը" target="Կարճ — Օհանի" id="39" weight="1" />
+      <edge source="Ղայմաղամը" target="Մինասը" id="40" weight="1" />
+      <edge source="Ղայմաղամը" target="Մինասի" id="41" weight="1" />
+      <edge source="Ղայմաղամը" target="Մինասին" id="42" weight="1" />
+      <edge source="Ղայմաղամը" target="Մրոյի" id="43" weight="1" />
+      <edge source="Ղայմաղամը" target="Մրոն" id="44" weight="1" />
+      <edge source="Սարգիս Մուբայաջյան" target="ԱՏՐՊԵՏ" id="45" weight="1" />
+      <edge source="Սարգիս Մուբայաջյան" target="Ատրպետը" id="46" weight="1" />
+      <edge source="Սարգիս Մուբայաջյան" target="Բ . Այվազյանը" id="47" weight="1" />
+      <edge source="Սարգիս Մուբայաջյան" target="Բ . Քեչյանը" id="48" weight="1" />
+      <edge source="Սարգիս Մուբայաջյան" target="Լեոն" id="49" weight="1" />
+      <edge source="Սարգիս Մուբայաջյան" target="Սիպիլը" id="50" weight="1" />
+      <edge source="Մամոն Քյալաշին" target="Մամոյի" id="51" weight="1" />
+      <edge source="Մամոն Քյալաշին" target="Մամոն" id="52" weight="1" />
+      <edge source="Մամոն Քյալաշին" target="Մինասի" id="53" weight="1" />
+      <edge source="Մինասին" target="Ամիրխան քեհյայի" id="54" weight="1" />
+      <edge source="Մինասին" target="Թեմրանը" id="55" weight="1" />
+      <edge source="Մինասին" target="Կարճ — Օհանի" id="56" weight="1" />
+      <edge source="Մինասին" target="Մինասը" id="57" weight="1" />
+      <edge source="Մինասին" target="Մինասի" id="58" weight="1" />
+      <edge source="Մինասին" target="Մրոյի" id="59" weight="1" />
+      <edge source="Մինասին" target="Մրոն" id="60" weight="1" />
+      <edge source="Մամոյի" target="Մամոն" id="61" weight="1" />
+      <edge source="Մամոյի" target="Մինասի" id="62" weight="1" />
+      <edge source="Մամոյի" target="Մամոն Թեմրանի" id="63" weight="1" />
+      <edge source="Մամոյի" target="Մինաս քեհյա" id="64" weight="1" />
+      <edge source="Քյալաշ" target="Մամոն" id="65" weight="1" />
+      <edge source="Քյալաշ" target="Մտրակի" id="66" weight="1" />
+      <edge source="Քյալաշ" target="Չլոյին" id="67" weight="1" />
+      <edge source="Քյալաշ" target="Սուլոն" id="68" weight="1" />
+      <edge source="Անթառամը" target="Զահլա" id="69" weight="1" />
+      <edge source="Անթառամը" target="Քյալաշին" id="70" weight="1" />
+      <edge source="Մամոյին" target="Ամիրխան քեհյայի" id="71" weight="1" />
+      <edge source="Մամոյին" target="Մամոն" id="72" weight="1" />
+      <edge source="Բ . Քեչյանը" target="ԱՏՐՊԵՏ" id="73" weight="1" />
+      <edge source="Բ . Քեչյանը" target="Ատրպետը" id="74" weight="1" />
+      <edge source="Բ . Քեչյանը" target="Բ . Այվազյանը" id="75" weight="1" />
+      <edge source="Բ . Քեչյանը" target="Լեոն" id="76" weight="1" />
+      <edge source="Բ . Քեչյանը" target="Սիպիլը" id="77" weight="1" />
+      <edge source="ԱՏՐՊԵՏ" target="Ատրպետը" id="78" weight="1" />
+      <edge source="ԱՏՐՊԵՏ" target="Բ . Այվազյանը" id="79" weight="1" />
+      <edge source="ԱՏՐՊԵՏ" target="Լեոն" id="80" weight="1" />
+      <edge source="ԱՏՐՊԵՏ" target="Սիպիլը" id="81" weight="1" />
+      <edge source="Լեոն" target="Ատրպետը" id="82" weight="1" />
+      <edge source="Լեոն" target="Բ . Այվազյանը" id="83" weight="1" />
+      <edge source="Լեոն" target="Սիպիլը" id="84" weight="1" />
+      <edge source="Մրոն" target="Ամիրխան քեհյայի" id="85" weight="1" />
+      <edge source="Մրոն" target="Թեմրանը" id="86" weight="1" />
+      <edge source="Մրոն" target="Կարճ — Օհանի" id="87" weight="1" />
+      <edge source="Մրոն" target="Մինասը" id="88" weight="1" />
+      <edge source="Մրոն" target="Մինասի" id="89" weight="1" />
+      <edge source="Մրոն" target="Մրոյի" id="90" weight="1" />
+      <edge source="Մրոյի" target="Ամիրխան քեհյայի" id="91" weight="1" />
+      <edge source="Մրոյի" target="Թեմրանը" id="92" weight="1" />
+      <edge source="Մրոյի" target="Կարճ — Օհանի" id="93" weight="1" />
+      <edge source="Մրոյի" target="Մինասը" id="94" weight="1" />
+      <edge source="Մրոյի" target="Մինասի" id="95" weight="1" />
+      <edge source="Քյալաշին" target="Զահլա" id="96" weight="1" />
+      <edge source="Մինասը" target="Ամիրխան քեհյայի" id="97" weight="1" />
+      <edge source="Մինասը" target="Թեմրանը" id="98" weight="1" />
+      <edge source="Մինասը" target="Կարճ — Օհանի" id="99" weight="1" />
+      <edge source="Մինասը" target="Մինասի" id="100" weight="1" />
+      <edge source="Ամիրխան քեհյայի" target="Թեմրանը" id="101" weight="1" />
+      <edge source="Ամիրխան քեհյայի" target="Կարճ — Օհանի" id="102" weight="1" />
+      <edge source="Ամիրխան քեհյայի" target="Մինասի" id="103" weight="1" />
+      <edge source="Ամիրխան քեհյայի" target="Մամոն" id="104" weight="1" />
+      <edge source="Կարճ — Օհանի" target="Թեմրանը" id="105" weight="1" />
+      <edge source="Կարճ — Օհանի" target="Մինասի" id="106" weight="1" />
+      <edge source="Մինասի" target="Թեմրանը" id="107" weight="1" />
+      <edge source="Մինասի" target="Մամոն" id="108" weight="1" />
+      <edge source="Սուլոն" target="Մամոն" id="109" weight="1" />
+      <edge source="Սուլոն" target="Մտրակի" id="110" weight="1" />
+      <edge source="Սուլոն" target="Չլոյին" id="111" weight="1" />
+      <edge source="Չլոյին" target="Մամոն" id="112" weight="1" />
+      <edge source="Չլոյին" target="Մտրակի" id="113" weight="1" />
+      <edge source="Մտրակի" target="Մամոն" id="114" weight="1" />
+      <edge source="Ատրպետը" target="Բ . Այվազյանը" id="115" weight="1" />
+      <edge source="Ատրպետը" target="Սիպիլը" id="116" weight="1" />
+      <edge source="Մինաս քեհյա" target="Մամոն Թեմրանի" id="117" weight="1" />
+      <edge source="Սիպիլը" target="Բ . Այվազյանը" id="118" weight="1" />
+    </edges>
+  </graph>
+</gexf>

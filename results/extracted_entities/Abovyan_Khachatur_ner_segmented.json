@@ -1,0 +1,55 @@
+{
+  "segment_0": [
+    {
+      "word": "Զանգին",
+      "entity_group": "PER",
+      "score": 0.9796378016471863
+    },
+    {
+      "word": "Աստված",
+      "entity_group": "PER",
+      "score": 0.6899969577789307
+    },
+    {
+      "word": "Երաբ",
+      "entity_group": "PER",
+      "score": 0.9122205972671509
+    }
+  ],
+  "segment_1": [
+    {
+      "word": "Արեգակը",
+      "entity_group": "PER",
+      "score": 0.5415055751800537
+    }
+  ],
+  "segment_2": [
+    {
+      "word": "Կոնդումը",
+      "entity_group": "PER",
+      "score": 0.775915801525116
+    },
+    {
+      "word": "Դամուրբուլաղի",
+      "entity_group": "PER",
+      "score": 0.995988667011261
+    },
+    {
+      "word": "Պարսիկ",
+      "entity_group": "PER",
+      "score": 0.9888737201690674
+    }
+  ],
+  "segment_3": [
+    {
+      "word": "էրակլի",
+      "entity_group": "PER",
+      "score": 0.9746360778808594
+    },
+    {
+      "word": "Ալեքսանդրեն",
+      "entity_group": "PER",
+      "score": 0.9960373044013977
+    }
+  ]
+}
