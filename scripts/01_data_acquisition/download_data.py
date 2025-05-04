@@ -1,19 +1,12 @@
 import gdown
 import os
 
-# Google Drive folder URL
-folder_url = "https://drive.google.com/drive/folders/1Y4TMVwawHSgSjp9j9vozH9Go8VinWKRJ"
+folder_url = "" # Left blank for security reasons, but this code maybe useful
 
 # Extract the folder ID from the URL
 folder_id = folder_url.split('/')[-1]
-
-# Directory to save the downloaded files (relative to project root)
 output_directory = "data/raw"
-
-# Ensure the output directory exists
 os.makedirs(output_directory, exist_ok=True)
-
-# Construct the full URL for gdown
 full_gdrive_url = f'https://drive.google.com/uc?id={folder_id}&export=download'
 
 print(f"Attempting to download files from Google Drive folder ID: {folder_id}")
