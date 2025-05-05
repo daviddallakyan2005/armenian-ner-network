@@ -97,4 +97,9 @@ python scripts/04_network_building/visualize_network.py
 
 ## External Repositories
 
-This project utilizes code or models from external repositories `fairseq`, `pioner` and `ArmTokenizer`, located in the `external_repos/` directory. Refer to their respective documentation for more details if needed.
+This project utilizes code or models from the following external repositories, located in the `external_repos/` directory:
+*   [`fairseq`](https://github.com/facebookresearch/fairseq.git)
+*   [`pioner`](https://github.com/ispras-texterra/pioner.git)
+*   [`ArmTokenizer`](https://github.com/DavidDavidsonDK/ArmTokenizer.git)
+
+Refer to their respective documentation for more details if needed.
