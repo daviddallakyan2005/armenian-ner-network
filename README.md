@@ -9,7 +9,6 @@ Armenian_ML/
 ├── data/
 │   ├── processed/      # Processed text data
 │   └── raw/            # Raw text data downloaded
-├── env/                # Python virtual environment (example)
 ├── external_repos/     # External repositories (e.g., fairseq, pioner)
 ├── models/             # (Used during dev; excluded from repo - see Hugging Face link below)
 ├── results/
@@ -26,7 +25,6 @@ Armenian_ML/
 │   └── 04_network_building/
 │       ├── build_network.py    # Script to construct networks from NER results
 │       └── visualize_network.py # Script to visualize the constructed networks
-├── venv/               # Alternative Python virtual environment (example)
 ├── README.md           # This file
 └── requirements.txt    # Project dependencies
 ```
